@@ -58,6 +58,40 @@ class ERApiClient:
     def _encode_player_name(self, player_name: str) -> str:
         return quote(player_name, safe="")
 
+    def get_seasons(self, hl: str = "zh_CN") -> dict[str, Any]:
+        resp = self.session.get(
+            f"{self.BASE_URL}/data/seasons",
+            params={"hl": hl},
+            timeout=self.timeout,
+        )
+        resp.raise_for_status()
+        return resp.json()
+
+    def get_current_season_key(self, hl: str = "zh_CN") -> str:
+        data = self.get_seasons(hl=hl)
+        seasons = data.get("seasons", [])
+
+        # 优先取 isCurrent = true
+        for season in seasons:
+            if season.get("isCurrent") is True:
+                return str(season.get("key", "") or "")
+
+        # 兜底：取最大的正式赛季 SEASON_x
+        latest_key = ""
+        latest_num = -1
+        for season in seasons:
+            key = str(season.get("key", "") or "")
+            if key.startswith("SEASON_"):
+                try:
+                    num = int(key.split("_")[1])
+                except Exception:
+                    continue
+                if num > latest_num:
+                    latest_num = num
+                    latest_key = key
+
+        return latest_key or "SEASON_19"
+
     def get_profile(self, player_name: str, season: str = "SEASON_19") -> dict[str, Any]:
         encoded_name = self._encode_player_name(player_name)
         return self._get(

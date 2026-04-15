@@ -48,13 +48,23 @@ class ERProfilePlugin(Star):
         self.api = ERApiClient()
         self.mapper = DataMapper(self.assets)
         self.renderer = ERRenderer(self.assets, self.output_dir)
+        self.default_season = self._get_latest_season_key()
 
         # ===== 默认配置 =====
-        self.default_match_count = 10
+        self.default_match_count = 20
         self.max_match_count = 20
-        self.default_season = "SEASON_19"
+        self.default_season = self._get_latest_season_key()
 
         self._cleanup_task_started = False
+
+    def _get_latest_season_key(self) -> str:
+        try:
+            season_key = self.api.get_current_season_key(hl="zh_CN")
+            if season_key:
+                return season_key
+        except Exception:
+            pass
+        return "SEASON_19"
 
     def _clear_output_dir(self) -> None:
         if not self.output_dir.exists():
@@ -195,8 +205,7 @@ class ERProfilePlugin(Star):
     ):
         """
         用法:
-        /战绩 小休比
-        /战绩 小休比 15
+        /战绩 xxx
         """
 
         player_name = player_name.strip()
@@ -213,10 +222,12 @@ class ERProfilePlugin(Star):
         except Exception:
             match_count = self.default_match_count
 
-        if match_count < 10:
-            match_count = 10
+        if match_count < 20:
+            match_count = 20
         elif match_count > self.max_match_count:
             match_count = self.max_match_count
+
+        self.default_season = self._get_latest_season_key()
 
         try:
             profile_data, matches_data = self._fetch_profile_and_matches_with_retry(
