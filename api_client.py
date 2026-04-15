@@ -55,14 +55,18 @@ class ERApiClient:
 
         return data
 
+    def _encode_player_name(self, player_name: str) -> str:
+        return quote(player_name, safe="")
+
     def get_profile(self, player_name: str, season: str = "SEASON_19") -> dict[str, Any]:
+        encoded_name = self._encode_player_name(player_name)
         return self._get(
-            f"/players/{player_name}/profile",
+            f"/players/{encoded_name}/profile",
             params={"season": season},
         )
     
     def sync_player_by_name(self, player_name: str) -> dict[str, Any]:
-        encoded_name = quote(player_name, safe="")
+        encoded_name = self._encode_player_name(player_name)
         url = f"https://er.dakgg.io/api/v0/rpc/player-sync/by-name/{encoded_name}"
 
         headers = {
@@ -73,11 +77,39 @@ class ERApiClient:
         }
 
         resp = self.session.get(url, headers=headers, timeout=self.timeout)
-        resp.raise_for_status()
+
+        if resp.status_code == 404:
+            raise PlayerNotFoundError("player not found")
+
         try:
-            return resp.json()
+            resp.raise_for_status()
+        except requests.HTTPError:
+            try:
+                data = resp.json()
+                message = str(data.get("message", "")).lower()
+                code = str(data.get("code", "")).lower()
+
+                if "not found" in message or ("player" in message and "not found" in message):
+                    raise PlayerNotFoundError("player not found")
+                if code in {"player_not_found", "not_found"}:
+                    raise PlayerNotFoundError("player not found")
+            except ValueError:
+                pass
+            raise
+
+        try:
+            data = resp.json()
         except Exception:
             return {"ok": True, "text": resp.text}
+
+        if isinstance(data, dict):
+            message = str(data.get("message", "")).lower()
+            code = str(data.get("code", "")).lower()
+
+            if "not found" in message or code in {"player_not_found", "not_found"}:
+                raise PlayerNotFoundError("player not found")
+
+        return data
 
     def sync_and_wait_for_profile(
         self,
@@ -111,8 +143,9 @@ class ERApiClient:
         team_mode: str = "ALL",
         page: int = 1,
     ) -> dict[str, Any]:
+        encoded_name = self._encode_player_name(player_name)
         return self._get(
-            f"/players/{player_name}/matches",
+            f"/players/{encoded_name}/matches",
             params={
                 "season": season,
                 "matchingMode": matching_mode,
@@ -122,8 +155,9 @@ class ERApiClient:
         )
 
     def get_union_teams(self, player_name: str, season: str = "SEASON_19") -> dict[str, Any]:
+        encoded_name = self._encode_player_name(player_name)
         return self._get(
-            f"/players/{player_name}/union-teams",
+            f"/players/{encoded_name}/union-teams",
             params={"season": season},
         )
 

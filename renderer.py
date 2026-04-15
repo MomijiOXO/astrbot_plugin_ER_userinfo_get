@@ -670,18 +670,16 @@ class ERRenderer:
 
         # ===== 排位 / 一般 =====
         if is_rank_match:
-            if mmr_change > 0:
-                change_color = self.red
-            elif mmr_change < 0:
-                change_color = self.green
-            else:
-                change_color = self.text
+            triangle_x = change_x
+            triangle_y = change_y + 7
+            self._draw_delta_triangle(draw, triangle_x, triangle_y, mmr_change, size=9)
 
+            change_text = f"{abs(mmr_change)}" if mmr_change != 0 else "0"
             draw.text(
-                (change_x, change_y),
-                f"{mmr_change:+}",
+                (change_x + 15, change_y - 1),
+                change_text,
                 font=self.font_small,
-                fill=change_color,
+                fill=self.text,
             )
         else:
             draw.text(
