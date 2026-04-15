@@ -1,0 +1,836 @@
+{
+  "7000201": {
+    "id": 7000201,
+    "file": "data/assets/trait_skills/7000201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000200.png",
+    "name": "绝对武力"
+  },
+  "7000401": {
+    "id": 7000401,
+    "file": "data/assets/trait_skills/7000401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000400.png",
+    "name": "吸血鬼"
+  },
+  "7000501": {
+    "id": 7000501,
+    "file": "data/assets/trait_skills/7000501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000500.png",
+    "name": "霹雳"
+  },
+  "7000601": {
+    "id": 7000601,
+    "file": "data/assets/trait_skills/7000601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000600.png",
+    "name": "肾上腺素"
+  },
+  "7000701": {
+    "id": 7000701,
+    "file": "data/assets/trait_skills/7000701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000700.png",
+    "name": "加速度"
+  },
+  "7010101": {
+    "id": 7010101,
+    "file": "data/assets/trait_skills/7010101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310400.png",
+    "name": "制动力"
+  },
+  "7010301": {
+    "id": 7010301,
+    "file": "data/assets/trait_skills/7010301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010300.png",
+    "name": "吸灵"
+  },
+  "7010311": {
+    "id": 7010311,
+    "file": "data/assets/trait_skills/7010311.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010310.png",
+    "name": "内啡肽"
+  },
+  "7010401": {
+    "id": 7010401,
+    "file": "data/assets/trait_skills/7010401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010400.png",
+    "name": "沙漠化逆转"
+  },
+  "7010501": {
+    "id": 7010501,
+    "file": "data/assets/trait_skills/7010501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010500.png",
+    "name": "爆发力"
+  },
+  "7010601": {
+    "id": 7010601,
+    "file": "data/assets/trait_skills/7010601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010600.png",
+    "name": "吸灵装置"
+  },
+  "7010701": {
+    "id": 7010701,
+    "file": "data/assets/trait_skills/7010701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010700.png",
+    "name": "伤口撕裂"
+  },
+  "7010901": {
+    "id": 7010901,
+    "file": "data/assets/trait_skills/7010901.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010900.png",
+    "name": "狂乱"
+  },
+  "7011001": {
+    "id": 7011001,
+    "file": "data/assets/trait_skills/7011001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011000.png",
+    "name": "弱肉强食"
+  },
+  "7011101": {
+    "id": 7011101,
+    "file": "data/assets/trait_skills/7011101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011100.png",
+    "name": "猎魂・熊"
+  },
+  "7011201": {
+    "id": 7011201,
+    "file": "data/assets/trait_skills/7011201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011200.png",
+    "name": "猎魂・野猪"
+  },
+  "7011301": {
+    "id": 7011301,
+    "file": "data/assets/trait_skills/7011301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011300.png",
+    "name": "猎魂・狼"
+  },
+  "7011401": {
+    "id": 7011401,
+    "file": "data/assets/trait_skills/7011401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011400.png",
+    "name": "猎魂・野狗"
+  },
+  "7011501": {
+    "id": 7011501,
+    "file": "data/assets/trait_skills/7011501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011500.png",
+    "name": "伤痕"
+  },
+  "7100101": {
+    "id": 7100101,
+    "file": "data/assets/trait_skills/7100101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100100.png",
+    "name": "金刚碎片"
+  },
+  "7100201": {
+    "id": 7100201,
+    "file": "data/assets/trait_skills/7100201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100200.png",
+    "name": "铁匠的觉悟"
+  },
+  "7100401": {
+    "id": 7100401,
+    "file": "data/assets/trait_skills/7100401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100400.png",
+    "name": "天使护翼"
+  },
+  "7100501": {
+    "id": 7100501,
+    "file": "data/assets/trait_skills/7100501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100500.png",
+    "name": "惩戒"
+  },
+  "7110101": {
+    "id": 7110101,
+    "file": "data/assets/trait_skills/7110101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110100.png",
+    "name": "无惧感"
+  },
+  "7110201": {
+    "id": 7110201,
+    "file": "data/assets/trait_skills/7110201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110200.png",
+    "name": "特工队"
+  },
+  "7110401": {
+    "id": 7110401,
+    "file": "data/assets/trait_skills/7110401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110400.png",
+    "name": "钢化"
+  },
+  "7110601": {
+    "id": 7110601,
+    "file": "data/assets/trait_skills/7110601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110600.png",
+    "name": "贪吃蛇"
+  },
+  "7110701": {
+    "id": 7110701,
+    "file": "data/assets/trait_skills/7110701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110700.png",
+    "name": "不屈"
+  },
+  "7110801": {
+    "id": 7110801,
+    "file": "data/assets/trait_skills/7110801.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110800.png",
+    "name": "露营指南"
+  },
+  "7110901": {
+    "id": 7110901,
+    "file": "data/assets/trait_skills/7110901.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110900.png",
+    "name": "肉食主义"
+  },
+  "7111001": {
+    "id": 7111001,
+    "file": "data/assets/trait_skills/7111001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111000.png",
+    "name": "镇痛剂"
+  },
+  "7111101": {
+    "id": 7111101,
+    "file": "data/assets/trait_skills/7111101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111100.png",
+    "name": "警戒心"
+  },
+  "7111201": {
+    "id": 7111201,
+    "file": "data/assets/trait_skills/7111201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111200.png",
+    "name": "淬火"
+  },
+  "7200101": {
+    "id": 7200101,
+    "file": "data/assets/trait_skills/7200101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200100.png",
+    "name": "超再生"
+  },
+  "7200201": {
+    "id": 7200201,
+    "file": "data/assets/trait_skills/7200201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200200.png",
+    "name": "强化装置"
+  },
+  "7200301": {
+    "id": 7200301,
+    "file": "data/assets/trait_skills/7200301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200300.png",
+    "name": "治愈装置"
+  },
+  "7200401": {
+    "id": 7200401,
+    "file": "data/assets/trait_skills/7200401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200400.png",
+    "name": "追击者"
+  },
+  "7200501": {
+    "id": 7200501,
+    "file": "data/assets/trait_skills/7200501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200500.png",
+    "name": "无私"
+  },
+  "7210101": {
+    "id": 7210101,
+    "file": "data/assets/trait_skills/7210101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210100.png",
+    "name": "荆棘丛"
+  },
+  "7210401": {
+    "id": 7210401,
+    "file": "data/assets/trait_skills/7210401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210400.png",
+    "name": "补给员"
+  },
+  "7210501": {
+    "id": 7210501,
+    "file": "data/assets/trait_skills/7210501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210500.png",
+    "name": "战争机器"
+  },
+  "7210801": {
+    "id": 7210801,
+    "file": "data/assets/trait_skills/7210801.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210800.png",
+    "name": "优惠券"
+  },
+  "7211001": {
+    "id": 7211001,
+    "file": "data/assets/trait_skills/7211001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211000.png",
+    "name": "狩猎的快感"
+  },
+  "7211101": {
+    "id": 7211101,
+    "file": "data/assets/trait_skills/7211101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211100.png",
+    "name": "金币法则"
+  },
+  "7211301": {
+    "id": 7211301,
+    "file": "data/assets/trait_skills/7211301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211300.png",
+    "name": "爆炸仙人掌"
+  },
+  "7211401": {
+    "id": 7211401,
+    "file": "data/assets/trait_skills/7211401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211400.png",
+    "name": "压迫感"
+  },
+  "7300101": {
+    "id": 7300101,
+    "file": "data/assets/trait_skills/7300101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300100.png",
+    "name": "星尘蓄势"
+  },
+  "7300201": {
+    "id": 7300201,
+    "file": "data/assets/trait_skills/7300201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300200.png",
+    "name": "鬼火"
+  },
+  "7300301": {
+    "id": 7300301,
+    "file": "data/assets/trait_skills/7300301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300300.png",
+    "name": "涡流"
+  },
+  "7310101": {
+    "id": 7310101,
+    "file": "data/assets/trait_skills/7310101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310100.png",
+    "name": "凝力"
+  },
+  "7310201": {
+    "id": 7310201,
+    "file": "data/assets/trait_skills/7310201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310200.png",
+    "name": "循环系统"
+  },
+  "7310301": {
+    "id": 7310301,
+    "file": "data/assets/trait_skills/7310301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310300.png",
+    "name": "超频"
+  },
+  "7310401": {
+    "id": 7310401,
+    "file": "data/assets/trait_skills/7310401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310400.png",
+    "name": "制动力"
+  },
+  "7310501": {
+    "id": 7310501,
+    "file": "data/assets/trait_skills/7310501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310500.png",
+    "name": "R_echarger"
+  },
+  "7310601": {
+    "id": 7310601,
+    "file": "data/assets/trait_skills/7310601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310600.png",
+    "name": "急速射击"
+  },
+  "7910101": {
+    "id": 7910101,
+    "file": "data/assets/trait_skills/7910101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010120.png",
+    "name": "攻击力 I"
+  },
+  "7910111": {
+    "id": 7910111,
+    "file": "data/assets/trait_skills/7910111.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010220.png",
+    "name": "攻击力 II"
+  },
+  "7910121": {
+    "id": 7910121,
+    "file": "data/assets/trait_skills/7910121.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010320.png",
+    "name": "攻击力 III"
+  },
+  "7910201": {
+    "id": 7910201,
+    "file": "data/assets/trait_skills/7910201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020120.png",
+    "name": "防御力 I"
+  },
+  "7910211": {
+    "id": 7910211,
+    "file": "data/assets/trait_skills/7910211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020220.png",
+    "name": "防御力 II"
+  },
+  "7910221": {
+    "id": 7910221,
+    "file": "data/assets/trait_skills/7910221.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020320.png",
+    "name": "防御力 III"
+  },
+  "7910301": {
+    "id": 7910301,
+    "file": "data/assets/trait_skills/7910301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030120.png",
+    "name": "攻击速度 I"
+  },
+  "7910311": {
+    "id": 7910311,
+    "file": "data/assets/trait_skills/7910311.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030220.png",
+    "name": "攻击速度 II"
+  },
+  "7910321": {
+    "id": 7910321,
+    "file": "data/assets/trait_skills/7910321.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030320.png",
+    "name": "攻击速度 IIl"
+  },
+  "7910401": {
+    "id": 7910401,
+    "file": "data/assets/trait_skills/7910401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040120.png",
+    "name": "移动速度 I"
+  },
+  "7910411": {
+    "id": 7910411,
+    "file": "data/assets/trait_skills/7910411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040220.png",
+    "name": "移动速度 II"
+  },
+  "7910421": {
+    "id": 7910421,
+    "file": "data/assets/trait_skills/7910421.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040320.png",
+    "name": "移动速度 Ill"
+  },
+  "7910501": {
+    "id": 7910501,
+    "file": "data/assets/trait_skills/7910501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050120.png",
+    "name": "冷却缩减 I"
+  },
+  "7910511": {
+    "id": 7910511,
+    "file": "data/assets/trait_skills/7910511.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050220.png",
+    "name": "冷却缩减 Il"
+  },
+  "7910521": {
+    "id": 7910521,
+    "file": "data/assets/trait_skills/7910521.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050320.png",
+    "name": "冷却缩减 Ill"
+  },
+  "7910601": {
+    "id": 7910601,
+    "file": "data/assets/trait_skills/7910601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080120.png",
+    "name": "暴击伤害 I"
+  },
+  "7910611": {
+    "id": 7910611,
+    "file": "data/assets/trait_skills/7910611.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080220.png",
+    "name": "暴击伤害 Il"
+  },
+  "7910621": {
+    "id": 7910621,
+    "file": "data/assets/trait_skills/7910621.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080320.png",
+    "name": "暴击伤害 Ill"
+  },
+  "7910701": {
+    "id": 7910701,
+    "file": "data/assets/trait_skills/7910701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+    "name": "技能增幅 I"
+  },
+  "7910711": {
+    "id": 7910711,
+    "file": "data/assets/trait_skills/7910711.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070220.png",
+    "name": "技能增幅 Il"
+  },
+  "7910721": {
+    "id": 7910721,
+    "file": "data/assets/trait_skills/7910721.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070320.png",
+    "name": "技能增幅 Ill"
+  },
+  "7920101": {
+    "id": 7920101,
+    "file": "data/assets/trait_skills/7920101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+    "name": "铁壁 I"
+  },
+  "7920102": {
+    "id": 7920102,
+    "file": "data/assets/trait_skills/7920102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+    "name": "铁壁 Il"
+  },
+  "7920103": {
+    "id": 7920103,
+    "file": "data/assets/trait_skills/7920103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+    "name": "铁壁 Ill"
+  },
+  "7920301": {
+    "id": 7920301,
+    "file": "data/assets/trait_skills/7920301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+    "name": "寄生虫 I"
+  },
+  "7920302": {
+    "id": 7920302,
+    "file": "data/assets/trait_skills/7920302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+    "name": "寄生虫 Il"
+  },
+  "7920303": {
+    "id": 7920303,
+    "file": "data/assets/trait_skills/7920303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+    "name": "寄生虫 Ill"
+  },
+  "7920401": {
+    "id": 7920401,
+    "file": "data/assets/trait_skills/7920401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+    "name": "壮烈牺牲 I"
+  },
+  "7920402": {
+    "id": 7920402,
+    "file": "data/assets/trait_skills/7920402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+    "name": "壮烈牺牲 Il"
+  },
+  "7920403": {
+    "id": 7920403,
+    "file": "data/assets/trait_skills/7920403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+    "name": "壮烈牺牲 Ill"
+  },
+  "7920501": {
+    "id": 7920501,
+    "file": "data/assets/trait_skills/7920501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+    "name": "嗜睡虫 I"
+  },
+  "7920502": {
+    "id": 7920502,
+    "file": "data/assets/trait_skills/7920502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+    "name": "嗜睡虫 Il"
+  },
+  "7920503": {
+    "id": 7920503,
+    "file": "data/assets/trait_skills/7920503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+    "name": "嗜睡虫 Ill"
+  },
+  "7920603": {
+    "id": 7920603,
+    "file": "data/assets/trait_skills/7920603.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792060320.png",
+    "name": "重生细胞"
+  },
+  "7920701": {
+    "id": 7920701,
+    "file": "data/assets/trait_skills/7920701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+    "name": "全能者 I"
+  },
+  "7920702": {
+    "id": 7920702,
+    "file": "data/assets/trait_skills/7920702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+    "name": "全能者 Il"
+  },
+  "7920703": {
+    "id": 7920703,
+    "file": "data/assets/trait_skills/7920703.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+    "name": "全能者 Ill"
+  },
+  "7920801": {
+    "id": 7920801,
+    "file": "data/assets/trait_skills/7920801.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+    "name": "女巫沼泽 I"
+  },
+  "7920802": {
+    "id": 7920802,
+    "file": "data/assets/trait_skills/7920802.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+    "name": "女巫沼泽 Il"
+  },
+  "7920803": {
+    "id": 7920803,
+    "file": "data/assets/trait_skills/7920803.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+    "name": "女巫沼泽 Ill"
+  },
+  "7920903": {
+    "id": 7920903,
+    "file": "data/assets/trait_skills/7920903.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792090320.png",
+    "name": "缄口令"
+  },
+  "7921003": {
+    "id": 7921003,
+    "file": "data/assets/trait_skills/7921003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792100320.png",
+    "name": "等离子新星"
+  },
+  "7921101": {
+    "id": 7921101,
+    "file": "data/assets/trait_skills/7921101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+    "name": "时间探索者 I"
+  },
+  "7921102": {
+    "id": 7921102,
+    "file": "data/assets/trait_skills/7921102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+    "name": "时间探索者 Il"
+  },
+  "7921103": {
+    "id": 7921103,
+    "file": "data/assets/trait_skills/7921103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+    "name": "时间探索者"
+  },
+  "7921203": {
+    "id": 7921203,
+    "file": "data/assets/trait_skills/7921203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792120320.png",
+    "name": "大力士"
+  },
+  "7921301": {
+    "id": 7921301,
+    "file": "data/assets/trait_skills/7921301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+    "name": "充能过量 I"
+  },
+  "7921302": {
+    "id": 7921302,
+    "file": "data/assets/trait_skills/7921302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+    "name": "充能过量 Il"
+  },
+  "7921303": {
+    "id": 7921303,
+    "file": "data/assets/trait_skills/7921303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+    "name": "充能过量"
+  },
+  "7921401": {
+    "id": 7921401,
+    "file": "data/assets/trait_skills/7921401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+    "name": "收藏家 I"
+  },
+  "7921402": {
+    "id": 7921402,
+    "file": "data/assets/trait_skills/7921402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+    "name": "收藏家 Il"
+  },
+  "7921403": {
+    "id": 7921403,
+    "file": "data/assets/trait_skills/7921403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+    "name": "收藏家 Ill"
+  },
+  "7921501": {
+    "id": 7921501,
+    "file": "data/assets/trait_skills/7921501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+    "name": "迷失森林 I"
+  },
+  "7921502": {
+    "id": 7921502,
+    "file": "data/assets/trait_skills/7921502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+    "name": "迷失森林 Il"
+  },
+  "7921503": {
+    "id": 7921503,
+    "file": "data/assets/trait_skills/7921503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+    "name": "迷失森林"
+  },
+  "7921602": {
+    "id": 7921602,
+    "file": "data/assets/trait_skills/7921602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792160220.png",
+    "name": "救生袋"
+  },
+  "7921701": {
+    "id": 7921701,
+    "file": "data/assets/trait_skills/7921701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+    "name": "机动突击队 I"
+  },
+  "7921702": {
+    "id": 7921702,
+    "file": "data/assets/trait_skills/7921702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+    "name": "机动突击队 Il"
+  },
+  "7921703": {
+    "id": 7921703,
+    "file": "data/assets/trait_skills/7921703.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+    "name": "机动突击队"
+  },
+  "7921903": {
+    "id": 7921903,
+    "file": "data/assets/trait_skills/7921903.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792190220.png",
+    "name": "瓦尔基里驱动"
+  },
+  "7922003": {
+    "id": 7922003,
+    "file": "data/assets/trait_skills/7922003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792200320.png",
+    "name": "A.M.D.S"
+  },
+  "7922102": {
+    "id": 7922102,
+    "file": "data/assets/trait_skills/7922102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792210220.png",
+    "name": "地震波"
+  },
+  "7922201": {
+    "id": 7922201,
+    "file": "data/assets/trait_skills/7922201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+    "name": "伤口恶化 I"
+  },
+  "7922202": {
+    "id": 7922202,
+    "file": "data/assets/trait_skills/7922202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+    "name": "伤口恶化 Il"
+  },
+  "7922203": {
+    "id": 7922203,
+    "file": "data/assets/trait_skills/7922203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+    "name": "伤口恶化"
+  },
+  "7922302": {
+    "id": 7922302,
+    "file": "data/assets/trait_skills/7922302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792230220.png",
+    "name": "制动力"
+  },
+  "7922402": {
+    "id": 7922402,
+    "file": "data/assets/trait_skills/7922402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792240220.png",
+    "name": "吸灵 Mk2"
+  },
+  "7922502": {
+    "id": 7922502,
+    "file": "data/assets/trait_skills/7922502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792250220.png",
+    "name": "强心针"
+  },
+  "7922602": {
+    "id": 7922602,
+    "file": "data/assets/trait_skills/7922602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792260220.png",
+    "name": "钢化"
+  },
+  "7922702": {
+    "id": 7922702,
+    "file": "data/assets/trait_skills/7922702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792270220.png",
+    "name": "荆棘丛"
+  },
+  "7922803": {
+    "id": 7922803,
+    "file": "data/assets/trait_skills/7922803.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792280320.png",
+    "name": "代理人"
+  },
+  "7922903": {
+    "id": 7922903,
+    "file": "data/assets/trait_skills/7922903.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792290320.png",
+    "name": "毒脚印"
+  },
+  "7923101": {
+    "id": 7923101,
+    "file": "data/assets/trait_skills/7923101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+    "name": "山鸣 I"
+  },
+  "7923102": {
+    "id": 7923102,
+    "file": "data/assets/trait_skills/7923102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+    "name": "山鸣 II"
+  },
+  "7923103": {
+    "id": 7923103,
+    "file": "data/assets/trait_skills/7923103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+    "name": "山鸣"
+  },
+  "7923302": {
+    "id": 7923302,
+    "file": "data/assets/trait_skills/7923302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792380220.png",
+    "name": "超频"
+  },
+  "7923401": {
+    "id": 7923401,
+    "file": "data/assets/trait_skills/7923401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792600320.png",
+    "name": "重力场"
+  },
+  "7923411": {
+    "id": 7923411,
+    "file": "data/assets/trait_skills/7923411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792700320.png",
+    "name": "滚雷"
+  },
+  "7923421": {
+    "id": 7923421,
+    "file": "data/assets/trait_skills/7923421.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792800320.png",
+    "name": "地碎"
+  },
+  "7923502": {
+    "id": 7923502,
+    "file": "data/assets/trait_skills/7923502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792370220.png",
+    "name": "不屈"
+  },
+  "7923602": {
+    "id": 7923602,
+    "file": "data/assets/trait_skills/7923602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792360220.png",
+    "name": "镇痛剂"
+  },
+  "7923703": {
+    "id": 7923703,
+    "file": "data/assets/trait_skills/7923703.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792350320.png",
+    "name": "最后通牒"
+  },
+  "7923803": {
+    "id": 7923803,
+    "file": "data/assets/trait_skills/7923803.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792340320.png",
+    "name": "刹那的梦魇"
+  },
+  "7923903": {
+    "id": 7923903,
+    "file": "data/assets/trait_skills/7923903.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792330320.png",
+    "name": "卡特罗兹"
+  }
+}

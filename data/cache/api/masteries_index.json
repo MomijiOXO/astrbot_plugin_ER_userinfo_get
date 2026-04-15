@@ -1,0 +1,163 @@
+{
+  "1": {
+    "id": 1,
+    "file": "data/assets/masteries/1.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Glove.png",
+    "name": "拳套",
+    "key": "Glove"
+  },
+  "2": {
+    "id": 2,
+    "file": "data/assets/masteries/2.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Tonfa.png",
+    "name": "旋棍",
+    "key": "Tonfa"
+  },
+  "3": {
+    "id": 3,
+    "file": "data/assets/masteries/3.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Bat.png",
+    "name": "棍棒",
+    "key": "Bat"
+  },
+  "4": {
+    "id": 4,
+    "file": "data/assets/masteries/4.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Whip.png",
+    "name": "鞭子",
+    "key": "Whip"
+  },
+  "5": {
+    "id": 5,
+    "file": "data/assets/masteries/5.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_HighAngleFire.png",
+    "name": "投掷",
+    "key": "HighAngleFire"
+  },
+  "6": {
+    "id": 6,
+    "file": "data/assets/masteries/6.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_DirectFire.png",
+    "name": "暗器",
+    "key": "DirectFire"
+  },
+  "7": {
+    "id": 7,
+    "file": "data/assets/masteries/7.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Bow.png",
+    "name": "弓",
+    "key": "Bow"
+  },
+  "8": {
+    "id": 8,
+    "file": "data/assets/masteries/8.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_CrossBow.png",
+    "name": "弩",
+    "key": "CrossBow"
+  },
+  "9": {
+    "id": 9,
+    "file": "data/assets/masteries/9.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Pistol.png",
+    "name": "手枪",
+    "key": "Pistol"
+  },
+  "10": {
+    "id": 10,
+    "file": "data/assets/masteries/10.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_AssaultRifle.png",
+    "name": "突击步枪",
+    "key": "AssaultRifle"
+  },
+  "11": {
+    "id": 11,
+    "file": "data/assets/masteries/11.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_SniperRifle.png",
+    "name": "狙击枪",
+    "key": "SniperRifle"
+  },
+  "13": {
+    "id": 13,
+    "file": "data/assets/masteries/13.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Hammer.png",
+    "name": "锤子",
+    "key": "Hammer"
+  },
+  "14": {
+    "id": 14,
+    "file": "data/assets/masteries/14.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Axe.png",
+    "name": "斧子",
+    "key": "Axe"
+  },
+  "15": {
+    "id": 15,
+    "file": "data/assets/masteries/15.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_OneHandSword.png",
+    "name": "短剑",
+    "key": "OneHandSword"
+  },
+  "16": {
+    "id": 16,
+    "file": "data/assets/masteries/16.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_TwoHandSword.png",
+    "name": "双手剑",
+    "key": "TwoHandSword"
+  },
+  "18": {
+    "id": 18,
+    "file": "data/assets/masteries/18.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_DualSword.png",
+    "name": "双剑",
+    "key": "DualSword"
+  },
+  "19": {
+    "id": 19,
+    "file": "data/assets/masteries/19.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Spear.png",
+    "name": "枪",
+    "key": "Spear"
+  },
+  "20": {
+    "id": 20,
+    "file": "data/assets/masteries/20.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Nunchaku.png",
+    "name": "双节棍",
+    "key": "Nunchaku"
+  },
+  "21": {
+    "id": 21,
+    "file": "data/assets/masteries/21.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Rapier.png",
+    "name": "西洋剑",
+    "key": "Rapier"
+  },
+  "22": {
+    "id": 22,
+    "file": "data/assets/masteries/22.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Guitar.png",
+    "name": "吉他",
+    "key": "Guitar"
+  },
+  "23": {
+    "id": 23,
+    "file": "data/assets/masteries/23.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Camera.png",
+    "name": "相机",
+    "key": "Camera"
+  },
+  "24": {
+    "id": 24,
+    "file": "data/assets/masteries/24.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_Arcana.png",
+    "name": "圣器",
+    "key": "Arcana"
+  },
+  "25": {
+    "id": 25,
+    "file": "data/assets/masteries/25.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Ico_Ability_VFArm.png",
+    "name": "VF机械臂",
+    "key": "VFArm"
+  }
+}

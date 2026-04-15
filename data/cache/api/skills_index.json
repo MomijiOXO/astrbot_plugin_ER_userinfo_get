@@ -1,0 +1,3875 @@
+{
+  "1001100": {
+    "id": 1001100,
+    "file": "data/assets/skills/1001100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1001300.png",
+    "name": "鲜血盛宴",
+    "slot": "T",
+    "characterId": 1
+  },
+  "1001200": {
+    "id": 1001200,
+    "file": "data/assets/skills/1001200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1001200.png",
+    "name": "连斩",
+    "slot": "Q",
+    "characterId": 1
+  },
+  "1001300": {
+    "id": 1001300,
+    "file": "data/assets/skills/1001300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1001100.png",
+    "name": "断筋",
+    "slot": "W",
+    "characterId": 1
+  },
+  "1001400": {
+    "id": 1001400,
+    "file": "data/assets/skills/1001400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1001400.png",
+    "name": "袭击",
+    "slot": "E",
+    "characterId": 1
+  },
+  "1001500": {
+    "id": 1001500,
+    "file": "data/assets/skills/1001500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1001500.png",
+    "name": "电锯杀人狂",
+    "slot": "R",
+    "characterId": 1
+  },
+  "1002100": {
+    "id": 1002100,
+    "file": "data/assets/skills/1002100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1002100.png",
+    "name": "阿雅之正义",
+    "slot": "T",
+    "characterId": 2
+  },
+  "1002200": {
+    "id": 1002200,
+    "file": "data/assets/skills/1002200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1002200.png",
+    "name": "二连射",
+    "slot": "Q",
+    "characterId": 2
+  },
+  "1002300": {
+    "id": 1002300,
+    "file": "data/assets/skills/1002300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1002300.png",
+    "name": "稳定射击",
+    "slot": "W",
+    "characterId": 2
+  },
+  "1002400": {
+    "id": 1002400,
+    "file": "data/assets/skills/1002400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1002400.png",
+    "name": "转弯",
+    "slot": "E",
+    "characterId": 2
+  },
+  "1002500": {
+    "id": 1002500,
+    "file": "data/assets/skills/1002500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1002500.png",
+    "name": "空弹",
+    "slot": "R",
+    "characterId": 2
+  },
+  "1003100": {
+    "id": 1003100,
+    "file": "data/assets/skills/1003100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1003100.png",
+    "name": "刺击",
+    "slot": "T",
+    "characterId": 3
+  },
+  "1003200": {
+    "id": 1003200,
+    "file": "data/assets/skills/1003200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1003200.png",
+    "name": "长刺",
+    "slot": "Q",
+    "characterId": 3
+  },
+  "1003300": {
+    "id": 1003300,
+    "file": "data/assets/skills/1003300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1003300.png",
+    "name": "复杂进攻",
+    "slot": "W",
+    "characterId": 3
+  },
+  "1003400": {
+    "id": 1003400,
+    "file": "data/assets/skills/1003400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1003400.png",
+    "name": "前进&后退",
+    "slot": "E",
+    "characterId": 3
+  },
+  "1003500": {
+    "id": 1003500,
+    "file": "data/assets/skills/1003500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1003500.png",
+    "name": "飞刺",
+    "slot": "R",
+    "characterId": 3
+  },
+  "1004100": {
+    "id": 1004100,
+    "file": "data/assets/skills/1004100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1004100.png",
+    "name": "意志",
+    "slot": "T",
+    "characterId": 4
+  },
+  "1004200": {
+    "id": 1004200,
+    "file": "data/assets/skills/1004200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1004200.png",
+    "name": "破碎弹",
+    "slot": "Q",
+    "characterId": 4
+  },
+  "1004300": {
+    "id": 1004300,
+    "file": "data/assets/skills/1004300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1004300.png",
+    "name": "17对1",
+    "slot": "W",
+    "characterId": 4
+  },
+  "1004400": {
+    "id": 1004400,
+    "file": "data/assets/skills/1004400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1004400.png",
+    "name": "猛击",
+    "slot": "E",
+    "characterId": 4
+  },
+  "1004500": {
+    "id": 1004500,
+    "file": "data/assets/skills/1004500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1004500.png",
+    "name": "暴走飞车",
+    "slot": "R",
+    "characterId": 4
+  },
+  "1005100": {
+    "id": 1005100,
+    "file": "data/assets/skills/1005100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1005100.png",
+    "name": "死神之目",
+    "slot": "T",
+    "characterId": 5
+  },
+  "1005200": {
+    "id": 1005200,
+    "file": "data/assets/skills/1005200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1005200.png",
+    "name": "那罗延法宝",
+    "slot": "Q",
+    "characterId": 5
+  },
+  "1005300": {
+    "id": 1005300,
+    "file": "data/assets/skills/1005300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1005300.png",
+    "name": "甘狄拔",
+    "slot": "W",
+    "characterId": 5
+  },
+  "1005400": {
+    "id": 1005400,
+    "file": "data/assets/skills/1005400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1005400.png",
+    "name": "风神法宝",
+    "slot": "E",
+    "characterId": 5
+  },
+  "1005500": {
+    "id": 1005500,
+    "file": "data/assets/skills/1005500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1005500.png",
+    "name": "跋尔伽婆",
+    "slot": "R",
+    "characterId": 5
+  },
+  "1006100": {
+    "id": 1006100,
+    "file": "data/assets/skills/1006100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1006100.png",
+    "name": "野性",
+    "slot": "T",
+    "characterId": 6
+  },
+  "1006200": {
+    "id": 1006200,
+    "file": "data/assets/skills/1006200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1006200.png",
+    "name": "黄牛之眼",
+    "slot": "Q",
+    "characterId": 6
+  },
+  "1006300": {
+    "id": 1006300,
+    "file": "data/assets/skills/1006300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1006300.png",
+    "name": "松鼠陷阱",
+    "slot": "W",
+    "characterId": 6
+  },
+  "1006400": {
+    "id": 1006400,
+    "file": "data/assets/skills/1006400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1006400.png",
+    "name": "猿猴的钢丝绳",
+    "slot": "E",
+    "characterId": 6
+  },
+  "1006500": {
+    "id": 1006500,
+    "file": "data/assets/skills/1006500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1006500.png",
+    "name": "狼之猛袭",
+    "slot": "R",
+    "characterId": 6
+  },
+  "1007100": {
+    "id": 1007100,
+    "file": "data/assets/skills/1007100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1007100.png",
+    "name": "鏖战",
+    "slot": "T",
+    "characterId": 7
+  },
+  "1007200": {
+    "id": 1007200,
+    "file": "data/assets/skills/1007200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1007200.png",
+    "name": "踩踏",
+    "slot": "Q",
+    "characterId": 7
+  },
+  "1007300": {
+    "id": 1007300,
+    "file": "data/assets/skills/1007300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1007300.png",
+    "name": "虚张声势",
+    "slot": "W",
+    "characterId": 7
+  },
+  "1007400": {
+    "id": 1007400,
+    "file": "data/assets/skills/1007400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1007400.png",
+    "name": "先发制人",
+    "slot": "E",
+    "characterId": 7
+  },
+  "1007500": {
+    "id": 1007500,
+    "file": "data/assets/skills/1007500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1007500.png",
+    "name": "核冲击",
+    "slot": "R",
+    "characterId": 7
+  },
+  "1008100": {
+    "id": 1008100,
+    "file": "data/assets/skills/1008100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1008100_E.png",
+    "name": "心灵治愈",
+    "slot": "T",
+    "characterId": 8
+  },
+  "1008200": {
+    "id": 1008200,
+    "file": "data/assets/skills/1008200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1008200_E.png",
+    "name": "延音",
+    "slot": "Q",
+    "characterId": 8
+  },
+  "1008300": {
+    "id": 1008300,
+    "file": "data/assets/skills/1008300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1008300_E.png",
+    "name": "破音",
+    "slot": "W",
+    "characterId": 8
+  },
+  "1008400": {
+    "id": 1008400,
+    "file": "data/assets/skills/1008400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1008400_E.png",
+    "name": "震音",
+    "slot": "E",
+    "characterId": 8
+  },
+  "1008500": {
+    "id": 1008500,
+    "file": "data/assets/skills/1008500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1008500_E.png",
+    "name": "Peacemaker",
+    "slot": "R",
+    "characterId": 8
+  },
+  "1009100": {
+    "id": 1009100,
+    "file": "data/assets/skills/1009100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1009100.png",
+    "name": "游击战术",
+    "slot": "T",
+    "characterId": 9
+  },
+  "1009200": {
+    "id": 1009200,
+    "file": "data/assets/skills/1009200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1009200.png",
+    "name": "军事用炸药",
+    "slot": "Q",
+    "characterId": 9
+  },
+  "1009300": {
+    "id": 1009300,
+    "file": "data/assets/skills/1009300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1009300.png",
+    "name": "叛军突击",
+    "slot": "W",
+    "characterId": 9
+  },
+  "1009400": {
+    "id": 1009400,
+    "file": "data/assets/skills/1009400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1009400.png",
+    "name": "伪装潜行",
+    "slot": "E",
+    "characterId": 9
+  },
+  "1009500": {
+    "id": 1009500,
+    "file": "data/assets/skills/1009500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1009500.png",
+    "name": "MOK 军用地雷",
+    "slot": "R",
+    "characterId": 9
+  },
+  "1010100": {
+    "id": 1010100,
+    "file": "data/assets/skills/1010100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1010100.png",
+    "name": "酒醉值",
+    "slot": "T",
+    "characterId": 10
+  },
+  "1010200": {
+    "id": 1010200,
+    "file": "data/assets/skills/1010200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1010200.png",
+    "name": "八卦回龙腿",
+    "slot": "Q",
+    "characterId": 10
+  },
+  "1010300": {
+    "id": 1010300,
+    "file": "data/assets/skills/1010300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1010300.png",
+    "name": "醉葫猛酌",
+    "slot": "W",
+    "characterId": 10
+  },
+  "1010400": {
+    "id": 1010400,
+    "file": "data/assets/skills/1010400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1010400.png",
+    "name": "醉蝶敬酒",
+    "slot": "E",
+    "characterId": 10
+  },
+  "1010500": {
+    "id": 1010500,
+    "file": "data/assets/skills/1010500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1010500.png",
+    "name": "猛虎穿心踢",
+    "slot": "R",
+    "characterId": 10
+  },
+  "1011100": {
+    "id": 1011100,
+    "file": "data/assets/skills/1011100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1011100.png",
+    "name": "武装式",
+    "slot": "T",
+    "characterId": 11
+  },
+  "1011200": {
+    "id": 1011200,
+    "file": "data/assets/skills/1011200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1011200.png",
+    "name": "气刃斩",
+    "slot": "Q",
+    "characterId": 11
+  },
+  "1011300": {
+    "id": 1011300,
+    "file": "data/assets/skills/1011300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1011300.png",
+    "name": "武士道",
+    "slot": "W",
+    "characterId": 11
+  },
+  "1011400": {
+    "id": 1011400,
+    "file": "data/assets/skills/1011400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1011400.png",
+    "name": "樱花流",
+    "slot": "E",
+    "characterId": 11
+  },
+  "1011500": {
+    "id": 1011500,
+    "file": "data/assets/skills/1011500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1011500.png",
+    "name": "樱月剑舞",
+    "slot": "R",
+    "characterId": 11
+  },
+  "1012100": {
+    "id": 1012100,
+    "file": "data/assets/skills/1012100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1012100.png",
+    "name": "三灾",
+    "slot": "T",
+    "characterId": 12
+  },
+  "1012200": {
+    "id": 1012200,
+    "file": "data/assets/skills/1012200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1012200.png",
+    "name": "镇压符",
+    "slot": "Q",
+    "characterId": 12
+  },
+  "1012300": {
+    "id": 1012300,
+    "file": "data/assets/skills/1012300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1012300.png",
+    "name": "吸灵符",
+    "slot": "W",
+    "characterId": 12
+  },
+  "1012400": {
+    "id": 1012400,
+    "file": "data/assets/skills/1012400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1012400.png",
+    "name": "移动符",
+    "slot": "E",
+    "characterId": 12
+  },
+  "1012500": {
+    "id": 1012500,
+    "file": "data/assets/skills/1012500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1012500.png",
+    "name": "五大明王阵",
+    "slot": "R",
+    "characterId": 12
+  },
+  "1013100": {
+    "id": 1013100,
+    "file": "data/assets/skills/1013100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013100.png",
+    "name": "料理师的热情",
+    "slot": "T",
+    "characterId": 13
+  },
+  "1013200": {
+    "id": 1013200,
+    "file": "data/assets/skills/1013200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013200.png",
+    "name": "秘制酱油",
+    "slot": "Q",
+    "characterId": 13
+  },
+  "1013300": {
+    "id": 1013300,
+    "file": "data/assets/skills/1013300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013300.png",
+    "name": "吃饭时间",
+    "slot": "W",
+    "characterId": 13
+  },
+  "1013400": {
+    "id": 1013400,
+    "file": "data/assets/skills/1013400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013410.png",
+    "name": "翻滚吧！锅子！",
+    "slot": "E",
+    "characterId": 13
+  },
+  "1013410": {
+    "id": 1013410,
+    "file": "data/assets/skills/1013410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013400.png",
+    "name": "盛宴",
+    "slot": "E",
+    "characterId": 13
+  },
+  "1013500": {
+    "id": 1013500,
+    "file": "data/assets/skills/1013500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1013500.png",
+    "name": "火冒三丈",
+    "slot": "R",
+    "characterId": 13
+  },
+  "1014100": {
+    "id": 1014100,
+    "file": "data/assets/skills/1014100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014100.png",
+    "name": "烙印",
+    "slot": "T",
+    "characterId": 14
+  },
+  "1014200": {
+    "id": 1014200,
+    "file": "data/assets/skills/1014200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014200.png",
+    "name": "暗之洗礼",
+    "slot": "Q",
+    "characterId": 14
+  },
+  "1014300": {
+    "id": 1014300,
+    "file": "data/assets/skills/1014300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014400.png",
+    "name": "不贞洁的祈祷",
+    "slot": "W",
+    "characterId": 14
+  },
+  "1014400": {
+    "id": 1014400,
+    "file": "data/assets/skills/1014400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014300.png",
+    "name": "深渊枷锁",
+    "slot": "E",
+    "characterId": 14
+  },
+  "1014500": {
+    "id": 1014500,
+    "file": "data/assets/skills/1014500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014500.png",
+    "name": "献祭炼狱",
+    "slot": "R",
+    "characterId": 14
+  },
+  "1014510": {
+    "id": 1014510,
+    "file": "data/assets/skills/1014510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1014600.png",
+    "name": "最后的审判",
+    "slot": "R",
+    "characterId": 14
+  },
+  "1015100": {
+    "id": 1015100,
+    "file": "data/assets/skills/1015100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1015100.png",
+    "name": "苦痛的记忆",
+    "slot": "T",
+    "characterId": 15
+  },
+  "1015200": {
+    "id": 1015200,
+    "file": "data/assets/skills/1015200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1015200.png",
+    "name": "去吧！威尔逊！",
+    "slot": "Q",
+    "characterId": 15
+  },
+  "1015300": {
+    "id": 1015300,
+    "file": "data/assets/skills/1015300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1015300.png",
+    "name": "小威！保护我！",
+    "slot": "W",
+    "characterId": 15
+  },
+  "1015400": {
+    "id": 1015400,
+    "file": "data/assets/skills/1015400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1015400.png",
+    "name": "一起玩吧！",
+    "slot": "E",
+    "characterId": 15
+  },
+  "1015500": {
+    "id": 1015500,
+    "file": "data/assets/skills/1015500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1015500.png",
+    "name": "最终解脱",
+    "slot": "R",
+    "characterId": 15
+  },
+  "1016100": {
+    "id": 1016100,
+    "file": "data/assets/skills/1016100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016100.png",
+    "name": "卢米亚越野赛",
+    "slot": "T",
+    "characterId": 16
+  },
+  "1016200": {
+    "id": 1016200,
+    "file": "data/assets/skills/1016200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016200.png",
+    "name": "雷达枪",
+    "slot": "Q",
+    "characterId": 16
+  },
+  "1016300": {
+    "id": 1016300,
+    "file": "data/assets/skills/1016300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016300.png",
+    "name": "终点线",
+    "slot": "W",
+    "characterId": 16
+  },
+  "1016400": {
+    "id": 1016400,
+    "file": "data/assets/skills/1016400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016400.png",
+    "name": "备用轮",
+    "slot": "E",
+    "characterId": 16
+  },
+  "1016500": {
+    "id": 1016500,
+    "file": "data/assets/skills/1016500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016500.png",
+    "name": "极限骑乘",
+    "slot": "R",
+    "characterId": 16
+  },
+  "1016600": {
+    "id": 1016600,
+    "file": "data/assets/skills/1016600.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016600.png",
+    "name": "闪电旋转",
+    "slot": "Q",
+    "characterId": 16
+  },
+  "1016700": {
+    "id": 1016700,
+    "file": "data/assets/skills/1016700.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016700.png",
+    "name": "腾空飞跃",
+    "slot": "W",
+    "characterId": 16
+  },
+  "1016800": {
+    "id": 1016800,
+    "file": "data/assets/skills/1016800.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016800.png",
+    "name": "孤轮疾驰",
+    "slot": "E",
+    "characterId": 16
+  },
+  "1016900": {
+    "id": 1016900,
+    "file": "data/assets/skills/1016900.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1016900.png",
+    "name": "极限骑乘",
+    "slot": "R",
+    "characterId": 16
+  },
+  "1017100": {
+    "id": 1017100,
+    "file": "data/assets/skills/1017100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1017100.png",
+    "name": "纵火狂",
+    "slot": "T",
+    "characterId": 17
+  },
+  "1017200": {
+    "id": 1017200,
+    "file": "data/assets/skills/1017200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1017200.png",
+    "name": "火焰发射",
+    "slot": "Q",
+    "characterId": 17
+  },
+  "1017300": {
+    "id": 1017300,
+    "file": "data/assets/skills/1017300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1017300.png",
+    "name": "原油弹",
+    "slot": "W",
+    "characterId": 17
+  },
+  "1017400": {
+    "id": 1017400,
+    "file": "data/assets/skills/1017400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1017400.png",
+    "name": "Fire Walker",
+    "slot": "E",
+    "characterId": 17
+  },
+  "1017500": {
+    "id": 1017500,
+    "file": "data/assets/skills/1017500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1017500.png",
+    "name": "莫洛托夫燃烧瓶",
+    "slot": "R",
+    "characterId": 17
+  },
+  "1018100": {
+    "id": 1018100,
+    "file": "data/assets/skills/1018100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1018100.png",
+    "name": "骗局",
+    "slot": "T",
+    "characterId": 18
+  },
+  "1018200": {
+    "id": 1018200,
+    "file": "data/assets/skills/1018200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1018200.png",
+    "name": "双面人",
+    "slot": "Q",
+    "characterId": 18
+  },
+  "1018300": {
+    "id": 1018300,
+    "file": "data/assets/skills/1018300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1018300.png",
+    "name": "提案",
+    "slot": "W",
+    "characterId": 18
+  },
+  "1018400": {
+    "id": 1018400,
+    "file": "data/assets/skills/1018400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1018400.png",
+    "name": "协商",
+    "slot": "E",
+    "characterId": 18
+  },
+  "1018500": {
+    "id": 1018500,
+    "file": "data/assets/skills/1018500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1018500.png",
+    "name": "无情杀戮",
+    "slot": "R",
+    "characterId": 18
+  },
+  "1019100": {
+    "id": 1019100,
+    "file": "data/assets/skills/1019100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1019100.png",
+    "name": "CheerUP♥",
+    "slot": "T",
+    "characterId": 19
+  },
+  "1019200": {
+    "id": 1019200,
+    "file": "data/assets/skills/1019200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1019200.png",
+    "name": "鸽子魔术秀",
+    "slot": "Q",
+    "characterId": 19
+  },
+  "1019300": {
+    "id": 1019300,
+    "file": "data/assets/skills/1019300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1019300.png",
+    "name": "不思议帽子",
+    "slot": "W",
+    "characterId": 19
+  },
+  "1019400": {
+    "id": 1019400,
+    "file": "data/assets/skills/1019400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1019400.png",
+    "name": "百变魔兔",
+    "slot": "E",
+    "characterId": 19
+  },
+  "1019500": {
+    "id": 1019500,
+    "file": "data/assets/skills/1019500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1019500.png",
+    "name": "Change★",
+    "slot": "R",
+    "characterId": 19
+  },
+  "1020100": {
+    "id": 1020100,
+    "file": "data/assets/skills/1020100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1020100.png",
+    "name": "神钓手的直觉",
+    "slot": "T",
+    "characterId": 20
+  },
+  "1020200": {
+    "id": 1020200,
+    "file": "data/assets/skills/1020200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1020200.png",
+    "name": "蛇影舞",
+    "slot": "Q",
+    "characterId": 20
+  },
+  "1020300": {
+    "id": 1020300,
+    "file": "data/assets/skills/1020300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1020300.png",
+    "name": "蔓藤毒牙",
+    "slot": "W",
+    "characterId": 20
+  },
+  "1020400": {
+    "id": 1020400,
+    "file": "data/assets/skills/1020400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1020400.png",
+    "name": "反向双钓",
+    "slot": "E",
+    "characterId": 20
+  },
+  "1020500": {
+    "id": 1020500,
+    "file": "data/assets/skills/1020500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1020500.png",
+    "name": "青蛇",
+    "slot": "R",
+    "characterId": 20
+  },
+  "1021100": {
+    "id": 1021100,
+    "file": "data/assets/skills/1021100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1021100.png",
+    "name": "双杀",
+    "slot": "T",
+    "characterId": 21
+  },
+  "1021200": {
+    "id": 1021200,
+    "file": "data/assets/skills/1021200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1021200.png",
+    "name": "随意射击",
+    "slot": "Q",
+    "characterId": 21
+  },
+  "1021300": {
+    "id": 1021300,
+    "file": "data/assets/skills/1021300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1021300.png",
+    "name": "全视角狙击",
+    "slot": "W",
+    "characterId": 21
+  },
+  "1021400": {
+    "id": 1021400,
+    "file": "data/assets/skills/1021400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1021400.png",
+    "name": "中空弹",
+    "slot": "E",
+    "characterId": 21
+  },
+  "1021500": {
+    "id": 1021500,
+    "file": "data/assets/skills/1021500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1021500.png",
+    "name": "塞姆汀高爆弹 Mk-II",
+    "slot": "R",
+    "characterId": 21
+  },
+  "1022100": {
+    "id": 1022100,
+    "file": "data/assets/skills/1022100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1022100.png",
+    "name": "完美管家",
+    "slot": "T",
+    "characterId": 22
+  },
+  "1022200": {
+    "id": 1022200,
+    "file": "data/assets/skills/1022200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1022200.png",
+    "name": "保洁服务",
+    "slot": "Q",
+    "characterId": 22
+  },
+  "1022300": {
+    "id": 1022300,
+    "file": "data/assets/skills/1022300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1022300.png",
+    "name": "强迫症",
+    "slot": "W",
+    "characterId": 22
+  },
+  "1022400": {
+    "id": 1022400,
+    "file": "data/assets/skills/1022400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1022400.png",
+    "name": "无声扫除机",
+    "slot": "E",
+    "characterId": 22
+  },
+  "1022500": {
+    "id": 1022500,
+    "file": "data/assets/skills/1022500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1022500.png",
+    "name": "售后服务",
+    "slot": "R",
+    "characterId": 22
+  },
+  "1023100": {
+    "id": 1023100,
+    "file": "data/assets/skills/1023100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1023100.png",
+    "name": "外科专家",
+    "slot": "T",
+    "characterId": 23
+  },
+  "1023200": {
+    "id": 1023200,
+    "file": "data/assets/skills/1023200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1023200.png",
+    "name": "动脉切开术",
+    "slot": "Q",
+    "characterId": 23
+  },
+  "1023300": {
+    "id": 1023300,
+    "file": "data/assets/skills/1023300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1023300.png",
+    "name": "截断",
+    "slot": "W",
+    "characterId": 23
+  },
+  "1023400": {
+    "id": 1023400,
+    "file": "data/assets/skills/1023400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1023400.png",
+    "name": "缝合",
+    "slot": "E",
+    "characterId": 23
+  },
+  "1023500": {
+    "id": 1023500,
+    "file": "data/assets/skills/1023500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1023500.png",
+    "name": "急诊手术",
+    "slot": "R",
+    "characterId": 23
+  },
+  "1024100": {
+    "id": 1024100,
+    "file": "data/assets/skills/1024100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1024100.png",
+    "name": "后翼守兵",
+    "slot": "T",
+    "characterId": 24
+  },
+  "1024200": {
+    "id": 1024200,
+    "file": "data/assets/skills/1024200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1024200.png",
+    "name": "升变",
+    "slot": "Q",
+    "characterId": 24
+  },
+  "1024300": {
+    "id": 1024300,
+    "file": "data/assets/skills/1024300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1024300.png",
+    "name": "单马捉双",
+    "slot": "W",
+    "characterId": 24
+  },
+  "1024400": {
+    "id": 1024400,
+    "file": "data/assets/skills/1024400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1024400.png",
+    "name": "王翼易位",
+    "slot": "E",
+    "characterId": 24
+  },
+  "1024500": {
+    "id": 1024500,
+    "file": "data/assets/skills/1024500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1024500.png",
+    "name": "将军",
+    "slot": "R",
+    "characterId": 24
+  },
+  "1025100": {
+    "id": 1025100,
+    "file": "data/assets/skills/1025100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1025100.png",
+    "name": "散弹",
+    "slot": "T",
+    "characterId": 25
+  },
+  "1025200": {
+    "id": 1025200,
+    "file": "data/assets/skills/1025200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1025200.png",
+    "name": "致瘸射击",
+    "slot": "Q",
+    "characterId": 25
+  },
+  "1025300": {
+    "id": 1025300,
+    "file": "data/assets/skills/1025300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1025300.png",
+    "name": "捕兽夹",
+    "slot": "W",
+    "characterId": 25
+  },
+  "1025400": {
+    "id": 1025400,
+    "file": "data/assets/skills/1025400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1025400.png",
+    "name": "鹰眼",
+    "slot": "E",
+    "characterId": 25
+  },
+  "1025500": {
+    "id": 1025500,
+    "file": "data/assets/skills/1025500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1025500.png",
+    "name": "奥尔加米・星锤",
+    "slot": "R",
+    "characterId": 25
+  },
+  "1026100": {
+    "id": 1026100,
+    "file": "data/assets/skills/1026100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1026100.png",
+    "name": "改造",
+    "slot": "T",
+    "characterId": 26
+  },
+  "1026200": {
+    "id": 1026200,
+    "file": "data/assets/skills/1026200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1026200.png",
+    "name": "BT-Mk II 远程无人机",
+    "slot": "Q",
+    "characterId": 26
+  },
+  "1026300": {
+    "id": 1026300,
+    "file": "data/assets/skills/1026300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1026300.png",
+    "name": "离子激光炮",
+    "slot": "W",
+    "characterId": 26
+  },
+  "1026400": {
+    "id": 1026400,
+    "file": "data/assets/skills/1026400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1026400.png",
+    "name": "闪光弹",
+    "slot": "E",
+    "characterId": 26
+  },
+  "1026500": {
+    "id": 1026500,
+    "file": "data/assets/skills/1026500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1026500.png",
+    "name": "超时实验",
+    "slot": "R",
+    "characterId": 26
+  },
+  "1027100": {
+    "id": 1027100,
+    "file": "data/assets/skills/1027100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027100.png",
+    "name": "潜行",
+    "slot": "T",
+    "characterId": 27
+  },
+  "1027200": {
+    "id": 1027200,
+    "file": "data/assets/skills/1027200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027200.png",
+    "name": "伏特枪",
+    "slot": "Q",
+    "characterId": 27
+  },
+  "1027300": {
+    "id": 1027300,
+    "file": "data/assets/skills/1027300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027300.png",
+    "name": "间谍探测仪",
+    "slot": "W",
+    "characterId": 27
+  },
+  "1027400": {
+    "id": 1027400,
+    "file": "data/assets/skills/1027400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027400.png",
+    "name": "电脉回力镖",
+    "slot": "E",
+    "characterId": 27
+  },
+  "1027500": {
+    "id": 1027500,
+    "file": "data/assets/skills/1027500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027500.png",
+    "name": "精准轰炸",
+    "slot": "R",
+    "characterId": 27
+  },
+  "1027600": {
+    "id": 1027600,
+    "file": "data/assets/skills/1027600.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027600.png",
+    "name": "突袭",
+    "slot": "Q",
+    "characterId": 27
+  },
+  "1027700": {
+    "id": 1027700,
+    "file": "data/assets/skills/1027700.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027700.png",
+    "name": "电浆地雷",
+    "slot": "W",
+    "characterId": 27
+  },
+  "1027800": {
+    "id": 1027800,
+    "file": "data/assets/skills/1027800.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1027800.png",
+    "name": "无间投影",
+    "slot": "E",
+    "characterId": 27
+  },
+  "1028100": {
+    "id": 1028100,
+    "file": "data/assets/skills/1028100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1028100.png",
+    "name": "精神食粮",
+    "slot": "T",
+    "characterId": 28
+  },
+  "1028200": {
+    "id": 1028200,
+    "file": "data/assets/skills/1028200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1028200.png",
+    "name": "奥德赛",
+    "slot": "Q",
+    "characterId": 28
+  },
+  "1028300": {
+    "id": 1028300,
+    "file": "data/assets/skills/1028300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1028300.png",
+    "name": "青鸟",
+    "slot": "W",
+    "characterId": 28
+  },
+  "1028400": {
+    "id": 1028400,
+    "file": "data/assets/skills/1028400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1028400.png",
+    "name": "堂吉诃德",
+    "slot": "E",
+    "characterId": 28
+  },
+  "1028500": {
+    "id": 1028500,
+    "file": "data/assets/skills/1028500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1028500.png",
+    "name": "记忆力",
+    "slot": "R",
+    "characterId": 28
+  },
+  "1029100": {
+    "id": 1029100,
+    "file": "data/assets/skills/1029100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1029100.png",
+    "name": "人体鱼雷",
+    "slot": "T",
+    "characterId": 29
+  },
+  "1029200": {
+    "id": 1029200,
+    "file": "data/assets/skills/1029200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1029200.png",
+    "name": "水路",
+    "slot": "Q",
+    "characterId": 29
+  },
+  "1029300": {
+    "id": 1029300,
+    "file": "data/assets/skills/1029300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1029300.png",
+    "name": "水武间",
+    "slot": "W",
+    "characterId": 29
+  },
+  "1029400": {
+    "id": 1029400,
+    "file": "data/assets/skills/1029400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1029400.png",
+    "name": "潜移",
+    "slot": "E",
+    "characterId": 29
+  },
+  "1029500": {
+    "id": 1029500,
+    "file": "data/assets/skills/1029500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1029500.png",
+    "name": "冲浪",
+    "slot": "R",
+    "characterId": 29
+  },
+  "1030100": {
+    "id": 1030100,
+    "file": "data/assets/skills/1030100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1030100.png",
+    "name": "美食主播",
+    "slot": "T",
+    "characterId": 30
+  },
+  "1030200": {
+    "id": 1030200,
+    "file": "data/assets/skills/1030200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1030200.png",
+    "name": "汉堡少女",
+    "slot": "Q",
+    "characterId": 30
+  },
+  "1030300": {
+    "id": 1030300,
+    "file": "data/assets/skills/1030300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1030300.png",
+    "name": "开播啦！",
+    "slot": "W",
+    "characterId": 30
+  },
+  "1030400": {
+    "id": 1030400,
+    "file": "data/assets/skills/1030400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1030400.png",
+    "name": "汉堡骑越",
+    "slot": "E",
+    "characterId": 30
+  },
+  "1030500": {
+    "id": 1030500,
+    "file": "data/assets/skills/1030500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1030500.png",
+    "name": "美食风暴",
+    "slot": "R",
+    "characterId": 30
+  },
+  "1031100": {
+    "id": 1031100,
+    "file": "data/assets/skills/1031100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1031100.png",
+    "name": "集中",
+    "slot": "T",
+    "characterId": 31
+  },
+  "1031200": {
+    "id": 1031200,
+    "file": "data/assets/skills/1031200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1031210.png",
+    "name": "替弓",
+    "slot": "Q",
+    "characterId": 31
+  },
+  "1031300": {
+    "id": 1031300,
+    "file": "data/assets/skills/1031300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1031300.png",
+    "name": "分离",
+    "slot": "W",
+    "characterId": 31
+  },
+  "1031400": {
+    "id": 1031400,
+    "file": "data/assets/skills/1031400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1031400.png",
+    "name": "箭越",
+    "slot": "E",
+    "characterId": 31
+  },
+  "1031500": {
+    "id": 1031500,
+    "file": "data/assets/skills/1031500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1031500.png",
+    "name": "连矢 / 正射必中",
+    "slot": "R",
+    "characterId": 31
+  },
+  "1032100": {
+    "id": 1032100,
+    "file": "data/assets/skills/1032100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1032100.png",
+    "name": "热身",
+    "slot": "T",
+    "characterId": 32
+  },
+  "1032200": {
+    "id": 1032200,
+    "file": "data/assets/skills/1032200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1032200.png",
+    "name": "变化球",
+    "slot": "Q",
+    "characterId": 32
+  },
+  "1032300": {
+    "id": 1032300,
+    "file": "data/assets/skills/1032300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1032300.png",
+    "name": "挥臂投球",
+    "slot": "W",
+    "characterId": 32
+  },
+  "1032400": {
+    "id": 1032400,
+    "file": "data/assets/skills/1032400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1032400.png",
+    "name": "滑垒接球",
+    "slot": "E",
+    "characterId": 32
+  },
+  "1032500": {
+    "id": 1032500,
+    "file": "data/assets/skills/1032500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1032500.png",
+    "name": "王牌投球",
+    "slot": "R",
+    "characterId": 32
+  },
+  "1033100": {
+    "id": 1033100,
+    "file": "data/assets/skills/1033100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033100.png",
+    "name": "狂躁",
+    "slot": "T",
+    "characterId": 33
+  },
+  "1033200": {
+    "id": 1033200,
+    "file": "data/assets/skills/1033200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033200.png",
+    "name": "格斗动作",
+    "slot": "Q",
+    "characterId": 33
+  },
+  "1033210": {
+    "id": 1033210,
+    "file": "data/assets/skills/1033210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033210.png",
+    "name": "特技动作",
+    "slot": "Q",
+    "characterId": 33
+  },
+  "1033300": {
+    "id": 1033300,
+    "file": "data/assets/skills/1033300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033300.png",
+    "name": "格挡 & 反击",
+    "slot": "W",
+    "characterId": 33
+  },
+  "1033400": {
+    "id": 1033400,
+    "file": "data/assets/skills/1033400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033400.png",
+    "name": "重拳",
+    "slot": "E",
+    "characterId": 33
+  },
+  "1033410": {
+    "id": 1033410,
+    "file": "data/assets/skills/1033410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033410.png",
+    "name": "愤怒重拳！",
+    "slot": "E",
+    "characterId": 33
+  },
+  "1033500": {
+    "id": 1033500,
+    "file": "data/assets/skills/1033500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1033500.png",
+    "name": "愤怒的上勾拳！",
+    "slot": "R",
+    "characterId": 33
+  },
+  "1034100": {
+    "id": 1034100,
+    "file": "data/assets/skills/1034100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1034100.png",
+    "name": "摄影技巧",
+    "slot": "T",
+    "characterId": 34
+  },
+  "1034200": {
+    "id": 1034200,
+    "file": "data/assets/skills/1034200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1034200.png",
+    "name": "快拍",
+    "slot": "Q",
+    "characterId": 34
+  },
+  "1034300": {
+    "id": 1034300,
+    "file": "data/assets/skills/1034300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1034300.png",
+    "name": "时间轨迹",
+    "slot": "W",
+    "characterId": 34
+  },
+  "1034400": {
+    "id": 1034400,
+    "file": "data/assets/skills/1034400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1034400.png",
+    "name": "时光倒影",
+    "slot": "E",
+    "characterId": 34
+  },
+  "1034500": {
+    "id": 1034500,
+    "file": "data/assets/skills/1034500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1034500.png",
+    "name": "定位拍摄",
+    "slot": "R",
+    "characterId": 34
+  },
+  "1035100": {
+    "id": 1035100,
+    "file": "data/assets/skills/1035100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035100.png",
+    "name": "狂热意志",
+    "slot": "T",
+    "characterId": 35
+  },
+  "1035200": {
+    "id": 1035200,
+    "file": "data/assets/skills/1035200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035200.png",
+    "name": "膝踢",
+    "slot": "Q",
+    "characterId": 35
+  },
+  "1035210": {
+    "id": 1035210,
+    "file": "data/assets/skills/1035210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035210.png",
+    "name": "飞膝踢",
+    "slot": "Q",
+    "characterId": 35
+  },
+  "1035300": {
+    "id": 1035300,
+    "file": "data/assets/skills/1035300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035300.png",
+    "name": "战斧飞踼",
+    "slot": "W",
+    "characterId": 35
+  },
+  "1035400": {
+    "id": 1035400,
+    "file": "data/assets/skills/1035400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035400.png",
+    "name": "闪烁",
+    "slot": "E",
+    "characterId": 35
+  },
+  "1035500": {
+    "id": 1035500,
+    "file": "data/assets/skills/1035500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1035500.png",
+    "name": "擂台之魂",
+    "slot": "R",
+    "characterId": 35
+  },
+  "1036100": {
+    "id": 1036100,
+    "file": "data/assets/skills/1036100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1036100.png",
+    "name": "念力",
+    "slot": "T",
+    "characterId": 36
+  },
+  "1036200": {
+    "id": 1036200,
+    "file": "data/assets/skills/1036200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1036200.png",
+    "name": "光影球",
+    "slot": "Q",
+    "characterId": 36
+  },
+  "1036300": {
+    "id": 1036300,
+    "file": "data/assets/skills/1036300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1036300.png",
+    "name": "光之旋涡",
+    "slot": "W",
+    "characterId": 36
+  },
+  "1036400": {
+    "id": 1036400,
+    "file": "data/assets/skills/1036400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1036400.png",
+    "name": "幻步",
+    "slot": "E",
+    "characterId": 36
+  },
+  "1036500": {
+    "id": 1036500,
+    "file": "data/assets/skills/1036500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1036500.png",
+    "name": "VF觉醒",
+    "slot": "R",
+    "characterId": 36
+  },
+  "1037100": {
+    "id": 1037100,
+    "file": "data/assets/skills/1037100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1037100.png",
+    "name": "孤独的艺术家",
+    "slot": "T",
+    "characterId": 37
+  },
+  "1037200": {
+    "id": 1037200,
+    "file": "data/assets/skills/1037200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1037200.png",
+    "name": "剪影",
+    "slot": "Q",
+    "characterId": 37
+  },
+  "1037300": {
+    "id": 1037300,
+    "file": "data/assets/skills/1037300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1037300.png",
+    "name": "灵感",
+    "slot": "W",
+    "characterId": 37
+  },
+  "1037400": {
+    "id": 1037400,
+    "file": "data/assets/skills/1037400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1037400.png",
+    "name": "暗影刺客",
+    "slot": "E",
+    "characterId": 37
+  },
+  "1037500": {
+    "id": 1037500,
+    "file": "data/assets/skills/1037500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1037500.png",
+    "name": "完美杰作",
+    "slot": "R",
+    "characterId": 37
+  },
+  "1038100": {
+    "id": 1038100,
+    "file": "data/assets/skills/1038100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1038100.png",
+    "name": "死亡演技",
+    "slot": "T",
+    "characterId": 38
+  },
+  "1038200": {
+    "id": 1038200,
+    "file": "data/assets/skills/1038200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1038200.png",
+    "name": "聚光灯",
+    "slot": "Q",
+    "characterId": 38
+  },
+  "1038300": {
+    "id": 1038300,
+    "file": "data/assets/skills/1038300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1038300.png",
+    "name": "红毯",
+    "slot": "W",
+    "characterId": 38
+  },
+  "1038400": {
+    "id": 1038400,
+    "file": "data/assets/skills/1038400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1038400.png",
+    "name": "演员的修养",
+    "slot": "E",
+    "characterId": 38
+  },
+  "1038500": {
+    "id": 1038500,
+    "file": "data/assets/skills/1038500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1038500.png",
+    "name": "最佳女主角",
+    "slot": "R",
+    "characterId": 38
+  },
+  "1039100": {
+    "id": 1039100,
+    "file": "data/assets/skills/1039100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1039100.png",
+    "name": "Olé!",
+    "slot": "T",
+    "characterId": 39
+  },
+  "1039200": {
+    "id": 1039200,
+    "file": "data/assets/skills/1039200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1039200.png",
+    "name": "弗拉门戈舞",
+    "slot": "Q",
+    "characterId": 39
+  },
+  "1039300": {
+    "id": 1039300,
+    "file": "data/assets/skills/1039300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1039300.png",
+    "name": "终结舞曲",
+    "slot": "W",
+    "characterId": 39
+  },
+  "1039400": {
+    "id": 1039400,
+    "file": "data/assets/skills/1039400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1039400.png",
+    "name": "节奏乐",
+    "slot": "E",
+    "characterId": 39
+  },
+  "1039500": {
+    "id": 1039500,
+    "file": "data/assets/skills/1039500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1039500.png",
+    "name": "舞者魅力",
+    "slot": "R",
+    "characterId": 39
+  },
+  "1040100": {
+    "id": 1040100,
+    "file": "data/assets/skills/1040100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1040100.png",
+    "name": "人偶师",
+    "slot": "T",
+    "characterId": 40
+  },
+  "1040200": {
+    "id": 1040200,
+    "file": "data/assets/skills/1040200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1040200.png",
+    "name": "攻击指令",
+    "slot": "Q",
+    "characterId": 40
+  },
+  "1040300": {
+    "id": 1040300,
+    "file": "data/assets/skills/1040300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1040300.png",
+    "name": "木偶戏",
+    "slot": "W",
+    "characterId": 40
+  },
+  "1040400": {
+    "id": 1040400,
+    "file": "data/assets/skills/1040400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1040400.png",
+    "name": "扯线傀儡",
+    "slot": "E",
+    "characterId": 40
+  },
+  "1040500": {
+    "id": 1040500,
+    "file": "data/assets/skills/1040500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1040500.png",
+    "name": "生命共享",
+    "slot": "R",
+    "characterId": 40
+  },
+  "1041100": {
+    "id": 1041100,
+    "file": "data/assets/skills/1041100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1041100.png",
+    "name": "圣灵加护",
+    "slot": "T",
+    "characterId": 41
+  },
+  "1041200": {
+    "id": 1041200,
+    "file": "data/assets/skills/1041200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1041200.png",
+    "name": "圣光召唤",
+    "slot": "Q",
+    "characterId": 41
+  },
+  "1041300": {
+    "id": 1041300,
+    "file": "data/assets/skills/1041300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1041300.png",
+    "name": "神圣的香炉",
+    "slot": "W",
+    "characterId": 41
+  },
+  "1041400": {
+    "id": 1041400,
+    "file": "data/assets/skills/1041400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1041400.png",
+    "name": "指引的光芒",
+    "slot": "E",
+    "characterId": 41
+  },
+  "1041500": {
+    "id": 1041500,
+    "file": "data/assets/skills/1041500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1041500.png",
+    "name": "救赎圣殿",
+    "slot": "R",
+    "characterId": 41
+  },
+  "1042100": {
+    "id": 1042100,
+    "file": "data/assets/skills/1042100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1042100.png",
+    "name": "嗜血术",
+    "slot": "T",
+    "characterId": 42
+  },
+  "1042200": {
+    "id": 1042200,
+    "file": "data/assets/skills/1042200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1042200.png",
+    "name": "血之枪",
+    "slot": "Q",
+    "characterId": 42
+  },
+  "1042300": {
+    "id": 1042300,
+    "file": "data/assets/skills/1042300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1042300.png",
+    "name": "安息",
+    "slot": "W",
+    "characterId": 42
+  },
+  "1042400": {
+    "id": 1042400,
+    "file": "data/assets/skills/1042400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1042400.png",
+    "name": "血循环",
+    "slot": "E",
+    "characterId": 42
+  },
+  "1042500": {
+    "id": 1042500,
+    "file": "data/assets/skills/1042500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1042500.png",
+    "name": "血族女皇的契约",
+    "slot": "R",
+    "characterId": 42
+  },
+  "1043100": {
+    "id": 1043100,
+    "file": "data/assets/skills/1043100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1043100.png",
+    "name": "炸弹专家",
+    "slot": "T",
+    "characterId": 43
+  },
+  "1043200": {
+    "id": 1043200,
+    "file": "data/assets/skills/1043200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1043200.png",
+    "name": "等离子炸弹",
+    "slot": "Q",
+    "characterId": 43
+  },
+  "1043300": {
+    "id": 1043300,
+    "file": "data/assets/skills/1043300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1043300.png",
+    "name": "引爆",
+    "slot": "W",
+    "characterId": 43
+  },
+  "1043400": {
+    "id": 1043400,
+    "file": "data/assets/skills/1043400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1043400.png",
+    "name": "闪爆弹",
+    "slot": "E",
+    "characterId": 43
+  },
+  "1043500": {
+    "id": 1043500,
+    "file": "data/assets/skills/1043500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1043500.png",
+    "name": "磁力融合",
+    "slot": "R",
+    "characterId": 43
+  },
+  "1044100": {
+    "id": 1044100,
+    "file": "data/assets/skills/1044100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044100.png",
+    "name": "卡德摩斯的召唤",
+    "slot": "T",
+    "characterId": 44
+  },
+  "1044200": {
+    "id": 1044200,
+    "file": "data/assets/skills/1044200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044200.png",
+    "name": "毒蛇之刃",
+    "slot": "Q",
+    "characterId": 44
+  },
+  "1044300": {
+    "id": 1044300,
+    "file": "data/assets/skills/1044300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044300.png",
+    "name": "龙鳞的逆袭",
+    "slot": "W",
+    "characterId": 44
+  },
+  "1044400": {
+    "id": 1044400,
+    "file": "data/assets/skills/1044400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044400.png",
+    "name": "毒牙",
+    "slot": "E",
+    "characterId": 44
+  },
+  "1044500": {
+    "id": 1044500,
+    "file": "data/assets/skills/1044500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044500.png",
+    "name": "VF暴走[毒蛇]",
+    "slot": "R",
+    "characterId": 44
+  },
+  "1044510": {
+    "id": 1044510,
+    "file": "data/assets/skills/1044510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1044520.png",
+    "name": "蛇之震怒[毒蛇]",
+    "slot": "R",
+    "characterId": 44
+  },
+  "1045100": {
+    "id": 1045100,
+    "file": "data/assets/skills/1045100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045100.png",
+    "name": "高级订制",
+    "slot": "T",
+    "characterId": 45
+  },
+  "1045200": {
+    "id": 1045200,
+    "file": "data/assets/skills/1045200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045200.png",
+    "name": "垂缀",
+    "slot": "Q",
+    "characterId": 45
+  },
+  "1045300": {
+    "id": 1045300,
+    "file": "data/assets/skills/1045300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045300.png",
+    "name": "披肩面纱",
+    "slot": "W",
+    "characterId": 45
+  },
+  "1045400": {
+    "id": 1045400,
+    "file": "data/assets/skills/1045400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045400.png",
+    "name": "时装秀",
+    "slot": "E",
+    "characterId": 45
+  },
+  "1045410": {
+    "id": 1045410,
+    "file": "data/assets/skills/1045410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045410.png",
+    "name": "谢幕",
+    "slot": "E",
+    "characterId": 45
+  },
+  "1045500": {
+    "id": 1045500,
+    "file": "data/assets/skills/1045500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1045500.png",
+    "name": "最佳造型",
+    "slot": "R",
+    "characterId": 45
+  },
+  "1046100": {
+    "id": 1046100,
+    "file": "data/assets/skills/1046100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046100.png",
+    "name": "超电荷",
+    "slot": "T",
+    "characterId": 46
+  },
+  "1046200": {
+    "id": 1046200,
+    "file": "data/assets/skills/1046200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046200.png",
+    "name": "雷击",
+    "slot": "Q",
+    "characterId": 46
+  },
+  "1046210": {
+    "id": 1046210,
+    "file": "data/assets/skills/1046210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046210.png",
+    "name": "电子炮",
+    "slot": "Q",
+    "characterId": 46
+  },
+  "1046300": {
+    "id": 1046300,
+    "file": "data/assets/skills/1046300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046300.png",
+    "name": "极电释放",
+    "slot": "W",
+    "characterId": 46
+  },
+  "1046400": {
+    "id": 1046400,
+    "file": "data/assets/skills/1046400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046400.png",
+    "name": "后闪",
+    "slot": "E",
+    "characterId": 46
+  },
+  "1046410": {
+    "id": 1046410,
+    "file": "data/assets/skills/1046410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046410.png",
+    "name": "伏特闪移",
+    "slot": "E",
+    "characterId": 46
+  },
+  "1046500": {
+    "id": 1046500,
+    "file": "data/assets/skills/1046500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1046500.png",
+    "name": "落雷",
+    "slot": "R",
+    "characterId": 46
+  },
+  "1047100": {
+    "id": 1047100,
+    "file": "data/assets/skills/1047100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1047100.png",
+    "name": "怪盗",
+    "slot": "T",
+    "characterId": 47
+  },
+  "1047200": {
+    "id": 1047200,
+    "file": "data/assets/skills/1047200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1047200.png",
+    "name": "荆棘噬痕",
+    "slot": "Q",
+    "characterId": 47
+  },
+  "1047300": {
+    "id": 1047300,
+    "file": "data/assets/skills/1047300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1047300.png",
+    "name": "预告函",
+    "slot": "W",
+    "characterId": 47
+  },
+  "1047400": {
+    "id": 1047400,
+    "file": "data/assets/skills/1047400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1047400.png",
+    "name": "优雅的步伐",
+    "slot": "E",
+    "characterId": 47
+  },
+  "1047500": {
+    "id": 1047500,
+    "file": "data/assets/skills/1047500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1047500.png",
+    "name": "幻影神偷",
+    "slot": "R",
+    "characterId": 47
+  },
+  "1048100": {
+    "id": 1048100,
+    "file": "data/assets/skills/1048100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1048100.png",
+    "name": "色彩缤纷",
+    "slot": "T",
+    "characterId": 48
+  },
+  "1048400": {
+    "id": 1048400,
+    "file": "data/assets/skills/1048400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1048210.png",
+    "name": "笔触 - 黄色",
+    "slot": "Q",
+    "characterId": 48
+  },
+  "1048500": {
+    "id": 1048500,
+    "file": "data/assets/skills/1048500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1048310.png",
+    "name": "调色板 - 黄色",
+    "slot": "W",
+    "characterId": 48
+  },
+  "1048600": {
+    "id": 1048600,
+    "file": "data/assets/skills/1048600.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1048410.png",
+    "name": "着色 - 黄色",
+    "slot": "E",
+    "characterId": 48
+  },
+  "1048700": {
+    "id": 1048700,
+    "file": "data/assets/skills/1048700.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1048500.png",
+    "name": "彩虹魔咒",
+    "slot": "R",
+    "characterId": 48
+  },
+  "1049100": {
+    "id": 1049100,
+    "file": "data/assets/skills/1049100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1049100.png",
+    "name": "连结枪",
+    "slot": "T",
+    "characterId": 49
+  },
+  "1049200": {
+    "id": 1049200,
+    "file": "data/assets/skills/1049200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1049200.png",
+    "name": "破风斩",
+    "slot": "Q",
+    "characterId": 49
+  },
+  "1049300": {
+    "id": 1049300,
+    "file": "data/assets/skills/1049300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1049300.png",
+    "name": "疾风雷击",
+    "slot": "W",
+    "characterId": 49
+  },
+  "1049400": {
+    "id": 1049400,
+    "file": "data/assets/skills/1049400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1049400.png",
+    "name": "半月斩",
+    "slot": "E",
+    "characterId": 49
+  },
+  "1049500": {
+    "id": 1049500,
+    "file": "data/assets/skills/1049500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1049500.png",
+    "name": "雷龙一击",
+    "slot": "R",
+    "characterId": 49
+  },
+  "1050100": {
+    "id": 1050100,
+    "file": "data/assets/skills/1050100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1050100.png",
+    "name": "女王的冰封领域",
+    "slot": "T",
+    "characterId": 50
+  },
+  "1050200": {
+    "id": 1050200,
+    "file": "data/assets/skills/1050200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1050200.png",
+    "name": "极冰",
+    "slot": "Q",
+    "characterId": 50
+  },
+  "1050300": {
+    "id": 1050300,
+    "file": "data/assets/skills/1050300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1050300.png",
+    "name": "双旋击",
+    "slot": "W",
+    "characterId": 50
+  },
+  "1050400": {
+    "id": 1050400,
+    "file": "data/assets/skills/1050400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1050400.png",
+    "name": "飞燕",
+    "slot": "E",
+    "characterId": 50
+  },
+  "1050500": {
+    "id": 1050500,
+    "file": "data/assets/skills/1050500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1050500.png",
+    "name": "霜心之舞",
+    "slot": "R",
+    "characterId": 50
+  },
+  "1051100": {
+    "id": 1051100,
+    "file": "data/assets/skills/1051100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1051100.png",
+    "name": "大自然的呼唤",
+    "slot": "T",
+    "characterId": 51
+  },
+  "1051200": {
+    "id": 1051200,
+    "file": "data/assets/skills/1051200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1051200.png",
+    "name": "绽放的旋律",
+    "slot": "Q",
+    "characterId": 51
+  },
+  "1051300": {
+    "id": 1051300,
+    "file": "data/assets/skills/1051300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1051300.png",
+    "name": "音刃",
+    "slot": "W",
+    "characterId": 51
+  },
+  "1051400": {
+    "id": 1051400,
+    "file": "data/assets/skills/1051400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1051400.png",
+    "name": "禁忌之歌",
+    "slot": "E",
+    "characterId": 51
+  },
+  "1051500": {
+    "id": 1051500,
+    "file": "data/assets/skills/1051500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1051500.png",
+    "name": "万物之音",
+    "slot": "R",
+    "characterId": 51
+  },
+  "1052100": {
+    "id": 1052100,
+    "file": "data/assets/skills/1052100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1052100.png",
+    "name": "观星",
+    "slot": "T",
+    "characterId": 52
+  },
+  "1052200": {
+    "id": 1052200,
+    "file": "data/assets/skills/1052200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1052200.png",
+    "name": "星芒万丈",
+    "slot": "Q",
+    "characterId": 52
+  },
+  "1052300": {
+    "id": 1052300,
+    "file": "data/assets/skills/1052300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1052300.png",
+    "name": "日月星界",
+    "slot": "W",
+    "characterId": 52
+  },
+  "1052400": {
+    "id": 1052400,
+    "file": "data/assets/skills/1052400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1052400.png",
+    "name": "星体陷落",
+    "slot": "E",
+    "characterId": 52
+  },
+  "1052500": {
+    "id": 1052500,
+    "file": "data/assets/skills/1052500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1052500.png",
+    "name": "水晶球的预言",
+    "slot": "R",
+    "characterId": 52
+  },
+  "1053100": {
+    "id": 1053100,
+    "file": "data/assets/skills/1053100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1053100.png",
+    "name": "战斗的气息",
+    "slot": "T",
+    "characterId": 53
+  },
+  "1053200": {
+    "id": 1053200,
+    "file": "data/assets/skills/1053200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1053200.png",
+    "name": "胜利法则",
+    "slot": "Q",
+    "characterId": 53
+  },
+  "1053300": {
+    "id": 1053300,
+    "file": "data/assets/skills/1053300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1053300.png",
+    "name": "毁击",
+    "slot": "W",
+    "characterId": 53
+  },
+  "1053400": {
+    "id": 1053400,
+    "file": "data/assets/skills/1053400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1053400.png",
+    "name": "进击的战士",
+    "slot": "E",
+    "characterId": 53
+  },
+  "1053500": {
+    "id": 1053500,
+    "file": "data/assets/skills/1053500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1053500.png",
+    "name": "诛天灭地",
+    "slot": "R",
+    "characterId": 53
+  },
+  "1054100": {
+    "id": 1054100,
+    "file": "data/assets/skills/1054100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1054100.png",
+    "name": "水手的较量",
+    "slot": "T",
+    "characterId": 54
+  },
+  "1054200": {
+    "id": 1054200,
+    "file": "data/assets/skills/1054200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1054200.png",
+    "name": "鱼叉穿刺",
+    "slot": "Q",
+    "characterId": 54
+  },
+  "1054300": {
+    "id": 1054300,
+    "file": "data/assets/skills/1054300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1054300.png",
+    "name": "回收",
+    "slot": "W",
+    "characterId": 54
+  },
+  "1054400": {
+    "id": 1054400,
+    "file": "data/assets/skills/1054400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1054400.png",
+    "name": "海员登陆",
+    "slot": "E",
+    "characterId": 54
+  },
+  "1054500": {
+    "id": 1054500,
+    "file": "data/assets/skills/1054500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1054500.png",
+    "name": "魂锁炼狱",
+    "slot": "R",
+    "characterId": 54
+  },
+  "1055100": {
+    "id": 1055100,
+    "file": "data/assets/skills/1055100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055100.png",
+    "name": "使命召唤",
+    "slot": "T",
+    "characterId": 55
+  },
+  "1055200": {
+    "id": 1055200,
+    "file": "data/assets/skills/1055200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055200.png",
+    "name": "镇压",
+    "slot": "Q",
+    "characterId": 55
+  },
+  "1055300": {
+    "id": 1055300,
+    "file": "data/assets/skills/1055300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055300.png",
+    "name": "临危应对",
+    "slot": "W",
+    "characterId": 55
+  },
+  "1055310": {
+    "id": 1055310,
+    "file": "data/assets/skills/1055310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055310.png",
+    "name": "紧急灭火",
+    "slot": "W",
+    "characterId": 55
+  },
+  "1055400": {
+    "id": 1055400,
+    "file": "data/assets/skills/1055400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055400.png",
+    "name": "盾牌防御",
+    "slot": "E",
+    "characterId": 55
+  },
+  "1055410": {
+    "id": 1055410,
+    "file": "data/assets/skills/1055410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055410.png",
+    "name": "盾牌冲锋",
+    "slot": "E",
+    "characterId": 55
+  },
+  "1055500": {
+    "id": 1055500,
+    "file": "data/assets/skills/1055500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1055500.png",
+    "name": "空中救援",
+    "slot": "R",
+    "characterId": 55
+  },
+  "1056100": {
+    "id": 1056100,
+    "file": "data/assets/skills/1056100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1056100.png",
+    "name": "锻炼狂",
+    "slot": "T",
+    "characterId": 56
+  },
+  "1056200": {
+    "id": 1056200,
+    "file": "data/assets/skills/1056200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1056200.png",
+    "name": "狂龙乱舞&下劈",
+    "slot": "Q",
+    "characterId": 56
+  },
+  "1056300": {
+    "id": 1056300,
+    "file": "data/assets/skills/1056300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1056300.png",
+    "name": "流星赶月&翻转",
+    "slot": "W",
+    "characterId": 56
+  },
+  "1056400": {
+    "id": 1056400,
+    "file": "data/assets/skills/1056400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1056400.png",
+    "name": "白蛇吐信&上劈",
+    "slot": "E",
+    "characterId": 56
+  },
+  "1056500": {
+    "id": 1056500,
+    "file": "data/assets/skills/1056500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1056500.png",
+    "name": "惩戒者",
+    "slot": "R",
+    "characterId": 56
+  },
+  "1057100": {
+    "id": 1057100,
+    "file": "data/assets/skills/1057100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1057100.png",
+    "name": "播放",
+    "slot": "T",
+    "characterId": 57
+  },
+  "1057200": {
+    "id": 1057200,
+    "file": "data/assets/skills/1057200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1057200.png",
+    "name": "快进 - 采访中",
+    "slot": "Q",
+    "characterId": 57
+  },
+  "1057300": {
+    "id": 1057300,
+    "file": "data/assets/skills/1057300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1057300.png",
+    "name": "暂停 - 采访中",
+    "slot": "W",
+    "characterId": 57
+  },
+  "1057400": {
+    "id": 1057400,
+    "file": "data/assets/skills/1057400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1057400.png",
+    "name": "倒带 - 采访中",
+    "slot": "E",
+    "characterId": 57
+  },
+  "1057500": {
+    "id": 1057500,
+    "file": "data/assets/skills/1057500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1057500.png",
+    "name": "录像 - 采访中",
+    "slot": "R",
+    "characterId": 57
+  },
+  "1058100": {
+    "id": 1058100,
+    "file": "data/assets/skills/1058100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058100.png",
+    "name": "武器箱",
+    "slot": "T",
+    "characterId": 58
+  },
+  "1058200": {
+    "id": 1058200,
+    "file": "data/assets/skills/1058200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058200.png",
+    "name": "40mm手榴弹",
+    "slot": "Q",
+    "characterId": 58
+  },
+  "1058210": {
+    "id": 1058210,
+    "file": "data/assets/skills/1058210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058210.png",
+    "name": "冲锋枪连发",
+    "slot": "Q",
+    "characterId": 58
+  },
+  "1058220": {
+    "id": 1058220,
+    "file": "data/assets/skills/1058220.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058220.png",
+    "name": "火箭加速器",
+    "slot": "Q",
+    "characterId": 58
+  },
+  "1058300": {
+    "id": 1058300,
+    "file": "data/assets/skills/1058300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058300.png",
+    "name": "霰弹炮",
+    "slot": "W",
+    "characterId": 58
+  },
+  "1058400": {
+    "id": 1058400,
+    "file": "data/assets/skills/1058400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058400.png",
+    "name": "冲锋枪",
+    "slot": "E",
+    "characterId": 58
+  },
+  "1058500": {
+    "id": 1058500,
+    "file": "data/assets/skills/1058500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1058500.png",
+    "name": "火箭发射器",
+    "slot": "R",
+    "characterId": 58
+  },
+  "1059100": {
+    "id": 1059100,
+    "file": "data/assets/skills/1059100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1059100.png",
+    "name": "管制",
+    "slot": "T",
+    "characterId": 59
+  },
+  "1059200": {
+    "id": 1059200,
+    "file": "data/assets/skills/1059200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1059200.png",
+    "name": "突袭行动",
+    "slot": "Q",
+    "characterId": 59
+  },
+  "1059300": {
+    "id": 1059300,
+    "file": "data/assets/skills/1059300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1059300.png",
+    "name": "武装硬化",
+    "slot": "W",
+    "characterId": 59
+  },
+  "1059400": {
+    "id": 1059400,
+    "file": "data/assets/skills/1059400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1059400.png",
+    "name": "追击 / 扣押",
+    "slot": "E",
+    "characterId": 59
+  },
+  "1059500": {
+    "id": 1059500,
+    "file": "data/assets/skills/1059500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1059500.png",
+    "name": "湮灭",
+    "slot": "R",
+    "characterId": 59
+  },
+  "1060100": {
+    "id": 1060100,
+    "file": "data/assets/skills/1060100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060100.png",
+    "name": "匠心工艺",
+    "slot": "T",
+    "characterId": 60
+  },
+  "1060200": {
+    "id": 1060200,
+    "file": "data/assets/skills/1060200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060200.png",
+    "name": "凌空碎",
+    "slot": "Q",
+    "characterId": 60
+  },
+  "1060210": {
+    "id": 1060210,
+    "file": "data/assets/skills/1060210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060210.png",
+    "name": "破空斩",
+    "slot": "Q",
+    "characterId": 60
+  },
+  "1060300": {
+    "id": 1060300,
+    "file": "data/assets/skills/1060300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060300.png",
+    "name": "败作",
+    "slot": "W",
+    "characterId": 60
+  },
+  "1060400": {
+    "id": 1060400,
+    "file": "data/assets/skills/1060400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060400.png",
+    "name": "清场",
+    "slot": "E",
+    "characterId": 60
+  },
+  "1060500": {
+    "id": 1060500,
+    "file": "data/assets/skills/1060500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060500.png",
+    "name": "璃之境",
+    "slot": "R",
+    "characterId": 60
+  },
+  "1061100": {
+    "id": 1061100,
+    "file": "data/assets/skills/1061100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061100.png",
+    "name": "喵星人的习性",
+    "slot": "T",
+    "characterId": 61
+  },
+  "1061200": {
+    "id": 1061200,
+    "file": "data/assets/skills/1061200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061200.png",
+    "name": "跳跳球",
+    "slot": "Q",
+    "characterId": 61
+  },
+  "1061210": {
+    "id": 1061210,
+    "file": "data/assets/skills/1061210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061210.png",
+    "name": "无敌喵喵拳",
+    "slot": "Q",
+    "characterId": 61
+  },
+  "1061300": {
+    "id": 1061300,
+    "file": "data/assets/skills/1061300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061300.png",
+    "name": "喵言喵语",
+    "slot": "W",
+    "characterId": 61
+  },
+  "1061310": {
+    "id": 1061310,
+    "file": "data/assets/skills/1061310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061310.png",
+    "name": "喵心不悦",
+    "slot": "W",
+    "characterId": 61
+  },
+  "1061400": {
+    "id": 1061400,
+    "file": "data/assets/skills/1061400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061400.png",
+    "name": "喵步轻俏",
+    "slot": "E",
+    "characterId": 61
+  },
+  "1061410": {
+    "id": 1061410,
+    "file": "data/assets/skills/1061410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061410.png",
+    "name": "喵翻滚",
+    "slot": "E",
+    "characterId": 61
+  },
+  "1061500": {
+    "id": 1061500,
+    "file": "data/assets/skills/1061500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061500.png",
+    "name": "变身喵咪！",
+    "slot": "R",
+    "characterId": 61
+  },
+  "1061510": {
+    "id": 1061510,
+    "file": "data/assets/skills/1061510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1061510.png",
+    "name": "爱琳登场！",
+    "slot": "R",
+    "characterId": 61
+  },
+  "1062100": {
+    "id": 1062100,
+    "file": "data/assets/skills/1062100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1062100.png",
+    "name": "蓝宝石协议",
+    "slot": "T",
+    "characterId": 62
+  },
+  "1062200": {
+    "id": 1062200,
+    "file": "data/assets/skills/1062200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1062200.png",
+    "name": "聚能磁轨炮",
+    "slot": "Q",
+    "characterId": 62
+  },
+  "1062300": {
+    "id": 1062300,
+    "file": "data/assets/skills/1062300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1062300.png",
+    "name": "裂变能源屏",
+    "slot": "W",
+    "characterId": 62
+  },
+  "1062400": {
+    "id": 1062400,
+    "file": "data/assets/skills/1062400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1062400.png",
+    "name": "磁力手雷",
+    "slot": "E",
+    "characterId": 62
+  },
+  "1062500": {
+    "id": 1062500,
+    "file": "data/assets/skills/1062500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1062500.png",
+    "name": "能源飓风",
+    "slot": "R",
+    "characterId": 62
+  },
+  "1063100": {
+    "id": 1063100,
+    "file": "data/assets/skills/1063100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1063100.png",
+    "name": "被禁锢的肉身",
+    "slot": "T",
+    "characterId": 63
+  },
+  "1063200": {
+    "id": 1063200,
+    "file": "data/assets/skills/1063200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1063200.png",
+    "name": "躲避！/ 地狱鬼手",
+    "slot": "Q",
+    "characterId": 63
+  },
+  "1063300": {
+    "id": 1063300,
+    "file": "data/assets/skills/1063300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1063300.png",
+    "name": "对不起.. / 血染之指",
+    "slot": "W",
+    "characterId": 63
+  },
+  "1063400": {
+    "id": 1063400,
+    "file": "data/assets/skills/1063400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1063400.png",
+    "name": "闪开！/ 鬼灵利爪",
+    "slot": "E",
+    "characterId": 63
+  },
+  "1063500": {
+    "id": 1063500,
+    "file": "data/assets/skills/1063500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1063500.png",
+    "name": "解放肉身",
+    "slot": "R",
+    "characterId": 63
+  },
+  "1064100": {
+    "id": 1064100,
+    "file": "data/assets/skills/1064100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1064100.png",
+    "name": "幻蝶如梦",
+    "slot": "T",
+    "characterId": 64
+  },
+  "1064200": {
+    "id": 1064200,
+    "file": "data/assets/skills/1064200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1064200.png",
+    "name": "蝶向",
+    "slot": "Q",
+    "characterId": 64
+  },
+  "1064300": {
+    "id": 1064300,
+    "file": "data/assets/skills/1064300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1064300.png",
+    "name": "青风",
+    "slot": "W",
+    "characterId": 64
+  },
+  "1064400": {
+    "id": 1064400,
+    "file": "data/assets/skills/1064400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1064400.png",
+    "name": "祈愿",
+    "slot": "E",
+    "characterId": 64
+  },
+  "1064500": {
+    "id": 1064500,
+    "file": "data/assets/skills/1064500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1064500.png",
+    "name": "蝶之羽翼",
+    "slot": "R",
+    "characterId": 64
+  },
+  "1065100": {
+    "id": 1065100,
+    "file": "data/assets/skills/1065100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065100.png",
+    "name": "靛与赤",
+    "slot": "T",
+    "characterId": 65
+  },
+  "1065200": {
+    "id": 1065200,
+    "file": "data/assets/skills/1065200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065200.png",
+    "name": "靛风斩",
+    "slot": "Q",
+    "characterId": 65
+  },
+  "1065210": {
+    "id": 1065210,
+    "file": "data/assets/skills/1065210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065230.png",
+    "name": "赤月斩",
+    "slot": "Q",
+    "characterId": 65
+  },
+  "1065300": {
+    "id": 1065300,
+    "file": "data/assets/skills/1065300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065300.png",
+    "name": "靛旋之舞",
+    "slot": "W",
+    "characterId": 65
+  },
+  "1065310": {
+    "id": 1065310,
+    "file": "data/assets/skills/1065310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065320.png",
+    "name": "赤月之舞",
+    "slot": "W",
+    "characterId": 65
+  },
+  "1065400": {
+    "id": 1065400,
+    "file": "data/assets/skills/1065400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065400.png",
+    "name": "守护我，玛莲！",
+    "slot": "E",
+    "characterId": 65
+  },
+  "1065410": {
+    "id": 1065410,
+    "file": "data/assets/skills/1065410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065410.png",
+    "name": "就是现在，黛比！",
+    "slot": "E",
+    "characterId": 65
+  },
+  "1065500": {
+    "id": 1065500,
+    "file": "data/assets/skills/1065500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1065500.png",
+    "name": "靛赤双生",
+    "slot": "R",
+    "characterId": 65
+  },
+  "1066100": {
+    "id": 1066100,
+    "file": "data/assets/skills/1066100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1066100.png",
+    "name": "文物探索",
+    "slot": "T",
+    "characterId": 66
+  },
+  "1066200": {
+    "id": 1066200,
+    "file": "data/assets/skills/1066200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1066200.png",
+    "name": "沙玛什卷轴",
+    "slot": "Q",
+    "characterId": 66
+  },
+  "1066300": {
+    "id": 1066300,
+    "file": "data/assets/skills/1066300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1066300.png",
+    "name": "巴比伦魔方",
+    "slot": "W",
+    "characterId": 66
+  },
+  "1066400": {
+    "id": 1066400,
+    "file": "data/assets/skills/1066400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1066400.png",
+    "name": "尼姆鲁德石碑",
+    "slot": "E",
+    "characterId": 66
+  },
+  "1066500": {
+    "id": 1066500,
+    "file": "data/assets/skills/1066500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1066500.png",
+    "name": "沉睡之力",
+    "slot": "R",
+    "characterId": 66
+  },
+  "1067100": {
+    "id": 1067100,
+    "file": "data/assets/skills/1067100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1067100.png",
+    "name": "撕裂之刃",
+    "slot": "T",
+    "characterId": 67
+  },
+  "1067200": {
+    "id": 1067200,
+    "file": "data/assets/skills/1067200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1067200.png",
+    "name": "二元自旋",
+    "slot": "Q",
+    "characterId": 67
+  },
+  "1067300": {
+    "id": 1067300,
+    "file": "data/assets/skills/1067300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1067300.png",
+    "name": "时空交错",
+    "slot": "W",
+    "characterId": 67
+  },
+  "1067400": {
+    "id": 1067400,
+    "file": "data/assets/skills/1067400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1067400.png",
+    "name": "维度跃迁",
+    "slot": "E",
+    "characterId": 67
+  },
+  "1067500": {
+    "id": 1067500,
+    "file": "data/assets/skills/1067500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1067500.png",
+    "name": "次元时空",
+    "slot": "R",
+    "characterId": 67
+  },
+  "1068100": {
+    "id": 1068100,
+    "file": "data/assets/skills/1068100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1068100.png",
+    "name": "等离子抗盾",
+    "slot": "T",
+    "characterId": 68
+  },
+  "1068200": {
+    "id": 1068200,
+    "file": "data/assets/skills/1068200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1068200.png",
+    "name": "磁石之握",
+    "slot": "Q",
+    "characterId": 68
+  },
+  "1068300": {
+    "id": 1068300,
+    "file": "data/assets/skills/1068300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1068300.png",
+    "name": "磁盾光波",
+    "slot": "W",
+    "characterId": 68
+  },
+  "1068400": {
+    "id": 1068400,
+    "file": "data/assets/skills/1068400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1068400.png",
+    "name": "磁吸冲击",
+    "slot": "E",
+    "characterId": 68
+  },
+  "1068500": {
+    "id": 1068500,
+    "file": "data/assets/skills/1068500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1068500.png",
+    "name": "磁吸漩涡",
+    "slot": "R",
+    "characterId": 68
+  },
+  "1069100": {
+    "id": 1069100,
+    "file": "data/assets/skills/1069100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1069100.png",
+    "name": "熊熊出动！",
+    "slot": "T",
+    "characterId": 69
+  },
+  "1069200": {
+    "id": 1069200,
+    "file": "data/assets/skills/1069200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1069200.png",
+    "name": "胡萝卜火箭炮",
+    "slot": "Q",
+    "characterId": 69
+  },
+  "1069300": {
+    "id": 1069300,
+    "file": "data/assets/skills/1069300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1069300.png",
+    "name": "咻~ 弹跳锤！",
+    "slot": "W",
+    "characterId": 69
+  },
+  "1069400": {
+    "id": 1069400,
+    "file": "data/assets/skills/1069400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1069400.png",
+    "name": "欢迎喇叭",
+    "slot": "E",
+    "characterId": 69
+  },
+  "1069500": {
+    "id": 1069500,
+    "file": "data/assets/skills/1069500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1069500.png",
+    "name": "小熊出没",
+    "slot": "R",
+    "characterId": 69
+  },
+  "1070100": {
+    "id": 1070100,
+    "file": "data/assets/skills/1070100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1070100.png",
+    "name": "奥义 - 生死印记",
+    "slot": "T",
+    "characterId": 70
+  },
+  "1070200": {
+    "id": 1070200,
+    "file": "data/assets/skills/1070200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1070200.png",
+    "name": "螺旋手里剑",
+    "slot": "Q",
+    "characterId": 70
+  },
+  "1070300": {
+    "id": 1070300,
+    "file": "data/assets/skills/1070300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1070300.png",
+    "name": "踏燕",
+    "slot": "W",
+    "characterId": 70
+  },
+  "1070400": {
+    "id": 1070400,
+    "file": "data/assets/skills/1070400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1070400.png",
+    "name": "雾隐之术",
+    "slot": "E",
+    "characterId": 70
+  },
+  "1070500": {
+    "id": 1070500,
+    "file": "data/assets/skills/1070500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1070500.png",
+    "name": "日车流暗杀术",
+    "slot": "R",
+    "characterId": 70
+  },
+  "1071100": {
+    "id": 1071100,
+    "file": "data/assets/skills/1071100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1071100.png",
+    "name": "暗火燃烧",
+    "slot": "T",
+    "characterId": 71
+  },
+  "1071200": {
+    "id": 1071200,
+    "file": "data/assets/skills/1071200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1071200.png",
+    "name": "烈焰一击",
+    "slot": "Q",
+    "characterId": 71
+  },
+  "1071300": {
+    "id": 1071300,
+    "file": "data/assets/skills/1071300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1071300.png",
+    "name": "业火",
+    "slot": "W",
+    "characterId": 71
+  },
+  "1071400": {
+    "id": 1071400,
+    "file": "data/assets/skills/1071400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1071400.png",
+    "name": "猛进",
+    "slot": "E",
+    "characterId": 71
+  },
+  "1071500": {
+    "id": 1071500,
+    "file": "data/assets/skills/1071500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1071500.png",
+    "name": "碎焰风暴",
+    "slot": "R",
+    "characterId": 71
+  },
+  "1072100": {
+    "id": 1072100,
+    "file": "data/assets/skills/1072100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1072100.png",
+    "name": "雾色死神",
+    "slot": "T",
+    "characterId": 72
+  },
+  "1072200": {
+    "id": 1072200,
+    "file": "data/assets/skills/1072200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1072200.png",
+    "name": "绝命狙击",
+    "slot": "Q",
+    "characterId": 72
+  },
+  "1072300": {
+    "id": 1072300,
+    "file": "data/assets/skills/1072300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1072300.png",
+    "name": "猫头鹰之眼",
+    "slot": "W",
+    "characterId": 72
+  },
+  "1072400": {
+    "id": 1072400,
+    "file": "data/assets/skills/1072400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1072400.png",
+    "name": "灰色警戒",
+    "slot": "E",
+    "characterId": 72
+  },
+  "1072500": {
+    "id": 1072500,
+    "file": "data/assets/skills/1072500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1072500.png",
+    "name": "暗影终结",
+    "slot": "R",
+    "characterId": 72
+  },
+  "1073100": {
+    "id": 1073100,
+    "file": "data/assets/skills/1073100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1073100.png",
+    "name": "圣洁之心",
+    "slot": "T",
+    "characterId": 73
+  },
+  "1073200": {
+    "id": 1073200,
+    "file": "data/assets/skills/1073200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1073200.png",
+    "name": "幻影流光",
+    "slot": "Q",
+    "characterId": 73
+  },
+  "1073300": {
+    "id": 1073300,
+    "file": "data/assets/skills/1073300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1073300.png",
+    "name": "月光祈愿",
+    "slot": "W",
+    "characterId": 73
+  },
+  "1073400": {
+    "id": 1073400,
+    "file": "data/assets/skills/1073400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1073400.png",
+    "name": "希望的轨迹",
+    "slot": "E",
+    "characterId": 73
+  },
+  "1073500": {
+    "id": 1073500,
+    "file": "data/assets/skills/1073500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1073500.png",
+    "name": "奇迹降临",
+    "slot": "R",
+    "characterId": 73
+  },
+  "1074100": {
+    "id": 1074100,
+    "file": "data/assets/skills/1074100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1074100.png",
+    "name": "抵押",
+    "slot": "T",
+    "characterId": 74
+  },
+  "1074200": {
+    "id": 1074200,
+    "file": "data/assets/skills/1074200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1074200.png",
+    "name": "天价利息",
+    "slot": "Q",
+    "characterId": 74
+  },
+  "1074300": {
+    "id": 1074300,
+    "file": "data/assets/skills/1074300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1074300.png",
+    "name": "催缴",
+    "slot": "W",
+    "characterId": 74
+  },
+  "1074400": {
+    "id": 1074400,
+    "file": "data/assets/skills/1074400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1074400.png",
+    "name": "债务深渊",
+    "slot": "E",
+    "characterId": 74
+  },
+  "1074500": {
+    "id": 1074500,
+    "file": "data/assets/skills/1074500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1074500.png",
+    "name": "强制执行",
+    "slot": "R",
+    "characterId": 74
+  },
+  "1075100": {
+    "id": 1075100,
+    "file": "data/assets/skills/1075100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1075100.png",
+    "name": "苦痛之律",
+    "slot": "T",
+    "characterId": 75
+  },
+  "1075200": {
+    "id": 1075200,
+    "file": "data/assets/skills/1075200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1075200.png",
+    "name": "断奏",
+    "slot": "Q",
+    "characterId": 75
+  },
+  "1075300": {
+    "id": 1075300,
+    "file": "data/assets/skills/1075300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1075300.png",
+    "name": "曲终",
+    "slot": "W",
+    "characterId": 75
+  },
+  "1075400": {
+    "id": 1075400,
+    "file": "data/assets/skills/1075400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1075400.png",
+    "name": "连续记号",
+    "slot": "E",
+    "characterId": 75
+  },
+  "1075500": {
+    "id": 1075500,
+    "file": "data/assets/skills/1075500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1075500.png",
+    "name": "天鹅狂想曲",
+    "slot": "R",
+    "characterId": 75
+  },
+  "1076100": {
+    "id": 1076100,
+    "file": "data/assets/skills/1076100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1076100.png",
+    "name": "痛楚再临",
+    "slot": "T",
+    "characterId": 76
+  },
+  "1076200": {
+    "id": 1076200,
+    "file": "data/assets/skills/1076200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1076200.png",
+    "name": "重击&尖刺",
+    "slot": "Q",
+    "characterId": 76
+  },
+  "1076300": {
+    "id": 1076300,
+    "file": "data/assets/skills/1076300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1076300.png",
+    "name": "压抑之痛",
+    "slot": "W",
+    "characterId": 76
+  },
+  "1076400": {
+    "id": 1076400,
+    "file": "data/assets/skills/1076400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1076400.png",
+    "name": "扭曲的执念",
+    "slot": "E",
+    "characterId": 76
+  },
+  "1076500": {
+    "id": 1076500,
+    "file": "data/assets/skills/1076500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1076500.png",
+    "name": "处刑式",
+    "slot": "R",
+    "characterId": 76
+  },
+  "1077100": {
+    "id": 1077100,
+    "file": "data/assets/skills/1077100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1077100.png",
+    "name": "道行",
+    "slot": "T",
+    "characterId": 77
+  },
+  "1077200": {
+    "id": 1077200,
+    "file": "data/assets/skills/1077200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1077200.png",
+    "name": "风行诀",
+    "slot": "Q",
+    "characterId": 77
+  },
+  "1077300": {
+    "id": 1077300,
+    "file": "data/assets/skills/1077300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1077300.png",
+    "name": "风刃",
+    "slot": "W",
+    "characterId": 77
+  },
+  "1077400": {
+    "id": 1077400,
+    "file": "data/assets/skills/1077400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1077400.png",
+    "name": "径云",
+    "slot": "E",
+    "characterId": 77
+  },
+  "1077500": {
+    "id": 1077500,
+    "file": "data/assets/skills/1077500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1077500.png",
+    "name": "风流云散",
+    "slot": "R",
+    "characterId": 77
+  },
+  "1078100": {
+    "id": 1078100,
+    "file": "data/assets/skills/1078100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1078000.png",
+    "name": "剑之记忆",
+    "slot": "T",
+    "characterId": 78
+  },
+  "1078200": {
+    "id": 1078200,
+    "file": "data/assets/skills/1078200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1078200.png",
+    "name": "连斩",
+    "slot": "Q",
+    "characterId": 78
+  },
+  "1078300": {
+    "id": 1078300,
+    "file": "data/assets/skills/1078300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1078330.png",
+    "name": "居合一闪",
+    "slot": "W",
+    "characterId": 78
+  },
+  "1078400": {
+    "id": 1078400,
+    "file": "data/assets/skills/1078400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1078400.png",
+    "name": "月轮斩",
+    "slot": "E",
+    "characterId": 78
+  },
+  "1078500": {
+    "id": 1078500,
+    "file": "data/assets/skills/1078500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1078500.png",
+    "name": "物干焯 / 燕返",
+    "slot": "R",
+    "characterId": 78
+  },
+  "1079100": {
+    "id": 1079100,
+    "file": "data/assets/skills/1079100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1079100.png",
+    "name": "阿斯特拉能量",
+    "slot": "T",
+    "characterId": 79
+  },
+  "1079200": {
+    "id": 1079200,
+    "file": "data/assets/skills/1079200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1079200.png",
+    "name": "连环炮击&歼灭炮击",
+    "slot": "Q",
+    "characterId": 79
+  },
+  "1079300": {
+    "id": 1079300,
+    "file": "data/assets/skills/1079300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1079300.png",
+    "name": "聚能炮击",
+    "slot": "W",
+    "characterId": 79
+  },
+  "1079400": {
+    "id": 1079400,
+    "file": "data/assets/skills/1079400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1079400.png",
+    "name": "迅影",
+    "slot": "E",
+    "characterId": 79
+  },
+  "1079500": {
+    "id": 1079500,
+    "file": "data/assets/skills/1079500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1079500.png",
+    "name": "阿斯特拉冲击",
+    "slot": "R",
+    "characterId": 79
+  },
+  "1080100": {
+    "id": 1080100,
+    "file": "data/assets/skills/1080100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1080100.png",
+    "name": "演算",
+    "slot": "T",
+    "characterId": 80
+  },
+  "1080200": {
+    "id": 1080200,
+    "file": "data/assets/skills/1080200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1080200.png",
+    "name": "观测",
+    "slot": "Q",
+    "characterId": 80
+  },
+  "1080300": {
+    "id": 1080300,
+    "file": "data/assets/skills/1080300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1080300.png",
+    "name": "量子纠缠",
+    "slot": "W",
+    "characterId": 80
+  },
+  "1080400": {
+    "id": 1080400,
+    "file": "data/assets/skills/1080400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1080400.png",
+    "name": "路径积分",
+    "slot": "E",
+    "characterId": 80
+  },
+  "1080500": {
+    "id": 1080500,
+    "file": "data/assets/skills/1080500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1080500.png",
+    "name": "波函数坍缩",
+    "slot": "R",
+    "characterId": 80
+  },
+  "1081100": {
+    "id": 1081100,
+    "file": "data/assets/skills/1081100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1081100.png",
+    "name": "K.O.",
+    "slot": "T",
+    "characterId": 81
+  },
+  "1081200": {
+    "id": 1081200,
+    "file": "data/assets/skills/1081200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1081200.png",
+    "name": "落点",
+    "slot": "Q",
+    "characterId": 81
+  },
+  "1081300": {
+    "id": 1081300,
+    "file": "data/assets/skills/1081300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1081300.png",
+    "name": "节拍交汇",
+    "slot": "W",
+    "characterId": 81
+  },
+  "1081400": {
+    "id": 1081400,
+    "file": "data/assets/skills/1081400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1081400.png",
+    "name": "1UP",
+    "slot": "E",
+    "characterId": 81
+  },
+  "1081500": {
+    "id": 1081500,
+    "file": "data/assets/skills/1081500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1081500.png",
+    "name": "妮娅的游戏世界",
+    "slot": "R",
+    "characterId": 81
+  },
+  "1082100": {
+    "id": 1082100,
+    "file": "data/assets/skills/1082100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1082100.png",
+    "name": "剑道",
+    "slot": "T",
+    "characterId": 82
+  },
+  "1082200": {
+    "id": 1082200,
+    "file": "data/assets/skills/1082200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1082200.png",
+    "name": "剑影回旋",
+    "slot": "Q",
+    "characterId": 82
+  },
+  "1082300": {
+    "id": 1082300,
+    "file": "data/assets/skills/1082300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1082300.png",
+    "name": "无尘剑诀",
+    "slot": "W",
+    "characterId": 82
+  },
+  "1082400": {
+    "id": 1082400,
+    "file": "data/assets/skills/1082400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1082400.png",
+    "name": "飞闪步",
+    "slot": "E",
+    "characterId": 82
+  },
+  "1082500": {
+    "id": 1082500,
+    "file": "data/assets/skills/1082500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1082500.png",
+    "name": "万剑归宗",
+    "slot": "R",
+    "characterId": 82
+  },
+  "1083100": {
+    "id": 1083100,
+    "file": "data/assets/skills/1083100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1083100.png",
+    "name": "裂时之隙",
+    "slot": "T",
+    "characterId": 83
+  },
+  "1083200": {
+    "id": 1083200,
+    "file": "data/assets/skills/1083200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1083200.png",
+    "name": "指针",
+    "slot": "Q",
+    "characterId": 83
+  },
+  "1083300": {
+    "id": 1083300,
+    "file": "data/assets/skills/1083300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Skillicon_1083300.png",
+    "name": "时控装置",
+    "slot": "W",
+    "characterId": 83
+  },
+  "1083400": {
+    "id": 1083400,
+    "file": "data/assets/skills/1083400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Skillicon_1083400.png",
+    "name": "瞬时跃迁",
+    "slot": "E",
+    "characterId": 83
+  },
+  "1083500": {
+    "id": 1083500,
+    "file": "data/assets/skills/1083500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/Skillicon_1083500.png",
+    "name": "时序重铸域",
+    "slot": "R",
+    "characterId": 83
+  },
+  "1084100": {
+    "id": 1084100,
+    "file": "data/assets/skills/1084100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1084100.png",
+    "name": "刃移",
+    "slot": "T",
+    "characterId": 84
+  },
+  "1084200": {
+    "id": 1084200,
+    "file": "data/assets/skills/1084200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1084200.png",
+    "name": "双重斩击 / 双重横扫",
+    "slot": "Q",
+    "characterId": 84
+  },
+  "1084300": {
+    "id": 1084300,
+    "file": "data/assets/skills/1084300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1084300.png",
+    "name": "抹杀 / 刃舞风暴",
+    "slot": "W",
+    "characterId": 84
+  },
+  "1084400": {
+    "id": 1084400,
+    "file": "data/assets/skills/1084400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1084400.png",
+    "name": "断裂斩 / 反击斩",
+    "slot": "E",
+    "characterId": 84
+  },
+  "1084500": {
+    "id": 1084500,
+    "file": "data/assets/skills/1084500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1084500.png",
+    "name": "XMS-5启动 / 无尽追击",
+    "slot": "R",
+    "characterId": 84
+  },
+  "1085100": {
+    "id": 1085100,
+    "file": "data/assets/skills/1085100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1085100.png",
+    "name": "反击值",
+    "slot": "T",
+    "characterId": 85
+  },
+  "1085200": {
+    "id": 1085200,
+    "file": "data/assets/skills/1085200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1085200.png",
+    "name": "粉碎锤",
+    "slot": "Q",
+    "characterId": 85
+  },
+  "1085300": {
+    "id": 1085300,
+    "file": "data/assets/skills/1085300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1085300.png",
+    "name": "反击屏障",
+    "slot": "W",
+    "characterId": 85
+  },
+  "1085400": {
+    "id": 1085400,
+    "file": "data/assets/skills/1085400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1085400.png",
+    "name": "后撤急袭",
+    "slot": "E",
+    "characterId": 85
+  },
+  "1085500": {
+    "id": 1085500,
+    "file": "data/assets/skills/1085500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1085500.png",
+    "name": "坠风冲击",
+    "slot": "R",
+    "characterId": 85
+  },
+  "1086100": {
+    "id": 1086100,
+    "file": "data/assets/skills/1086100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086100.png",
+    "name": "最后的挣扎",
+    "slot": "T",
+    "characterId": 86
+  },
+  "1086200": {
+    "id": 1086200,
+    "file": "data/assets/skills/1086200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086200.png",
+    "name": "撕裂利爪",
+    "slot": "Q",
+    "characterId": 86
+  },
+  "1086300": {
+    "id": 1086300,
+    "file": "data/assets/skills/1086300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086300.png",
+    "name": "猎物追踪",
+    "slot": "W",
+    "characterId": 86
+  },
+  "1086310": {
+    "id": 1086310,
+    "file": "data/assets/skills/1086310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086310.png",
+    "name": "撤退本能",
+    "slot": "W",
+    "characterId": 86
+  },
+  "1086400": {
+    "id": 1086400,
+    "file": "data/assets/skills/1086400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086400.png",
+    "name": "狩猎时刻",
+    "slot": "E",
+    "characterId": 86
+  },
+  "1086500": {
+    "id": 1086500,
+    "file": "data/assets/skills/1086500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1086500.png",
+    "name": "绝息一击",
+    "slot": "R",
+    "characterId": 86
+  },
+  "1087100": {
+    "id": 1087100,
+    "file": "data/assets/skills/1087100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1087100.png",
+    "name": "因果",
+    "slot": "T",
+    "characterId": 87
+  },
+  "1087200": {
+    "id": 1087200,
+    "file": "data/assets/skills/1087200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1087200.png",
+    "name": "断罪之光",
+    "slot": "Q",
+    "characterId": 87
+  },
+  "1087300": {
+    "id": 1087300,
+    "file": "data/assets/skills/1087300.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1087300.png",
+    "name": "真实之镜 / 虚伪之镜",
+    "slot": "W",
+    "characterId": 87
+  },
+  "1087400": {
+    "id": 1087400,
+    "file": "data/assets/skills/1087400.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1087400.png",
+    "name": "罪业枷锁",
+    "slot": "E",
+    "characterId": 87
+  },
+  "1087500": {
+    "id": 1087500,
+    "file": "data/assets/skills/1087500.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1087500.png",
+    "name": "异世界的残影",
+    "slot": "R",
+    "characterId": 87
+  },
+  "3001000": {
+    "id": 3001000,
+    "file": "data/assets/skills/3001000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_081.png",
+    "name": "上勾拳",
+    "slot": "D"
+  },
+  "3002000": {
+    "id": 3002000,
+    "file": "data/assets/skills/3002000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_091.png",
+    "name": "高速旋转",
+    "slot": "D"
+  },
+  "3003000": {
+    "id": 3003000,
+    "file": "data/assets/skills/3003000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_101.png",
+    "name": "全力挥棒",
+    "slot": "D"
+  },
+  "3004000": {
+    "id": 3004000,
+    "file": "data/assets/skills/3004000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_192.png",
+    "name": "风斩",
+    "slot": "D"
+  },
+  "3005000": {
+    "id": 3005000,
+    "file": "data/assets/skills/3005000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_116.png",
+    "name": "烟幕",
+    "slot": "D"
+  },
+  "3006000": {
+    "id": 3006000,
+    "file": "data/assets/skills/3006000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_117.png",
+    "name": "投掷铁蒺藜",
+    "slot": "D"
+  },
+  "3007000": {
+    "id": 3007000,
+    "file": "data/assets/skills/3007000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_112.png",
+    "name": "箭雨",
+    "slot": "D"
+  },
+  "3008000": {
+    "id": 3008000,
+    "file": "data/assets/skills/3008000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_113.png",
+    "name": "强弩",
+    "slot": "D"
+  },
+  "3009000": {
+    "id": 3009000,
+    "file": "data/assets/skills/3009000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_051.png",
+    "name": "移动重载",
+    "slot": "D"
+  },
+  "3010000": {
+    "id": 3010000,
+    "file": "data/assets/skills/3010000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_061.png",
+    "name": "过热",
+    "slot": "D"
+  },
+  "3011000": {
+    "id": 3011000,
+    "file": "data/assets/skills/3011000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_071.png",
+    "name": "狙击",
+    "slot": "D"
+  },
+  "3013000": {
+    "id": 3013000,
+    "file": "data/assets/skills/3013000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_111.png",
+    "name": "穿刺效果",
+    "slot": "D"
+  },
+  "3014000": {
+    "id": 3014000,
+    "file": "data/assets/skills/3014000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_031.png",
+    "name": "血之螺旋",
+    "slot": "D"
+  },
+  "3015000": {
+    "id": 3015000,
+    "file": "data/assets/skills/3015000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_011.png",
+    "name": "斗篷和短剑",
+    "slot": "D"
+  },
+  "3016000": {
+    "id": 3016000,
+    "file": "data/assets/skills/3016000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_021.png",
+    "name": "格挡",
+    "slot": "D"
+  },
+  "3018000": {
+    "id": 3018000,
+    "file": "data/assets/skills/3018000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_041.png",
+    "name": "双剑狂舞",
+    "slot": "D"
+  },
+  "3019000": {
+    "id": 3019000,
+    "file": "data/assets/skills/3019000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_115.png",
+    "name": "刺影子",
+    "slot": "D"
+  },
+  "3020000": {
+    "id": 3020000,
+    "file": "data/assets/skills/3020000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_191.png",
+    "name": "猛龙过江",
+    "slot": "D"
+  },
+  "3021000": {
+    "id": 3021000,
+    "file": "data/assets/skills/3021000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_114.png",
+    "name": "闪击",
+    "slot": "D"
+  },
+  "3022000": {
+    "id": 3022000,
+    "file": "data/assets/skills/3022000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_181.png",
+    "name": "Love &...",
+    "slot": "D"
+  },
+  "3023000": {
+    "id": 3023000,
+    "file": "data/assets/skills/3023000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_193.png",
+    "name": "闪光灯",
+    "slot": "D"
+  },
+  "3024000": {
+    "id": 3024000,
+    "file": "data/assets/skills/3024000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_194.png",
+    "name": "VF介质",
+    "slot": "D"
+  },
+  "3025000": {
+    "id": 3025000,
+    "file": "data/assets/skills/3025000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/WSkillIcon_198.png",
+    "name": "VF稳定化",
+    "slot": "D"
+  }
+}

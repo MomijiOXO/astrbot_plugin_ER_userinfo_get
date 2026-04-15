@@ -1,0 +1,81 @@
+{
+  "tiers": [
+    {
+      "id": 0,
+      "key": "Unrank",
+      "name": "段位未鉴定",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/0.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/0.png"
+    },
+    {
+      "id": 1,
+      "key": "Iron",
+      "name": "铁阎",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/1.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/1.png"
+    },
+    {
+      "id": 2,
+      "key": "Bronze",
+      "name": "铜魂",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/2.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/2.png"
+    },
+    {
+      "id": 3,
+      "key": "Silver",
+      "name": "银烙",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/3.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/3.png"
+    },
+    {
+      "id": 4,
+      "key": "Gold",
+      "name": "金魄",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/4.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/4.png"
+    },
+    {
+      "id": 5,
+      "key": "Platinum",
+      "name": "修罗",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/5.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/5.png"
+    },
+    {
+      "id": 6,
+      "key": "Diamond",
+      "name": "灭钻",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/6.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/6.png"
+    },
+    {
+      "id": 63,
+      "key": "Meteorite",
+      "name": "星陨",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/63.png?1",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/63.png?1"
+    },
+    {
+      "id": 66,
+      "key": "Mithril",
+      "name": "无瑕",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/66.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/66.png"
+    },
+    {
+      "id": 7,
+      "key": "Demigod",
+      "name": "半神",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/7.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/7.png"
+    },
+    {
+      "id": 8,
+      "key": "Eternity",
+      "name": "永恒",
+      "imageUrl": "//cdn.dak.gg/assets/er/images/rank/full/8.png",
+      "iconUrl": "//cdn.dak.gg/assets/er/images/rank/round/8.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Havoc": {
+    "key": "Havoc",
+    "name": "破坏型",
+    "file": "data/assets/trait_skill_groups/Havoc.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Havoc02.png"
+  },
+  "Fortification": {
+    "key": "Fortification",
+    "name": "抵抗型",
+    "file": "data/assets/trait_skill_groups/Fortification.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Fortification02.png"
+  },
+  "Support": {
+    "key": "Support",
+    "name": "支援型",
+    "file": "data/assets/trait_skill_groups/Support.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Support02.png"
+  },
+  "Chaos": {
+    "key": "Chaos",
+    "name": "混沌型",
+    "file": "data/assets/trait_skill_groups/Chaos.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Chaos02.png"
+  }
+}

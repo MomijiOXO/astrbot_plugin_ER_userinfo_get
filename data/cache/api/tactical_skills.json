@@ -1,0 +1,226 @@
+{
+  "tacticalSkills": [
+    {
+      "id": 30,
+      "name": "闪灵",
+      "tooltip": "使用后向指定位置移动一段距离。 <color=#ff3399>强化效果 : </color>使用后，暂时增加移动速度且无视碰撞。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4000000.png"
+    },
+    {
+      "id": 40,
+      "name": "震裂",
+      "tooltip": "使用后对周围敌人造成技能伤害，并降低其移动速度。 <color=#ff3399>强化效果 : </color>在一定时间内对周围的敌人造成伤害。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4001000.png"
+    },
+    {
+      "id": 50,
+      "name": "违规者",
+      "tooltip": "改装E.M.O.T.E爆炸时，能够增加盟友体力并增加敌人承受伤害。 <color=#ff3399>强化效果 : </color> 赋予更强的效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4101000.png"
+    },
+    {
+      "id": 60,
+      "name": "赤色风暴",
+      "tooltip": "使用时短距离移动，暂时增加普攻射程。 <color=#ff3399>强化效果 : </color>强化射程增加效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4102000.png"
+    },
+    {
+      "id": 70,
+      "name": "超越",
+      "tooltip": "能够提供强大的护盾并吸收爆发性的伤害。 <color=#ff3399>强化效果 : </color>增加一段时间内的负面效果抵御。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4103000.png"
+    },
+    {
+      "id": 80,
+      "name": "极光陀螺",
+      "tooltip": "暂时陷入凝滞状态，不会受到任何干扰。 <color=#ff3399>强化效果 : </color>凝滞状态下，快速缩减自身技能冷却。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4104000.png"
+    },
+    {
+      "id": 90,
+      "name": "净化",
+      "tooltip": "立即解除减益效果，增加移动速度。 <color=#ff3399>强化效果 : </color>使用后暂时处于免疫所有负面效果状态。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4105000.png"
+    },
+    {
+      "id": 110,
+      "name": "羁绊者",
+      "tooltip": "当周围实验体在战斗中失去体力时，根据已失体力获得成比例的能量。 使用后消耗所有能量，赋予周围盟友移动速度和吸血-所有伤害效果。 <color=#ff3399>强化效果 : </color> 获得更多能量。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4107000.png"
+    },
+    {
+      "id": 120,
+      "name": "阔步者",
+      "tooltip": "使用后，朝着敌人实验体移动时的移动速度增加，持续时间内对敌人实验体造成伤害时，将造成额外技能伤害，且暂时增加移动速度。 <color=#ff3399>强化效果 : </color>阔步者对目标造成伤害时，目标的移动速度降低。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4110000.png"
+    },
+    {
+      "id": 130,
+      "name": "实刃",
+      "tooltip": "使用后对周围敌人造成伤害，并根据承受伤害的敌人数增加一定比例的移动速度。 <color=#ff3399>强化效果 : </color>额外召唤实刃并造成额外伤害。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4112000.png"
+    },
+    {
+      "id": 140,
+      "name": "虚言",
+      "tooltip": "消耗体力并增加所有伤害。消耗的体力会慢慢恢复。 <color=#ff3399>强化效果 : </color>参与击杀敌人时，更新效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4113000.png"
+    },
+    {
+      "id": 150,
+      "name": "治愈之风",
+      "tooltip": "恢复范围内盟友的体力。 <color=#ff3399>强化效果 : </color>增加被风扫过盟友的防御力。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4108000.png"
+    },
+    {
+      "id": 500010,
+      "name": "",
+      "tooltip": "",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4511000.png"
+    },
+    {
+      "id": 500020,
+      "name": "重力场",
+      "tooltip": "稍后将敌人拉至自身周围，并使其陷入晕厥。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4502000.png"
+    },
+    {
+      "id": 500030,
+      "name": "滚雷",
+      "tooltip": "大幅增加自身一段时间内的移动速度。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4503000.png"
+    },
+    {
+      "id": 500040,
+      "name": "爆震",
+      "tooltip": "爆发巨大的能量，并在短时间后攻击附近的敌人实验体，成功击中时将获得额外效果。 未能成功击中时，将会收到惩罚。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4504000.png"
+    },
+    {
+      "id": 500050,
+      "name": "脉冲",
+      "tooltip": "停止一段时间后，向指定方向突进。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4512000.png"
+    },
+    {
+      "id": 500060,
+      "name": "祈愿",
+      "tooltip": "为一定范围内的所有队友提供护盾。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4506000.png"
+    },
+    {
+      "id": 500070,
+      "name": "地碎",
+      "tooltip": "向指定方向的地面生成粉碎区域，造成伤害后附加晕厥和降低移动速度的效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4507000.png"
+    },
+    {
+      "id": 500080,
+      "name": "梦幻拳",
+      "tooltip": "向指定的方向打出梦幻拳。 被命中的目标将沿着出击的方向被击飞。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4508000.png"
+    },
+    {
+      "id": 500090,
+      "name": "流星",
+      "tooltip": "稍后陨石将坠落在指定的位置并造成巨大的伤害。 被陨石击中的敌人将暂时陷入晕厥。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4509000.png"
+    },
+    {
+      "id": 500100,
+      "name": "闪电之盾",
+      "tooltip": "给予指定的盟友闪电之盾，解除减益效果。 闪电之盾消失时将给周围造成伤害。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4510000.png"
+    },
+    {
+      "id": 500110,
+      "name": "祝福：冥想",
+      "tooltip": "立即恢复部分体力上限，此后在短时间内进行额外恢复。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4511000.png"
+    },
+    {
+      "id": 500120,
+      "name": "闪灵",
+      "tooltip": "使用后向指定位置移动一段距离。 <color=#ff3399>强化效果 : </color>使用后，暂时增加移动速度且无视碰撞。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4000000.png"
+    },
+    {
+      "id": 500130,
+      "name": "震裂",
+      "tooltip": "使用后对周围敌人造成技能伤害，并降低其移动速度。 <color=#ff3399>强化效果 : </color>在一定时间内对周围的敌人造成伤害。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4001000.png"
+    },
+    {
+      "id": 500140,
+      "name": "违规者",
+      "tooltip": "改装E.M.O.T.E爆炸时，能够增加盟友体力并增加敌人承受伤害。 <color=#ff3399>强化效果 : </color> 赋予更强的效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4101000.png"
+    },
+    {
+      "id": 500150,
+      "name": "赤色风暴",
+      "tooltip": "使用时短距离移动，暂时增加普攻射程。 <color=#ff3399>强化效果 : </color>强化射程增加效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4102000.png"
+    },
+    {
+      "id": 500160,
+      "name": "超越",
+      "tooltip": "能够提供强大的护盾并吸收爆发性的伤害。 <color=#ff3399>强化效果 : </color>增加一段时间内的负面效果抵御。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4103000.png"
+    },
+    {
+      "id": 500170,
+      "name": "极光陀螺",
+      "tooltip": "暂时陷入凝滞状态，不会受到任何干扰。 <color=#ff3399>强化效果 : </color>凝滞状态下，快速缩减自身技能冷却。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4104000.png"
+    },
+    {
+      "id": 500180,
+      "name": "净化",
+      "tooltip": "立即解除减益效果，增加移动速度。 <color=#ff3399>强化效果 : </color>使用后暂时处于免疫所有负面效果状态。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4105000.png"
+    },
+    {
+      "id": 500190,
+      "name": "羁绊者",
+      "tooltip": "当周围实验体在战斗中失去体力时，根据已失体力获得成比例的能量。 使用后消耗所有能量，赋予周围盟友移动速度和吸血-所有伤害效果。 <color=#ff3399>强化效果 : </color> 获得更多能量。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4107000.png"
+    },
+    {
+      "id": 500200,
+      "name": "阔步者",
+      "tooltip": "使用后，朝着敌人实验体移动时的移动速度增加，持续时间内对敌人实验体造成伤害时，将造成额外技能伤害，且暂时增加移动速度。 <color=#ff3399>强化效果 : </color>阔步者对目标造成伤害时，目标的移动速度降低。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4110000.png"
+    },
+    {
+      "id": 500210,
+      "name": "实刃",
+      "tooltip": "使用后对周围敌人造成伤害，并根据承受伤害的敌人数增加一定比例的移动速度。 <color=#ff3399>强化效果 : </color>额外召唤实刃并造成额外伤害。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4112000.png"
+    },
+    {
+      "id": 500220,
+      "name": "虚言",
+      "tooltip": "消耗体力并增加所有伤害。消耗的体力会慢慢恢复。 <color=#ff3399>强化效果 : </color>参与击杀敌人时，更新效果。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4113000.png"
+    },
+    {
+      "id": 500230,
+      "name": "治愈之风",
+      "tooltip": "恢复范围内盟友的体力。 <color=#ff3399>强化效果 : </color>增加被风扫过盟友的防御力。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4108000.png"
+    },
+    {
+      "id": 500240,
+      "name": "附着",
+      "tooltip": "朝指定方向投掷投射体，将对首个命中的目标造成伤害，再次使用技能时向目标突进。",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4524000.png"
+    },
+    {
+      "id": 1000000,
+      "name": "",
+      "tooltip": "",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060000.png"
+    }
+  ]
+}

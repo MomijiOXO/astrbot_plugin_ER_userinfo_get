@@ -1,0 +1,3074 @@
+{
+  "1001000": {
+    "id": 1001000,
+    "file": "data/assets/character_skins/1001000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S000.png",
+    "name": "杰琪",
+    "imageName": "Jackie_S000",
+    "characterId": 1
+  },
+  "1001001": {
+    "id": 1001001,
+    "file": "data/assets/character_skins/1001001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S001.png",
+    "name": "绞杀者 杰琪",
+    "imageName": "Jackie_S001",
+    "characterId": 1
+  },
+  "1001002": {
+    "id": 1001002,
+    "file": "data/assets/character_skins/1001002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S002.png",
+    "name": "血宴礼服 杰琪",
+    "imageName": "Jackie_S002",
+    "characterId": 1
+  },
+  "1001003": {
+    "id": 1001003,
+    "file": "data/assets/character_skins/1001003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S003.png",
+    "name": "系统冲击 杰琪",
+    "imageName": "Jackie_S003",
+    "characterId": 1
+  },
+  "1001004": {
+    "id": 1001004,
+    "file": "data/assets/character_skins/1001004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S004.png",
+    "name": "军官候补生 杰琪",
+    "imageName": "Jackie_S004",
+    "characterId": 1
+  },
+  "1001005": {
+    "id": 1001005,
+    "file": "data/assets/character_skins/1001005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jackie_S005.png",
+    "name": "幽灵猎人 杰琪",
+    "imageName": "Jackie_S005",
+    "characterId": 1
+  },
+  "1002000": {
+    "id": 1002000,
+    "file": "data/assets/character_skins/1002000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S000.png",
+    "name": "阿雅",
+    "imageName": "Aya_S000",
+    "characterId": 2
+  },
+  "1002001": {
+    "id": 1002001,
+    "file": "data/assets/character_skins/1002001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S001.png",
+    "name": "警察 阿雅",
+    "imageName": "Aya_S001",
+    "characterId": 2
+  },
+  "1002002": {
+    "id": 1002002,
+    "file": "data/assets/character_skins/1002002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S002.png",
+    "name": "烟花盛宴 阿雅",
+    "imageName": "Aya_S002",
+    "characterId": 2
+  },
+  "1002003": {
+    "id": 1002003,
+    "file": "data/assets/character_skins/1002003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S003.png",
+    "name": "战斗女仆 阿雅",
+    "imageName": "Aya_S003",
+    "characterId": 2
+  },
+  "1002004": {
+    "id": 1002004,
+    "file": "data/assets/character_skins/1002004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S004.png",
+    "name": "军官候补生 阿雅",
+    "imageName": "Aya_S004",
+    "characterId": 2
+  },
+  "1002005": {
+    "id": 1002005,
+    "file": "data/assets/character_skins/1002005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aya_S005.png",
+    "name": "阿雅（艾尔菲尔特）",
+    "imageName": "Aya_S005",
+    "characterId": 2
+  },
+  "1003000": {
+    "id": 1003000,
+    "file": "data/assets/character_skins/1003000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S000.png",
+    "name": "菲欧娜",
+    "imageName": "Fiora_S000",
+    "characterId": 3
+  },
+  "1003001": {
+    "id": 1003001,
+    "file": "data/assets/character_skins/1003001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S001.png",
+    "name": "军官 菲欧娜",
+    "imageName": "Fiora_S001",
+    "characterId": 3
+  },
+  "1003002": {
+    "id": 1003002,
+    "file": "data/assets/character_skins/1003002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S002.png",
+    "name": "剑客 菲欧娜",
+    "imageName": "Fiora_S002",
+    "characterId": 3
+  },
+  "1003003": {
+    "id": 1003003,
+    "file": "data/assets/character_skins/1003003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S003.png",
+    "name": "派对舞裙 菲欧娜",
+    "imageName": "Fiora_S003",
+    "characterId": 3
+  },
+  "1003004": {
+    "id": 1003004,
+    "file": "data/assets/character_skins/1003004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S004.png",
+    "name": "战斗女仆 菲欧娜",
+    "imageName": "Fiora_S004",
+    "characterId": 3
+  },
+  "1003005": {
+    "id": 1003005,
+    "file": "data/assets/character_skins/1003005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fiora_S005.png",
+    "name": "先锋教官 菲欧娜",
+    "imageName": "Fiora_S005",
+    "characterId": 3
+  },
+  "1004000": {
+    "id": 1004000,
+    "file": "data/assets/character_skins/1004000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S000.png",
+    "name": "马格努斯",
+    "imageName": "Magnus_S000",
+    "characterId": 4
+  },
+  "1004001": {
+    "id": 1004001,
+    "file": "data/assets/character_skins/1004001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S001.png",
+    "name": "BOSS 马格努斯",
+    "imageName": "Magnus_S001",
+    "characterId": 4
+  },
+  "1004002": {
+    "id": 1004002,
+    "file": "data/assets/character_skins/1004002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S002.png",
+    "name": "南国风情 马格努斯",
+    "imageName": "Magnus_S002",
+    "characterId": 4
+  },
+  "1004003": {
+    "id": 1004003,
+    "file": "data/assets/character_skins/1004003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S003.png",
+    "name": "叛逆 马格努斯",
+    "imageName": "Magnus_S003",
+    "characterId": 4
+  },
+  "1004004": {
+    "id": 1004004,
+    "file": "data/assets/character_skins/1004004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S004.png",
+    "name": "军官候补生 马格努斯",
+    "imageName": "Magnus_S004",
+    "characterId": 4
+  },
+  "1004005": {
+    "id": 1004005,
+    "file": "data/assets/character_skins/1004005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Magnus_S005.png",
+    "name": "Mk. VIII 毁灭者 M.A.G",
+    "imageName": "Magnus_S005",
+    "characterId": 4
+  },
+  "1005000": {
+    "id": 1005000,
+    "file": "data/assets/character_skins/1005000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Zahir_S000.png",
+    "name": "扎希尔",
+    "imageName": "Zahir_S000",
+    "characterId": 5
+  },
+  "1005001": {
+    "id": 1005001,
+    "file": "data/assets/character_skins/1005001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Zahir_S001.png",
+    "name": "死神 扎希尔",
+    "imageName": "Zahir_S001",
+    "characterId": 5
+  },
+  "1005002": {
+    "id": 1005002,
+    "file": "data/assets/character_skins/1005002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Zahir_S002.png",
+    "name": "钴进化 扎希尔",
+    "imageName": "Zahir_S002",
+    "characterId": 5
+  },
+  "1005003": {
+    "id": 1005003,
+    "file": "data/assets/character_skins/1005003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Zahir_S003.png",
+    "name": "富豪 扎希尔",
+    "imageName": "Zahir_S003",
+    "characterId": 5
+  },
+  "1006000": {
+    "id": 1006000,
+    "file": "data/assets/character_skins/1006000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S000.png",
+    "name": "娜町",
+    "imageName": "Nadine_S000",
+    "characterId": 6
+  },
+  "1006001": {
+    "id": 1006001,
+    "file": "data/assets/character_skins/1006001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S001.png",
+    "name": "女猎 娜町",
+    "imageName": "Nadine_S001",
+    "characterId": 6
+  },
+  "1006002": {
+    "id": 1006002,
+    "file": "data/assets/character_skins/1006002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S002.png",
+    "name": "小红帽 娜町",
+    "imageName": "Nadine_S002",
+    "characterId": 6
+  },
+  "1006003": {
+    "id": 1006003,
+    "file": "data/assets/character_skins/1006003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S003.png",
+    "name": "野性的呼唤 娜町",
+    "imageName": "Nadine_S003",
+    "characterId": 6
+  },
+  "1006004": {
+    "id": 1006004,
+    "file": "data/assets/character_skins/1006004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S004.png",
+    "name": "恶魔猎手 娜町",
+    "imageName": "Nadine_S004",
+    "characterId": 6
+  },
+  "1006005": {
+    "id": 1006005,
+    "file": "data/assets/character_skins/1006005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nadine_S005.png",
+    "name": "军官候补生 娜町",
+    "imageName": "Nadine_S005",
+    "characterId": 6
+  },
+  "1007000": {
+    "id": 1007000,
+    "file": "data/assets/character_skins/1007000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S000.png",
+    "name": "玄佑",
+    "imageName": "Hyunwoo_S000",
+    "characterId": 7
+  },
+  "1007001": {
+    "id": 1007001,
+    "file": "data/assets/character_skins/1007001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S001.png",
+    "name": "暗巷里 玄佑",
+    "imageName": "Hyunwoo_S001",
+    "characterId": 7
+  },
+  "1007002": {
+    "id": 1007002,
+    "file": "data/assets/character_skins/1007002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S002.png",
+    "name": "恶魔之子 玄佑",
+    "imageName": "Hyunwoo_S002",
+    "characterId": 7
+  },
+  "1007003": {
+    "id": 1007003,
+    "file": "data/assets/character_skins/1007003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S003.png",
+    "name": "军官候补生 玄佑",
+    "imageName": "Hyunwoo_S003",
+    "characterId": 7
+  },
+  "1007004": {
+    "id": 1007004,
+    "file": "data/assets/character_skins/1007004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S004.png",
+    "name": "军官候补生 玄佑(永恒段位皮肤)",
+    "imageName": "Hyunwoo_S004",
+    "characterId": 7
+  },
+  "1007005": {
+    "id": 1007005,
+    "file": "data/assets/character_skins/1007005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S005.png",
+    "name": "哼哼玄佑",
+    "imageName": "Hyunwoo_S005",
+    "characterId": 7
+  },
+  "1007006": {
+    "id": 1007006,
+    "file": "data/assets/character_skins/1007006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyunwoo_S006.png",
+    "name": "盛夏派对 玄佑",
+    "imageName": "Hyunwoo_S006",
+    "characterId": 7
+  },
+  "1008000": {
+    "id": 1008000,
+    "file": "data/assets/character_skins/1008000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S000.png",
+    "name": "哈特",
+    "imageName": "Hart_S000",
+    "characterId": 8
+  },
+  "1008001": {
+    "id": 1008001,
+    "file": "data/assets/character_skins/1008001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S001.png",
+    "name": "乐队指挥 哈特",
+    "imageName": "Hart_S001",
+    "characterId": 8
+  },
+  "1008002": {
+    "id": 1008002,
+    "file": "data/assets/character_skins/1008002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S002.png",
+    "name": "冰雪庆典 哈特",
+    "imageName": "Hart_S002",
+    "characterId": 8
+  },
+  "1008003": {
+    "id": 1008003,
+    "file": "data/assets/character_skins/1008003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S003.png",
+    "name": "紫心皇后 哈特",
+    "imageName": "Hart_S003",
+    "characterId": 8
+  },
+  "1008004": {
+    "id": 1008004,
+    "file": "data/assets/character_skins/1008004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S004.png",
+    "name": "军乐队 哈特",
+    "imageName": "Hart_S004",
+    "characterId": 8
+  },
+  "1008005": {
+    "id": 1008005,
+    "file": "data/assets/character_skins/1008005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hart_S005.png",
+    "name": "军官候补生 哈特",
+    "imageName": "Hart_S005",
+    "characterId": 8
+  },
+  "1009000": {
+    "id": 1009000,
+    "file": "data/assets/character_skins/1009000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isol_S000.png",
+    "name": "埃索",
+    "imageName": "Isol_S000",
+    "characterId": 9
+  },
+  "1009001": {
+    "id": 1009001,
+    "file": "data/assets/character_skins/1009001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isol_S001.png",
+    "name": "天启 埃索",
+    "imageName": "Isol_S001",
+    "characterId": 9
+  },
+  "1009002": {
+    "id": 1009002,
+    "file": "data/assets/character_skins/1009002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isol_S002.png",
+    "name": "幽灵猎人 埃索",
+    "imageName": "Isol_S002",
+    "characterId": 9
+  },
+  "1009003": {
+    "id": 1009003,
+    "file": "data/assets/character_skins/1009003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isol_S003.png",
+    "name": "瑞兔迎春 埃索",
+    "imageName": "Isol_S003",
+    "characterId": 9
+  },
+  "1009004": {
+    "id": 1009004,
+    "file": "data/assets/character_skins/1009004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isol_S004.png",
+    "name": "军官候补生 埃索",
+    "imageName": "Isol_S004",
+    "characterId": 9
+  },
+  "1010000": {
+    "id": 1010000,
+    "file": "data/assets/character_skins/1010000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S000.png",
+    "name": "李黛琳",
+    "imageName": "LiDailin_S000",
+    "characterId": 10
+  },
+  "1010001": {
+    "id": 1010001,
+    "file": "data/assets/character_skins/1010001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S001.png",
+    "name": "旅者 李黛琳",
+    "imageName": "LiDailin_S001",
+    "characterId": 10
+  },
+  "1010002": {
+    "id": 1010002,
+    "file": "data/assets/character_skins/1010002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S002.png",
+    "name": "叛逆 李黛琳",
+    "imageName": "LiDailin_S002",
+    "characterId": 10
+  },
+  "1010003": {
+    "id": 1010003,
+    "file": "data/assets/character_skins/1010003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S003.png",
+    "name": "龙之舞 李黛琳",
+    "imageName": "LiDailin_S003",
+    "characterId": 10
+  },
+  "1010004": {
+    "id": 1010004,
+    "file": "data/assets/character_skins/1010004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S004.png",
+    "name": "吼吼黛琳",
+    "imageName": "LiDailin_S004",
+    "characterId": 10
+  },
+  "1010005": {
+    "id": 1010005,
+    "file": "data/assets/character_skins/1010005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S005.png",
+    "name": "仲夏微醺 李黛琳",
+    "imageName": "LiDailin_S005",
+    "characterId": 10
+  },
+  "1010006": {
+    "id": 1010006,
+    "file": "data/assets/character_skins/1010006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S006.png",
+    "name": "军官候补生 李黛琳",
+    "imageName": "LiDailin_S006",
+    "characterId": 10
+  },
+  "1010007": {
+    "id": 1010007,
+    "file": "data/assets/character_skins/1010007.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_LiDailin_S007.png",
+    "name": "李黛琳（婕克・欧）",
+    "imageName": "LiDailin_S007",
+    "characterId": 10
+  },
+  "1011000": {
+    "id": 1011000,
+    "file": "data/assets/character_skins/1011000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S000.png",
+    "name": "雪",
+    "imageName": "Yuki_S000",
+    "characterId": 11
+  },
+  "1011001": {
+    "id": 1011001,
+    "file": "data/assets/character_skins/1011001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S001.png",
+    "name": "军官候补生 雪",
+    "imageName": "Yuki_S001",
+    "characterId": 11
+  },
+  "1011002": {
+    "id": 1011002,
+    "file": "data/assets/character_skins/1011002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S002.png",
+    "name": "剑道家 雪",
+    "imageName": "Yuki_S002",
+    "characterId": 11
+  },
+  "1011003": {
+    "id": 1011003,
+    "file": "data/assets/character_skins/1011003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S003.png",
+    "name": "夜行忍者 雪",
+    "imageName": "Yuki_S003",
+    "characterId": 11
+  },
+  "1011004": {
+    "id": 1011004,
+    "file": "data/assets/character_skins/1011004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S004.png",
+    "name": "汪汪雪",
+    "imageName": "Yuki_S004",
+    "characterId": 11
+  },
+  "1011005": {
+    "id": 1011005,
+    "file": "data/assets/character_skins/1011005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S005.png",
+    "name": "幽灵猎人 雪",
+    "imageName": "Yuki_S005",
+    "characterId": 11
+  },
+  "1011006": {
+    "id": 1011006,
+    "file": "data/assets/character_skins/1011006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Yuki_S006.png",
+    "name": "踏枫而行 雪",
+    "imageName": "Yuki_S006",
+    "characterId": 11
+  },
+  "1012000": {
+    "id": 1012000,
+    "file": "data/assets/character_skins/1012000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S000.png",
+    "name": "慧珍",
+    "imageName": "Hyejin_S000",
+    "characterId": 12
+  },
+  "1012001": {
+    "id": 1012001,
+    "file": "data/assets/character_skins/1012001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S001.png",
+    "name": "木莲花 慧珍",
+    "imageName": "Hyejin_S001",
+    "characterId": 12
+  },
+  "1012002": {
+    "id": 1012002,
+    "file": "data/assets/character_skins/1012002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S002.png",
+    "name": "军官候补生 慧珍",
+    "imageName": "Hyejin_S002",
+    "characterId": 12
+  },
+  "1012003": {
+    "id": 1012003,
+    "file": "data/assets/character_skins/1012003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S003.png",
+    "name": "幽灵猎人 慧珍",
+    "imageName": "Hyejin_S003",
+    "characterId": 12
+  },
+  "1012004": {
+    "id": 1012004,
+    "file": "data/assets/character_skins/1012004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S004.png",
+    "name": "考生 慧珍",
+    "imageName": "Hyejin_S004",
+    "characterId": 12
+  },
+  "1012005": {
+    "id": 1012005,
+    "file": "data/assets/character_skins/1012005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hyejin_S005.png",
+    "name": "圣夜巫女 慧珍",
+    "imageName": "Hyejin_S005",
+    "characterId": 12
+  },
+  "1013000": {
+    "id": 1013000,
+    "file": "data/assets/character_skins/1013000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xiukai_S000.png",
+    "name": "修凯",
+    "imageName": "Xiukai_S000",
+    "characterId": 13
+  },
+  "1013001": {
+    "id": 1013001,
+    "file": "data/assets/character_skins/1013001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xiukai_S001.png",
+    "name": "日系厨师 修凯",
+    "imageName": "Xiukai_S001",
+    "characterId": 13
+  },
+  "1013002": {
+    "id": 1013002,
+    "file": "data/assets/character_skins/1013002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xiukai_S002.png",
+    "name": "斗球王 修凯",
+    "imageName": "Xiukai_S002",
+    "characterId": 13
+  },
+  "1013003": {
+    "id": 1013003,
+    "file": "data/assets/character_skins/1013003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xiukai_S003.png",
+    "name": "熊猫星厨 修凯",
+    "imageName": "Xiukai_S003",
+    "characterId": 13
+  },
+  "1013004": {
+    "id": 1013004,
+    "file": "data/assets/character_skins/1013004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xiukai_S004.png",
+    "name": "圣诞老人 修凯",
+    "imageName": "Xiukai_S004",
+    "characterId": 13
+  },
+  "1014000": {
+    "id": 1014000,
+    "file": "data/assets/character_skins/1014000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S000.png",
+    "name": "奇娅拉",
+    "imageName": "Chiara_S000",
+    "characterId": 14
+  },
+  "1014001": {
+    "id": 1014001,
+    "file": "data/assets/character_skins/1014001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S001.png",
+    "name": "审判官 奇娅拉",
+    "imageName": "Chiara_S001",
+    "characterId": 14
+  },
+  "1014002": {
+    "id": 1014002,
+    "file": "data/assets/character_skins/1014002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S002.png",
+    "name": "幽灵猎人 奇娅拉",
+    "imageName": "Chiara_S002",
+    "characterId": 14
+  },
+  "1014003": {
+    "id": 1014003,
+    "file": "data/assets/character_skins/1014003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S003.png",
+    "name": "魔女 奇娅拉",
+    "imageName": "Chiara_S003",
+    "characterId": 14
+  },
+  "1014004": {
+    "id": 1014004,
+    "file": "data/assets/character_skins/1014004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S004.png",
+    "name": "盛夏派对 奇娅拉",
+    "imageName": "Chiara_S004",
+    "characterId": 14
+  },
+  "1014005": {
+    "id": 1014005,
+    "file": "data/assets/character_skins/1014005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chiara_S005.png",
+    "name": "忧郁兔女郎 奇娅拉",
+    "imageName": "Chiara_S005",
+    "characterId": 14
+  },
+  "1015000": {
+    "id": 1015000,
+    "file": "data/assets/character_skins/1015000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S000.png",
+    "name": "希瑟拉",
+    "imageName": "Sissela_S000",
+    "characterId": 15
+  },
+  "1015001": {
+    "id": 1015001,
+    "file": "data/assets/character_skins/1015001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S001.png",
+    "name": "冬季四叶草 希瑟拉",
+    "imageName": "Sissela_S001",
+    "characterId": 15
+  },
+  "1015002": {
+    "id": 1015002,
+    "file": "data/assets/character_skins/1015002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S002.png",
+    "name": "哥德女爵 希瑟拉",
+    "imageName": "Sissela_S002",
+    "characterId": 15
+  },
+  "1015003": {
+    "id": 1015003,
+    "file": "data/assets/character_skins/1015003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S003.png",
+    "name": "冰雪庆典 希瑟拉",
+    "imageName": "Sissela_S003",
+    "characterId": 15
+  },
+  "1015004": {
+    "id": 1015004,
+    "file": "data/assets/character_skins/1015004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S004.png",
+    "name": "小威烘焙坊 希瑟拉",
+    "imageName": "Sissela_S004",
+    "characterId": 15
+  },
+  "1015005": {
+    "id": 1015005,
+    "file": "data/assets/character_skins/1015005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sissela_S005.png",
+    "name": "梦幻恶魔 希瑟拉",
+    "imageName": "Sissela_S005",
+    "characterId": 15
+  },
+  "1016000": {
+    "id": 1016000,
+    "file": "data/assets/character_skins/1016000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S000.png",
+    "name": "西尔维娅",
+    "imageName": "Silvia_S000",
+    "characterId": 16
+  },
+  "1016001": {
+    "id": 1016001,
+    "file": "data/assets/character_skins/1016001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S001.png",
+    "name": "晚风 西尔维娅",
+    "imageName": "Silvia_S001",
+    "characterId": 16
+  },
+  "1016002": {
+    "id": 1016002,
+    "file": "data/assets/character_skins/1016002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S002.png",
+    "name": "GeForce Now 西尔维娅",
+    "imageName": "Silvia_S002",
+    "characterId": 16
+  },
+  "1016003": {
+    "id": 1016003,
+    "file": "data/assets/character_skins/1016003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S003.png",
+    "name": "甜蜜配送 西尔维娅",
+    "imageName": "Silvia_S003",
+    "characterId": 16
+  },
+  "1016004": {
+    "id": 1016004,
+    "file": "data/assets/character_skins/1016004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S004.png",
+    "name": "旅者 西尔维娅",
+    "imageName": "Silvia_S004",
+    "characterId": 16
+  },
+  "1016005": {
+    "id": 1016005,
+    "file": "data/assets/character_skins/1016005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Silvia_S005.png",
+    "name": "西尔维娅 (QUEEN)",
+    "imageName": "Silvia_S005",
+    "characterId": 16
+  },
+  "1017000": {
+    "id": 1017000,
+    "file": "data/assets/character_skins/1017000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S000.png",
+    "name": "阿德瑞娜",
+    "imageName": "Adriana_S000",
+    "characterId": 17
+  },
+  "1017001": {
+    "id": 1017001,
+    "file": "data/assets/character_skins/1017001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S001.png",
+    "name": "火焰兵 阿德瑞娜",
+    "imageName": "Adriana_S001",
+    "characterId": 17
+  },
+  "1017002": {
+    "id": 1017002,
+    "file": "data/assets/character_skins/1017002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S002.png",
+    "name": "除虫专家 阿德瑞娜",
+    "imageName": "Adriana_S002",
+    "characterId": 17
+  },
+  "1017003": {
+    "id": 1017003,
+    "file": "data/assets/character_skins/1017003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S003.png",
+    "name": "女仆 阿德瑞娜",
+    "imageName": "Adriana_S003",
+    "characterId": 17
+  },
+  "1017004": {
+    "id": 1017004,
+    "file": "data/assets/character_skins/1017004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S004.png",
+    "name": "维德瑞娜",
+    "imageName": "Adriana_S004",
+    "characterId": 17
+  },
+  "1017005": {
+    "id": 1017005,
+    "file": "data/assets/character_skins/1017005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adriana_S005.png",
+    "name": "恶役千金 阿德瑞娜",
+    "imageName": "Adriana_S005",
+    "characterId": 17
+  },
+  "1018000": {
+    "id": 1018000,
+    "file": "data/assets/character_skins/1018000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Shoichi_S000.png",
+    "name": "彰一",
+    "imageName": "Shoichi_S000",
+    "characterId": 18
+  },
+  "1018001": {
+    "id": 1018001,
+    "file": "data/assets/character_skins/1018001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Shoichi_S001.png",
+    "name": "职业杀手 彰一",
+    "imageName": "Shoichi_S001",
+    "characterId": 18
+  },
+  "1018002": {
+    "id": 1018002,
+    "file": "data/assets/character_skins/1018002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Shoichi_S002.png",
+    "name": "冰雪庆典 彰一",
+    "imageName": "Shoichi_S002",
+    "characterId": 18
+  },
+  "1018003": {
+    "id": 1018003,
+    "file": "data/assets/character_skins/1018003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Shoichi_S003.png",
+    "name": "极致服务 彰一",
+    "imageName": "Shoichi_S003",
+    "characterId": 18
+  },
+  "1018004": {
+    "id": 1018004,
+    "file": "data/assets/character_skins/1018004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Shoichi_S004.png",
+    "name": "吸血鬼 彰一",
+    "imageName": "Shoichi_S004",
+    "characterId": 18
+  },
+  "1019000": {
+    "id": 1019000,
+    "file": "data/assets/character_skins/1019000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S000.png",
+    "name": "艾玛",
+    "imageName": "Emma_S000",
+    "characterId": 19
+  },
+  "1019001": {
+    "id": 1019001,
+    "file": "data/assets/character_skins/1019001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S001.png",
+    "name": "女仆 艾玛",
+    "imageName": "Emma_S001",
+    "characterId": 19
+  },
+  "1019002": {
+    "id": 1019002,
+    "file": "data/assets/character_skins/1019002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S002.png",
+    "name": "魔女 艾玛",
+    "imageName": "Emma_S002",
+    "characterId": 19
+  },
+  "1019003": {
+    "id": 1019003,
+    "file": "data/assets/character_skins/1019003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S003.png",
+    "name": "森林挚友 艾玛",
+    "imageName": "Emma_S003",
+    "characterId": 19
+  },
+  "1019004": {
+    "id": 1019004,
+    "file": "data/assets/character_skins/1019004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S004.png",
+    "name": "夏日魔术师 艾玛",
+    "imageName": "Emma_S004",
+    "characterId": 19
+  },
+  "1019005": {
+    "id": 1019005,
+    "file": "data/assets/character_skins/1019005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Emma_S005.png",
+    "name": "魔法邦尼 艾玛",
+    "imageName": "Emma_S005",
+    "characterId": 19
+  },
+  "1020000": {
+    "id": 1020000,
+    "file": "data/assets/character_skins/1020000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S000.png",
+    "name": "伦诺克斯",
+    "imageName": "Lenox_S000",
+    "characterId": 20
+  },
+  "1020001": {
+    "id": 1020001,
+    "file": "data/assets/character_skins/1020001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S001.png",
+    "name": "副首领 伦诺克斯",
+    "imageName": "Lenox_S001",
+    "characterId": 20
+  },
+  "1020002": {
+    "id": 1020002,
+    "file": "data/assets/character_skins/1020002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S002.png",
+    "name": "白色圣诞 伦诺克斯",
+    "imageName": "Lenox_S002",
+    "characterId": 20
+  },
+  "1020003": {
+    "id": 1020003,
+    "file": "data/assets/character_skins/1020003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S003.png",
+    "name": "海盗 伦诺克斯",
+    "imageName": "Lenox_S003",
+    "characterId": 20
+  },
+  "1020004": {
+    "id": 1020004,
+    "file": "data/assets/character_skins/1020004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S004.png",
+    "name": "未来战士 伦诺克斯",
+    "imageName": "Lenox_S004",
+    "characterId": 20
+  },
+  "1020005": {
+    "id": 1020005,
+    "file": "data/assets/character_skins/1020005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenox_S005.png",
+    "name": "深渊魔王 伦诺克斯",
+    "imageName": "Lenox_S005",
+    "characterId": 20
+  },
+  "1021000": {
+    "id": 1021000,
+    "file": "data/assets/character_skins/1021000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rozzi_S000.png",
+    "name": "洛兹",
+    "imageName": "Rozzi_S000",
+    "characterId": 21
+  },
+  "1021001": {
+    "id": 1021001,
+    "file": "data/assets/character_skins/1021001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rozzi_S001.png",
+    "name": "黑玫瑰 洛兹",
+    "imageName": "Rozzi_S001",
+    "characterId": 21
+  },
+  "1021002": {
+    "id": 1021002,
+    "file": "data/assets/character_skins/1021002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rozzi_S002.png",
+    "name": "复仇女神 洛兹",
+    "imageName": "Rozzi_S002",
+    "characterId": 21
+  },
+  "1021003": {
+    "id": 1021003,
+    "file": "data/assets/character_skins/1021003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rozzi_S003.png",
+    "name": "战斗女仆 洛兹",
+    "imageName": "Rozzi_S003",
+    "characterId": 21
+  },
+  "1021004": {
+    "id": 1021004,
+    "file": "data/assets/character_skins/1021004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rozzi_S004.png",
+    "name": "红色情人节 洛兹",
+    "imageName": "Rozzi_S004",
+    "characterId": 21
+  },
+  "1022000": {
+    "id": 1022000,
+    "file": "data/assets/character_skins/1022000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S000.png",
+    "name": "卢克",
+    "imageName": "Luke_S000",
+    "characterId": 22
+  },
+  "1022001": {
+    "id": 1022001,
+    "file": "data/assets/character_skins/1022001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S001.png",
+    "name": "调酒师 卢克",
+    "imageName": "Luke_S001",
+    "characterId": 22
+  },
+  "1022002": {
+    "id": 1022002,
+    "file": "data/assets/character_skins/1022002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S002.png",
+    "name": "暗巷里 卢克",
+    "imageName": "Luke_S002",
+    "characterId": 22
+  },
+  "1022003": {
+    "id": 1022003,
+    "file": "data/assets/character_skins/1022003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S003.png",
+    "name": "军官候补生 卢克",
+    "imageName": "Luke_S003",
+    "characterId": 22
+  },
+  "1022004": {
+    "id": 1022004,
+    "file": "data/assets/character_skins/1022004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S004.png",
+    "name": "烈日骄阳 卢克",
+    "imageName": "Luke_S004",
+    "characterId": 22
+  },
+  "1022005": {
+    "id": 1022005,
+    "file": "data/assets/character_skins/1022005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S005.png",
+    "name": "鲁道克",
+    "imageName": "Luke_S005",
+    "characterId": 22
+  },
+  "1022006": {
+    "id": 1022006,
+    "file": "data/assets/character_skins/1022006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Luke_S006.png",
+    "name": "死神 卢克",
+    "imageName": "Luke_S006",
+    "characterId": 22
+  },
+  "1023000": {
+    "id": 1023000,
+    "file": "data/assets/character_skins/1023000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Cathy_S000.png",
+    "name": "凯希",
+    "imageName": "Cathy_S000",
+    "characterId": 23
+  },
+  "1023001": {
+    "id": 1023001,
+    "file": "data/assets/character_skins/1023001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Cathy_S001.png",
+    "name": "军医 凯希",
+    "imageName": "Cathy_S001",
+    "characterId": 23
+  },
+  "1023002": {
+    "id": 1023002,
+    "file": "data/assets/character_skins/1023002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Cathy_S002.png",
+    "name": "义体医生 凯希",
+    "imageName": "Cathy_S002",
+    "characterId": 23
+  },
+  "1023003": {
+    "id": 1023003,
+    "file": "data/assets/character_skins/1023003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Cathy_S003.png",
+    "name": "老师 凯希",
+    "imageName": "Cathy_S003",
+    "characterId": 23
+  },
+  "1023004": {
+    "id": 1023004,
+    "file": "data/assets/character_skins/1023004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Cathy_S004.png",
+    "name": "狱影 凯希",
+    "imageName": "Cathy_S004",
+    "characterId": 23
+  },
+  "1024000": {
+    "id": 1024000,
+    "file": "data/assets/character_skins/1024000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adela_S000.png",
+    "name": "阿德拉",
+    "imageName": "Adela_S000",
+    "characterId": 24
+  },
+  "1024001": {
+    "id": 1024001,
+    "file": "data/assets/character_skins/1024001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adela_S001.png",
+    "name": "白王后 阿德拉",
+    "imageName": "Adela_S001",
+    "characterId": 24
+  },
+  "1024002": {
+    "id": 1024002,
+    "file": "data/assets/character_skins/1024002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adela_S002.png",
+    "name": "梦德拉",
+    "imageName": "Adela_S002",
+    "characterId": 24
+  },
+  "1024003": {
+    "id": 1024003,
+    "file": "data/assets/character_skins/1024003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adela_S003.png",
+    "name": "女仆 阿德拉",
+    "imageName": "Adela_S003",
+    "characterId": 24
+  },
+  "1025000": {
+    "id": 1025000,
+    "file": "data/assets/character_skins/1025000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bernice_S000.png",
+    "name": "伯尼斯",
+    "imageName": "Bernice_S000",
+    "characterId": 25
+  },
+  "1025001": {
+    "id": 1025001,
+    "file": "data/assets/character_skins/1025001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bernice_S001.png",
+    "name": "天启 伯尼斯",
+    "imageName": "Bernice_S001",
+    "characterId": 25
+  },
+  "1025002": {
+    "id": 1025002,
+    "file": "data/assets/character_skins/1025002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bernice_S002.png",
+    "name": "恶魔猎手 伯尼斯",
+    "imageName": "Bernice_S002",
+    "characterId": 25
+  },
+  "1025003": {
+    "id": 1025003,
+    "file": "data/assets/character_skins/1025003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bernice_S003.png",
+    "name": "战斗执事 伯尼斯",
+    "imageName": "Bernice_S003",
+    "characterId": 25
+  },
+  "1026000": {
+    "id": 1026000,
+    "file": "data/assets/character_skins/1026000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Barbara_S000.png",
+    "name": "芭芭拉",
+    "imageName": "Barbara_S000",
+    "characterId": 26
+  },
+  "1026001": {
+    "id": 1026001,
+    "file": "data/assets/character_skins/1026001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Barbara_S001.png",
+    "name": "首席机械师 芭芭拉",
+    "imageName": "Barbara_S001",
+    "characterId": 26
+  },
+  "1026002": {
+    "id": 1026002,
+    "file": "data/assets/character_skins/1026002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Barbara_S002.png",
+    "name": "太空工程师 芭芭拉",
+    "imageName": "Barbara_S002",
+    "characterId": 26
+  },
+  "1026003": {
+    "id": 1026003,
+    "file": "data/assets/character_skins/1026003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Barbara_S003.png",
+    "name": "研究员 芭芭拉",
+    "imageName": "Barbara_S003",
+    "characterId": 26
+  },
+  "1027000": {
+    "id": 1027000,
+    "file": "data/assets/character_skins/1027000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alex_S000.png",
+    "name": "亚历克斯",
+    "imageName": "Alex_S000",
+    "characterId": 27
+  },
+  "1027001": {
+    "id": 1027001,
+    "file": "data/assets/character_skins/1027001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alex_S001.png",
+    "name": "特工 亚历克斯",
+    "imageName": "Alex_S001",
+    "characterId": 27
+  },
+  "1027002": {
+    "id": 1027002,
+    "file": "data/assets/character_skins/1027002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alex_S002.png",
+    "name": "私家侦探 亚历克斯",
+    "imageName": "Alex_S002",
+    "characterId": 27
+  },
+  "1027003": {
+    "id": 1027003,
+    "file": "data/assets/character_skins/1027003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alex_S003.png",
+    "name": "亚历克斯 (JOKER)",
+    "imageName": "Alex_S003",
+    "characterId": 27
+  },
+  "1028000": {
+    "id": 1028000,
+    "file": "data/assets/character_skins/1028000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S000.png",
+    "name": "秀雅",
+    "imageName": "Sua_S000",
+    "characterId": 28
+  },
+  "1028001": {
+    "id": 1028001,
+    "file": "data/assets/character_skins/1028001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S001.png",
+    "name": "军官候补生 秀雅",
+    "imageName": "Sua_S001",
+    "characterId": 28
+  },
+  "1028002": {
+    "id": 1028002,
+    "file": "data/assets/character_skins/1028002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S002.png",
+    "name": "新年说书人 秀雅",
+    "imageName": "Sua_S002",
+    "characterId": 28
+  },
+  "1028003": {
+    "id": 1028003,
+    "file": "data/assets/character_skins/1028003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S003.png",
+    "name": "盛夏派对 秀雅",
+    "imageName": "Sua_S003",
+    "characterId": 28
+  },
+  "1028004": {
+    "id": 1028004,
+    "file": "data/assets/character_skins/1028004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S004.png",
+    "name": "咖啡店兼职生 秀雅",
+    "imageName": "Sua_S004",
+    "characterId": 28
+  },
+  "1028005": {
+    "id": 1028005,
+    "file": "data/assets/character_skins/1028005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S005.png",
+    "name": "1st Anniversary 秀雅",
+    "imageName": "Sua_S005",
+    "characterId": 28
+  },
+  "1028006": {
+    "id": 1028006,
+    "file": "data/assets/character_skins/1028006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Sua_S006.png",
+    "name": "1st Anniversary Dawn 秀雅",
+    "imageName": "Sua_S006",
+    "characterId": 28
+  },
+  "1029000": {
+    "id": 1029000,
+    "file": "data/assets/character_skins/1029000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leon_S000.png",
+    "name": "里昂",
+    "imageName": "Leon_S000",
+    "characterId": 29
+  },
+  "1029001": {
+    "id": 1029001,
+    "file": "data/assets/character_skins/1029001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leon_S001.png",
+    "name": "海军突击队 里昂",
+    "imageName": "Leon_S001",
+    "characterId": 29
+  },
+  "1029002": {
+    "id": 1029002,
+    "file": "data/assets/character_skins/1029002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leon_S002.png",
+    "name": "乘浪逐夏 里昂",
+    "imageName": "Leon_S002",
+    "characterId": 29
+  },
+  "1029004": {
+    "id": 1029004,
+    "file": "data/assets/character_skins/1029004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leon_S004.png",
+    "name": "海军将校 里昂",
+    "imageName": "Leon_S004",
+    "characterId": 29
+  },
+  "1029003": {
+    "id": 1029003,
+    "file": "data/assets/character_skins/1029003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leon_S003.png",
+    "name": "雪行者 里昂",
+    "imageName": "Leon_S003",
+    "characterId": 29
+  },
+  "1030000": {
+    "id": 1030000,
+    "file": "data/assets/character_skins/1030000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eleven_S000.png",
+    "name": "Eleven",
+    "imageName": "Eleven_S000",
+    "characterId": 30
+  },
+  "1030001": {
+    "id": 1030001,
+    "file": "data/assets/character_skins/1030001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eleven_S001.png",
+    "name": "甜心外卖员 Eleven",
+    "imageName": "Eleven_S001",
+    "characterId": 30
+  },
+  "1030002": {
+    "id": 1030002,
+    "file": "data/assets/character_skins/1030002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eleven_S002.png",
+    "name": "下午茶兔子 Eleven",
+    "imageName": "Eleven_S002",
+    "characterId": 30
+  },
+  "1030003": {
+    "id": 1030003,
+    "file": "data/assets/character_skins/1030003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eleven_S003.png",
+    "name": "蜜糖水手 Eleven",
+    "imageName": "Eleven_S003",
+    "characterId": 30
+  },
+  "1030004": {
+    "id": 1030004,
+    "file": "data/assets/character_skins/1030004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eleven_S004.png",
+    "name": "爱的小夜曲 Eleven",
+    "imageName": "Eleven_S004",
+    "characterId": 30
+  },
+  "1031000": {
+    "id": 1031000,
+    "file": "data/assets/character_skins/1031000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S000.png",
+    "name": "莉央",
+    "imageName": "Rio_S000",
+    "characterId": 31
+  },
+  "1031001": {
+    "id": 1031001,
+    "file": "data/assets/character_skins/1031001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S001.png",
+    "name": "巫女 莉央",
+    "imageName": "Rio_S001",
+    "characterId": 31
+  },
+  "1031002": {
+    "id": 1031002,
+    "file": "data/assets/character_skins/1031002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S002.png",
+    "name": "正义的魔法少女 莉央",
+    "imageName": "Rio_S002",
+    "characterId": 31
+  },
+  "1031003": {
+    "id": 1031003,
+    "file": "data/assets/character_skins/1031003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S003.png",
+    "name": "梦幻魔法少女 莉央",
+    "imageName": "Rio_S003",
+    "characterId": 31
+  },
+  "1031004": {
+    "id": 1031004,
+    "file": "data/assets/character_skins/1031004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S004.png",
+    "name": "清凉一夏 莉央",
+    "imageName": "Rio_S004",
+    "characterId": 31
+  },
+  "1031005": {
+    "id": 1031005,
+    "file": "data/assets/character_skins/1031005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S005.png",
+    "name": "星夜极光 莉央",
+    "imageName": "Rio_S005",
+    "characterId": 31
+  },
+  "1031006": {
+    "id": 1031006,
+    "file": "data/assets/character_skins/1031006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Rio_S006.png",
+    "name": "害羞兔女郎 莉央",
+    "imageName": "Rio_S006",
+    "characterId": 31
+  },
+  "1032000": {
+    "id": 1032000,
+    "file": "data/assets/character_skins/1032000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_William_S000.png",
+    "name": "威廉",
+    "imageName": "William_S000",
+    "characterId": 32
+  },
+  "1032001": {
+    "id": 1032001,
+    "file": "data/assets/character_skins/1032001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_William_S001.png",
+    "name": "圣诞嘉年华 威廉",
+    "imageName": "William_S001",
+    "characterId": 32
+  },
+  "1032002": {
+    "id": 1032002,
+    "file": "data/assets/character_skins/1032002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_William_S002.png",
+    "name": "暗巷里 威廉",
+    "imageName": "William_S002",
+    "characterId": 32
+  },
+  "1032003": {
+    "id": 1032003,
+    "file": "data/assets/character_skins/1032003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_William_S003.png",
+    "name": "天启 威廉",
+    "imageName": "William_S003",
+    "characterId": 32
+  },
+  "1033000": {
+    "id": 1033000,
+    "file": "data/assets/character_skins/1033000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S000.png",
+    "name": "妮琪",
+    "imageName": "Nicky_S000",
+    "characterId": 33
+  },
+  "1033001": {
+    "id": 1033001,
+    "file": "data/assets/character_skins/1033001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S001.png",
+    "name": "暗巷里 妮琪",
+    "imageName": "Nicky_S001",
+    "characterId": 33
+  },
+  "1033002": {
+    "id": 1033002,
+    "file": "data/assets/character_skins/1033002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S002.png",
+    "name": "夏日海滩 妮琪",
+    "imageName": "Nicky_S002",
+    "characterId": 33
+  },
+  "1033003": {
+    "id": 1033003,
+    "file": "data/assets/character_skins/1033003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S003.png",
+    "name": "问题学生 妮琪",
+    "imageName": "Nicky_S003",
+    "characterId": 33
+  },
+  "1033004": {
+    "id": 1033004,
+    "file": "data/assets/character_skins/1033004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S004.png",
+    "name": "私家侦探 妮琪",
+    "imageName": "Nicky_S004",
+    "characterId": 33
+  },
+  "1033005": {
+    "id": 1033005,
+    "file": "data/assets/character_skins/1033005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nicky_S005.png",
+    "name": "格斗兔女郎 妮琪",
+    "imageName": "Nicky_S005",
+    "characterId": 33
+  },
+  "1034000": {
+    "id": 1034000,
+    "file": "data/assets/character_skins/1034000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nathapon_S000.png",
+    "name": "纳塔朋",
+    "imageName": "Nathapon_S000",
+    "characterId": 34
+  },
+  "1034001": {
+    "id": 1034001,
+    "file": "data/assets/character_skins/1034001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nathapon_S001.png",
+    "name": "极地探险 纳塔朋",
+    "imageName": "Nathapon_S001",
+    "characterId": 34
+  },
+  "1034002": {
+    "id": 1034002,
+    "file": "data/assets/character_skins/1034002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nathapon_S002.png",
+    "name": "探险家 纳塔朋",
+    "imageName": "Nathapon_S002",
+    "characterId": 34
+  },
+  "1034003": {
+    "id": 1034003,
+    "file": "data/assets/character_skins/1034003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Nathapon_S003.png",
+    "name": "鉴识官 纳塔朋",
+    "imageName": "Nathapon_S003",
+    "characterId": 34
+  },
+  "1035000": {
+    "id": 1035000,
+    "file": "data/assets/character_skins/1035000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jan_S000.png",
+    "name": "扬",
+    "imageName": "Jan_S000",
+    "characterId": 35
+  },
+  "1035001": {
+    "id": 1035001,
+    "file": "data/assets/character_skins/1035001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jan_S001.png",
+    "name": "泰拳冠军 扬",
+    "imageName": "Jan_S001",
+    "characterId": 35
+  },
+  "1035002": {
+    "id": 1035002,
+    "file": "data/assets/character_skins/1035002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jan_S002.png",
+    "name": "拳击手的挑战 扬",
+    "imageName": "Jan_S002",
+    "characterId": 35
+  },
+  "1035003": {
+    "id": 1035003,
+    "file": "data/assets/character_skins/1035003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jan_S003.png",
+    "name": "副首领 扬",
+    "imageName": "Jan_S003",
+    "characterId": 35
+  },
+  "1036000": {
+    "id": 1036000,
+    "file": "data/assets/character_skins/1036000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S000.png",
+    "name": "伊娃",
+    "imageName": "Eva_S000",
+    "characterId": 36
+  },
+  "1036001": {
+    "id": 1036001,
+    "file": "data/assets/character_skins/1036001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S001.png",
+    "name": "观星者 伊娃",
+    "imageName": "Eva_S001",
+    "characterId": 36
+  },
+  "1036002": {
+    "id": 1036002,
+    "file": "data/assets/character_skins/1036002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S002.png",
+    "name": "军官候补生 伊娃",
+    "imageName": "Eva_S002",
+    "characterId": 36
+  },
+  "1036003": {
+    "id": 1036003,
+    "file": "data/assets/character_skins/1036003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S003.png",
+    "name": "红色情人节 伊娃",
+    "imageName": "Eva_S003",
+    "characterId": 36
+  },
+  "1036004": {
+    "id": 1036004,
+    "file": "data/assets/character_skins/1036004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S004.png",
+    "name": "仲夏回忆 伊娃",
+    "imageName": "Eva_S004",
+    "characterId": 36
+  },
+  "1036005": {
+    "id": 1036005,
+    "file": "data/assets/character_skins/1036005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S005.png",
+    "name": "2nd Anniversary 伊娃",
+    "imageName": "Eva_S005",
+    "characterId": 36
+  },
+  "1036006": {
+    "id": 1036006,
+    "file": "data/assets/character_skins/1036006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Eva_S006.png",
+    "name": "2nd Anniversary 伊娃 Blossom",
+    "imageName": "Eva_S006",
+    "characterId": 36
+  },
+  "1037000": {
+    "id": 1037000,
+    "file": "data/assets/character_skins/1037000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Daniel_S000.png",
+    "name": "丹尼尔",
+    "imageName": "Daniel_S000",
+    "characterId": 37
+  },
+  "1037001": {
+    "id": 1037001,
+    "file": "data/assets/character_skins/1037001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Daniel_S001.png",
+    "name": "瘟疫医生 丹尼尔",
+    "imageName": "Daniel_S001",
+    "characterId": 37
+  },
+  "1037002": {
+    "id": 1037002,
+    "file": "data/assets/character_skins/1037002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Daniel_S002.png",
+    "name": "化装舞会 丹尼尔",
+    "imageName": "Daniel_S002",
+    "characterId": 37
+  },
+  "1037003": {
+    "id": 1037003,
+    "file": "data/assets/character_skins/1037003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Daniel_S003.png",
+    "name": "白色情人节 丹尼尔",
+    "imageName": "Daniel_S003",
+    "characterId": 37
+  },
+  "1038000": {
+    "id": 1038000,
+    "file": "data/assets/character_skins/1038000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jenny_S000.png",
+    "name": "珍妮",
+    "imageName": "Jenny_S000",
+    "characterId": 38
+  },
+  "1038001": {
+    "id": 1038001,
+    "file": "data/assets/character_skins/1038001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jenny_S001.png",
+    "name": "BOSS 珍妮",
+    "imageName": "Jenny_S001",
+    "characterId": 38
+  },
+  "1038002": {
+    "id": 1038002,
+    "file": "data/assets/character_skins/1038002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jenny_S002.png",
+    "name": "化装舞会 珍妮",
+    "imageName": "Jenny_S002",
+    "characterId": 38
+  },
+  "1038003": {
+    "id": 1038003,
+    "file": "data/assets/character_skins/1038003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Jenny_S003.png",
+    "name": "红心兔女郎 珍妮",
+    "imageName": "Jenny_S003",
+    "characterId": 38
+  },
+  "1039000": {
+    "id": 1039000,
+    "file": "data/assets/character_skins/1039000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Camilo_S000.png",
+    "name": "卡米洛",
+    "imageName": "Camilo_S000",
+    "characterId": 39
+  },
+  "1039001": {
+    "id": 1039001,
+    "file": "data/assets/character_skins/1039001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Camilo_S001.png",
+    "name": "燕尾服 卡米洛",
+    "imageName": "Camilo_S001",
+    "characterId": 39
+  },
+  "1039002": {
+    "id": 1039002,
+    "file": "data/assets/character_skins/1039002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Camilo_S002.png",
+    "name": "偶像 卡米洛",
+    "imageName": "Camilo_S002",
+    "characterId": 39
+  },
+  "1039003": {
+    "id": 1039003,
+    "file": "data/assets/character_skins/1039003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Camilo_S003.png",
+    "name": "约米洛",
+    "imageName": "Camilo_S003",
+    "characterId": 39
+  },
+  "1039004": {
+    "id": 1039004,
+    "file": "data/assets/character_skins/1039004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Camilo_S004.png",
+    "name": "卡米洛 (CROW)",
+    "imageName": "Camilo_S004",
+    "characterId": 39
+  },
+  "1040000": {
+    "id": 1040000,
+    "file": "data/assets/character_skins/1040000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chloe_S000.png",
+    "name": "克洛伊",
+    "imageName": "Chloe_S000",
+    "characterId": 40
+  },
+  "1040001": {
+    "id": 1040001,
+    "file": "data/assets/character_skins/1040001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chloe_S001.png",
+    "name": "女仆 克洛伊",
+    "imageName": "Chloe_S001",
+    "characterId": 40
+  },
+  "1040002": {
+    "id": 1040002,
+    "file": "data/assets/character_skins/1040002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chloe_S002.png",
+    "name": "瑞兔迎春 克洛伊",
+    "imageName": "Chloe_S002",
+    "characterId": 40
+  },
+  "1040003": {
+    "id": 1040003,
+    "file": "data/assets/character_skins/1040003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Chloe_S003.png",
+    "name": "海滨人偶师 克洛伊",
+    "imageName": "Chloe_S003",
+    "characterId": 40
+  },
+  "1041000": {
+    "id": 1041000,
+    "file": "data/assets/character_skins/1041000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Johann_S000.png",
+    "name": "约翰",
+    "imageName": "Johann_S000",
+    "characterId": 41
+  },
+  "1041001": {
+    "id": 1041001,
+    "file": "data/assets/character_skins/1041001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Johann_S001.png",
+    "name": "大祭司 约翰",
+    "imageName": "Johann_S001",
+    "characterId": 41
+  },
+  "1041002": {
+    "id": 1041002,
+    "file": "data/assets/character_skins/1041002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Johann_S002.png",
+    "name": "恶魔猎手 约翰",
+    "imageName": "Johann_S002",
+    "characterId": 41
+  },
+  "1042000": {
+    "id": 1042000,
+    "file": "data/assets/character_skins/1042000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bianca_S000.png",
+    "name": "比安卡",
+    "imageName": "Bianca_S000",
+    "characterId": 42
+  },
+  "1042001": {
+    "id": 1042001,
+    "file": "data/assets/character_skins/1042001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bianca_S001.png",
+    "name": "睡衣 比安卡",
+    "imageName": "Bianca_S001",
+    "characterId": 42
+  },
+  "1042002": {
+    "id": 1042002,
+    "file": "data/assets/character_skins/1042002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bianca_S002.png",
+    "name": "转校生 比安卡",
+    "imageName": "Bianca_S002",
+    "characterId": 42
+  },
+  "1042003": {
+    "id": 1042003,
+    "file": "data/assets/character_skins/1042003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bianca_S003.png",
+    "name": "军官候补生 比安卡",
+    "imageName": "Bianca_S003",
+    "characterId": 42
+  },
+  "1042004": {
+    "id": 1042004,
+    "file": "data/assets/character_skins/1042004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Bianca_S004.png",
+    "name": "典狱长 比安卡",
+    "imageName": "Bianca_S004",
+    "characterId": 42
+  },
+  "1043000": {
+    "id": 1043000,
+    "file": "data/assets/character_skins/1043000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Celine_S000.png",
+    "name": "席琳",
+    "imageName": "Celine_S000",
+    "characterId": 43
+  },
+  "1043001": {
+    "id": 1043001,
+    "file": "data/assets/character_skins/1043001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Celine_S001.png",
+    "name": "拆弹小队 席琳",
+    "imageName": "Celine_S001",
+    "characterId": 43
+  },
+  "1043002": {
+    "id": 1043002,
+    "file": "data/assets/character_skins/1043002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Celine_S002.png",
+    "name": "万圣节南瓜 席琳",
+    "imageName": "Celine_S002",
+    "characterId": 43
+  },
+  "1043003": {
+    "id": 1043003,
+    "file": "data/assets/character_skins/1043003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Celine_S003.png",
+    "name": "闲适之旅 席琳",
+    "imageName": "Celine_S003",
+    "characterId": 43
+  },
+  "1043004": {
+    "id": 1043004,
+    "file": "data/assets/character_skins/1043004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Celine_S004.png",
+    "name": "闪爆邦尼 席琳",
+    "imageName": "Celine_S004",
+    "characterId": 43
+  },
+  "1044000": {
+    "id": 1044000,
+    "file": "data/assets/character_skins/1044000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Echion_S000.png",
+    "name": "厄喀翁",
+    "imageName": "Echion_S000",
+    "characterId": 44
+  },
+  "1044001": {
+    "id": 1044001,
+    "file": "data/assets/character_skins/1044001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Echion_S001.png",
+    "name": "暗巷里 厄喀翁",
+    "imageName": "Echion_S001",
+    "characterId": 44
+  },
+  "1044002": {
+    "id": 1044002,
+    "file": "data/assets/character_skins/1044002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Echion_S002.png",
+    "name": "军官候补生 厄喀翁",
+    "imageName": "Echion_S002",
+    "characterId": 44
+  },
+  "1044003": {
+    "id": 1044003,
+    "file": "data/assets/character_skins/1044003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Echion_S003.png",
+    "name": "黑暗街头 厄喀翁",
+    "imageName": "Echion_S003",
+    "characterId": 44
+  },
+  "1045000": {
+    "id": 1045000,
+    "file": "data/assets/character_skins/1045000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S000.png",
+    "name": "梅",
+    "imageName": "Mai_S000",
+    "characterId": 45
+  },
+  "1045001": {
+    "id": 1045001,
+    "file": "data/assets/character_skins/1045001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S001.png",
+    "name": "转校生 梅",
+    "imageName": "Mai_S001",
+    "characterId": 45
+  },
+  "1045002": {
+    "id": 1045002,
+    "file": "data/assets/character_skins/1045002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S002.png",
+    "name": "军官候补生 梅",
+    "imageName": "Mai_S002",
+    "characterId": 45
+  },
+  "1045003": {
+    "id": 1045003,
+    "file": "data/assets/character_skins/1045003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S003.png",
+    "name": "优雅夏日 梅",
+    "imageName": "Mai_S003",
+    "characterId": 45
+  },
+  "1045004": {
+    "id": 1045004,
+    "file": "data/assets/character_skins/1045004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S004.png",
+    "name": "偶像 梅",
+    "imageName": "Mai_S004",
+    "characterId": 45
+  },
+  "1045005": {
+    "id": 1045005,
+    "file": "data/assets/character_skins/1045005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mai_S005.png",
+    "name": "甜心兔女郎 梅",
+    "imageName": "Mai_S005",
+    "characterId": 45
+  },
+  "1046000": {
+    "id": 1046000,
+    "file": "data/assets/character_skins/1046000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aiden_S000.png",
+    "name": "艾登",
+    "imageName": "Aiden_S000",
+    "characterId": 46
+  },
+  "1046001": {
+    "id": 1046001,
+    "file": "data/assets/character_skins/1046001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aiden_S001.png",
+    "name": "幽灵猎人 艾登",
+    "imageName": "Aiden_S001",
+    "characterId": 46
+  },
+  "1046002": {
+    "id": 1046002,
+    "file": "data/assets/character_skins/1046002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aiden_S002.png",
+    "name": "问题终结者 艾登",
+    "imageName": "Aiden_S002",
+    "characterId": 46
+  },
+  "1046003": {
+    "id": 1046003,
+    "file": "data/assets/character_skins/1046003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aiden_S003.png",
+    "name": "午后咖啡 艾登",
+    "imageName": "Aiden_S003",
+    "characterId": 46
+  },
+  "1046004": {
+    "id": 1046004,
+    "file": "data/assets/character_skins/1046004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Aiden_S004.png",
+    "name": "艾登（凯）",
+    "imageName": "Aiden_S004",
+    "characterId": 46
+  },
+  "1047000": {
+    "id": 1047000,
+    "file": "data/assets/character_skins/1047000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S000.png",
+    "name": "劳拉",
+    "imageName": "Laura_S000",
+    "characterId": 47
+  },
+  "1047001": {
+    "id": 1047001,
+    "file": "data/assets/character_skins/1047001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S001.png",
+    "name": "狱影 劳拉",
+    "imageName": "Laura_S001",
+    "characterId": 47
+  },
+  "1047002": {
+    "id": 1047002,
+    "file": "data/assets/character_skins/1047002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S002.png",
+    "name": "黑暗街头 劳拉",
+    "imageName": "Laura_S002",
+    "characterId": 47
+  },
+  "1047003": {
+    "id": 1047003,
+    "file": "data/assets/character_skins/1047003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S003.png",
+    "name": "甜蜜酸涩 劳拉",
+    "imageName": "Laura_S003",
+    "characterId": 47
+  },
+  "1047004": {
+    "id": 1047004,
+    "file": "data/assets/character_skins/1047004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S004.png",
+    "name": "统御教官 劳拉",
+    "imageName": "Laura_S004",
+    "characterId": 47
+  },
+  "1047005": {
+    "id": 1047005,
+    "file": "data/assets/character_skins/1047005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Laura_S005.png",
+    "name": "劳拉 (PANTHER)",
+    "imageName": "Laura_S005",
+    "characterId": 47
+  },
+  "1048000": {
+    "id": 1048000,
+    "file": "data/assets/character_skins/1048000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tia_S000.png",
+    "name": "蒂娅",
+    "imageName": "Tia_S000",
+    "characterId": 48
+  },
+  "1048001": {
+    "id": 1048001,
+    "file": "data/assets/character_skins/1048001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tia_S001.png",
+    "name": "街头画家 蒂娅",
+    "imageName": "Tia_S001",
+    "characterId": 48
+  },
+  "1048002": {
+    "id": 1048002,
+    "file": "data/assets/character_skins/1048002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tia_S002.png",
+    "name": "见习魔女 蒂娅",
+    "imageName": "Tia_S002",
+    "characterId": 48
+  },
+  "1048003": {
+    "id": 1048003,
+    "file": "data/assets/character_skins/1048003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tia_S003.png",
+    "name": "像素画家 蒂娅",
+    "imageName": "Tia_S003",
+    "characterId": 48
+  },
+  "1048004": {
+    "id": 1048004,
+    "file": "data/assets/character_skins/1048004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tia_S004.png",
+    "name": "海绘师 蒂娅",
+    "imageName": "Tia_S004",
+    "characterId": 48
+  },
+  "1049000": {
+    "id": 1049000,
+    "file": "data/assets/character_skins/1049000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S000.png",
+    "name": "费利克斯",
+    "imageName": "Felix_S000",
+    "characterId": 49
+  },
+  "1049001": {
+    "id": 1049001,
+    "file": "data/assets/character_skins/1049001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S001.png",
+    "name": "游乐园 费利克斯",
+    "imageName": "Felix_S001",
+    "characterId": 49
+  },
+  "1049002": {
+    "id": 1049002,
+    "file": "data/assets/character_skins/1049002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S002.png",
+    "name": "OP.GG 费利克斯",
+    "imageName": "Felix_S002",
+    "characterId": 49
+  },
+  "1049003": {
+    "id": 1049003,
+    "file": "data/assets/character_skins/1049003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S003.png",
+    "name": "机动警察 费利克斯",
+    "imageName": "Felix_S003",
+    "characterId": 49
+  },
+  "1049004": {
+    "id": 1049004,
+    "file": "data/assets/character_skins/1049004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S004.png",
+    "name": "仲夏庆典 费利克斯",
+    "imageName": "Felix_S004",
+    "characterId": 49
+  },
+  "1049005": {
+    "id": 1049005,
+    "file": "data/assets/character_skins/1049005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Felix_S005.png",
+    "name": "军官候补生 费利克斯",
+    "imageName": "Felix_S005",
+    "characterId": 49
+  },
+  "1050000": {
+    "id": 1050000,
+    "file": "data/assets/character_skins/1050000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S000.png",
+    "name": "埃琳娜",
+    "imageName": "Elena_S000",
+    "characterId": 50
+  },
+  "1050001": {
+    "id": 1050001,
+    "file": "data/assets/character_skins/1050001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S001.png",
+    "name": "黑天鹅 埃琳娜",
+    "imageName": "Elena_S001",
+    "characterId": 50
+  },
+  "1050002": {
+    "id": 1050002,
+    "file": "data/assets/character_skins/1050002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S002.png",
+    "name": "寒冬 埃琳娜",
+    "imageName": "Elena_S002",
+    "characterId": 50
+  },
+  "1050003": {
+    "id": 1050003,
+    "file": "data/assets/character_skins/1050003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S003.png",
+    "name": "学生会长 埃琳娜",
+    "imageName": "Elena_S003",
+    "characterId": 50
+  },
+  "1050004": {
+    "id": 1050004,
+    "file": "data/assets/character_skins/1050004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S004.png",
+    "name": "军官候补生 埃琳娜",
+    "imageName": "Elena_S004",
+    "characterId": 50
+  },
+  "1050005": {
+    "id": 1050005,
+    "file": "data/assets/character_skins/1050005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S005.png",
+    "name": "2nd Anniversary 埃琳娜",
+    "imageName": "Elena_S005",
+    "characterId": 50
+  },
+  "1050006": {
+    "id": 1050006,
+    "file": "data/assets/character_skins/1050006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S006.png",
+    "name": "2nd Anniversary 埃琳娜 Indigo",
+    "imageName": "Elena_S006",
+    "characterId": 50
+  },
+  "1050007": {
+    "id": 1050007,
+    "file": "data/assets/character_skins/1050007.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Elena_S007.png",
+    "name": "埃琳娜 (VIOLET)",
+    "imageName": "Elena_S007",
+    "characterId": 50
+  },
+  "1051000": {
+    "id": 1051000,
+    "file": "data/assets/character_skins/1051000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Priya_S000.png",
+    "name": "普里亚",
+    "imageName": "Priya_S000",
+    "characterId": 51
+  },
+  "1051001": {
+    "id": 1051001,
+    "file": "data/assets/character_skins/1051001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Priya_S001.png",
+    "name": "永生花 普里亚",
+    "imageName": "Priya_S001",
+    "characterId": 51
+  },
+  "1051002": {
+    "id": 1051002,
+    "file": "data/assets/character_skins/1051002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Priya_S002.png",
+    "name": "创作歌手 普里亚",
+    "imageName": "Priya_S002",
+    "characterId": 51
+  },
+  "1052000": {
+    "id": 1052000,
+    "file": "data/assets/character_skins/1052000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adina_S000.png",
+    "name": "阿迪娜",
+    "imageName": "Adina_S000",
+    "characterId": 52
+  },
+  "1052001": {
+    "id": 1052001,
+    "file": "data/assets/character_skins/1052001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adina_S001.png",
+    "name": "命运之翡 阿迪娜",
+    "imageName": "Adina_S001",
+    "characterId": 52
+  },
+  "1052002": {
+    "id": 1052002,
+    "file": "data/assets/character_skins/1052002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adina_S002.png",
+    "name": "誓守一生 阿迪娜",
+    "imageName": "Adina_S002",
+    "characterId": 52
+  },
+  "1052003": {
+    "id": 1052003,
+    "file": "data/assets/character_skins/1052003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Adina_S003.png",
+    "name": "海滨占星师 阿迪娜",
+    "imageName": "Adina_S003",
+    "characterId": 52
+  },
+  "1053000": {
+    "id": 1053000,
+    "file": "data/assets/character_skins/1053000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Markus_S000.png",
+    "name": "马库斯",
+    "imageName": "Markus_S000",
+    "characterId": 53
+  },
+  "1053001": {
+    "id": 1053001,
+    "file": "data/assets/character_skins/1053001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Markus_S001.png",
+    "name": "天启 马库斯",
+    "imageName": "Markus_S001",
+    "characterId": 53
+  },
+  "1053002": {
+    "id": 1053002,
+    "file": "data/assets/character_skins/1053002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Markus_S002.png",
+    "name": "恶魔猎手 马库斯",
+    "imageName": "Markus_S002",
+    "characterId": 53
+  },
+  "1053003": {
+    "id": 1053003,
+    "file": "data/assets/character_skins/1053003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Markus_S003.png",
+    "name": "海滨战士 马库斯",
+    "imageName": "Markus_S003",
+    "characterId": 53
+  },
+  "1054000": {
+    "id": 1054000,
+    "file": "data/assets/character_skins/1054000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Karla_S000.png",
+    "name": "卡拉",
+    "imageName": "Karla_S000",
+    "characterId": 54
+  },
+  "1054001": {
+    "id": 1054001,
+    "file": "data/assets/character_skins/1054001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Karla_S001.png",
+    "name": "海上救生员 卡拉",
+    "imageName": "Karla_S001",
+    "characterId": 54
+  },
+  "1054002": {
+    "id": 1054002,
+    "file": "data/assets/character_skins/1054002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Karla_S002.png",
+    "name": "暗巷里 卡拉",
+    "imageName": "Karla_S002",
+    "characterId": 54
+  },
+  "1055000": {
+    "id": 1055000,
+    "file": "data/assets/character_skins/1055000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Estelle_S000.png",
+    "name": "艾丝蒂尔",
+    "imageName": "Estelle_S000",
+    "characterId": 55
+  },
+  "1055001": {
+    "id": 1055001,
+    "file": "data/assets/character_skins/1055001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Estelle_S001.png",
+    "name": "消防队员 艾丝蒂尔",
+    "imageName": "Estelle_S001",
+    "characterId": 55
+  },
+  "1055002": {
+    "id": 1055002,
+    "file": "data/assets/character_skins/1055002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Estelle_S002.png",
+    "name": "见习消防员 艾丝蒂尔",
+    "imageName": "Estelle_S002",
+    "characterId": 55
+  },
+  "1055003": {
+    "id": 1055003,
+    "file": "data/assets/character_skins/1055003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Estelle_S003.png",
+    "name": "安丝蒂尔",
+    "imageName": "Estelle_S003",
+    "characterId": 55
+  },
+  "1055004": {
+    "id": 1055004,
+    "file": "data/assets/character_skins/1055004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Estelle_S004.png",
+    "name": "守护教官 艾丝蒂尔",
+    "imageName": "Estelle_S004",
+    "characterId": 55
+  },
+  "1056000": {
+    "id": 1056000,
+    "file": "data/assets/character_skins/1056000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Piolo_S000.png",
+    "name": "皮奥洛",
+    "imageName": "Piolo_S000",
+    "characterId": 56
+  },
+  "1056001": {
+    "id": 1056001,
+    "file": "data/assets/character_skins/1056001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Piolo_S001.png",
+    "name": "挑战者 皮奥洛",
+    "imageName": "Piolo_S001",
+    "characterId": 56
+  },
+  "1056002": {
+    "id": 1056002,
+    "file": "data/assets/character_skins/1056002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Piolo_S002.png",
+    "name": "街头斗士 皮奥洛",
+    "imageName": "Piolo_S002",
+    "characterId": 56
+  },
+  "1057000": {
+    "id": 1057000,
+    "file": "data/assets/character_skins/1057000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Martina_S000.png",
+    "name": "玛蒂娜",
+    "imageName": "Martina_S000",
+    "characterId": 57
+  },
+  "1057001": {
+    "id": 1057001,
+    "file": "data/assets/character_skins/1057001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Martina_S001.png",
+    "name": "探险记者 玛蒂娜",
+    "imageName": "Martina_S001",
+    "characterId": 57
+  },
+  "1057002": {
+    "id": 1057002,
+    "file": "data/assets/character_skins/1057002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Martina_S002.png",
+    "name": "20年前的玛蒂娜",
+    "imageName": "Martina_S002",
+    "characterId": 57
+  },
+  "1058000": {
+    "id": 1058000,
+    "file": "data/assets/character_skins/1058000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S000.png",
+    "name": "海因茨",
+    "imageName": "Haze_S000",
+    "characterId": 58
+  },
+  "1058001": {
+    "id": 1058001,
+    "file": "data/assets/character_skins/1058001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S001.png",
+    "name": "黑暗街头 海因茨",
+    "imageName": "Haze_S001",
+    "characterId": 58
+  },
+  "1058002": {
+    "id": 1058002,
+    "file": "data/assets/character_skins/1058002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S002.png",
+    "name": "私享一夏 海因茨",
+    "imageName": "Haze_S002",
+    "characterId": 58
+  },
+  "1058003": {
+    "id": 1058003,
+    "file": "data/assets/character_skins/1058003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S003.png",
+    "name": "午后咖啡 海因茨",
+    "imageName": "Haze_S003",
+    "characterId": 58
+  },
+  "1058004": {
+    "id": 1058004,
+    "file": "data/assets/character_skins/1058004.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S004.png",
+    "name": "1st Anniversary 海因茨",
+    "imageName": "Haze_S004",
+    "characterId": 58
+  },
+  "1058005": {
+    "id": 1058005,
+    "file": "data/assets/character_skins/1058005.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S005.png",
+    "name": "1st Anniversary Blanc 海因茨",
+    "imageName": "Haze_S005",
+    "characterId": 58
+  },
+  "1058006": {
+    "id": 1058006,
+    "file": "data/assets/character_skins/1058006.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Haze_S006.png",
+    "name": "王牌兔女郎 海因茨",
+    "imageName": "Haze_S006",
+    "characterId": 58
+  },
+  "1059000": {
+    "id": 1059000,
+    "file": "data/assets/character_skins/1059000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isaac_S000.png",
+    "name": "伊萨克",
+    "imageName": "Isaac_S000",
+    "characterId": 59
+  },
+  "1059001": {
+    "id": 1059001,
+    "file": "data/assets/character_skins/1059001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isaac_S001.png",
+    "name": "黑暗街头 伊萨克",
+    "imageName": "Isaac_S001",
+    "characterId": 59
+  },
+  "1059002": {
+    "id": 1059002,
+    "file": "data/assets/character_skins/1059002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isaac_S002.png",
+    "name": "西部警长 伊萨克",
+    "imageName": "Isaac_S002",
+    "characterId": 59
+  },
+  "1059003": {
+    "id": 1059003,
+    "file": "data/assets/character_skins/1059003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Isaac_S003.png",
+    "name": "傲慢军团长 伊萨克",
+    "imageName": "Isaac_S003",
+    "characterId": 59
+  },
+  "1060000": {
+    "id": 1060000,
+    "file": "data/assets/character_skins/1060000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tazia_S000.png",
+    "name": "塔齐娅",
+    "imageName": "Tazia_S000",
+    "characterId": 60
+  },
+  "1060001": {
+    "id": 1060001,
+    "file": "data/assets/character_skins/1060001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tazia_S001.png",
+    "name": "白璃幻梦 塔齐娅",
+    "imageName": "Tazia_S001",
+    "characterId": 60
+  },
+  "1060002": {
+    "id": 1060002,
+    "file": "data/assets/character_skins/1060002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tazia_S002.png",
+    "name": "红色情人节 塔齐娅",
+    "imageName": "Tazia_S002",
+    "characterId": 60
+  },
+  "1061000": {
+    "id": 1061000,
+    "file": "data/assets/character_skins/1061000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Irem_S000.png",
+    "name": "爱琳",
+    "imageName": "Irem_S000",
+    "characterId": 61
+  },
+  "1061001": {
+    "id": 1061001,
+    "file": "data/assets/character_skins/1061001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Irem_S001.png",
+    "name": "逐冰戏雪 爱琳",
+    "imageName": "Irem_S001",
+    "characterId": 61
+  },
+  "1061002": {
+    "id": 1061002,
+    "file": "data/assets/character_skins/1061002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Irem_S002.png",
+    "name": "爱琳克斯",
+    "imageName": "Irem_S002",
+    "characterId": 61
+  },
+  "1062000": {
+    "id": 1062000,
+    "file": "data/assets/character_skins/1062000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Theodore_S000.png",
+    "name": "西奥多",
+    "imageName": "Theodore_S000",
+    "characterId": 62
+  },
+  "1062001": {
+    "id": 1062001,
+    "file": "data/assets/character_skins/1062001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Theodore_S001.png",
+    "name": "机动特遣队 西奥多",
+    "imageName": "Theodore_S001",
+    "characterId": 62
+  },
+  "1062002": {
+    "id": 1062002,
+    "file": "data/assets/character_skins/1062002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Theodore_S002.png",
+    "name": "战斗祭司 西奥多",
+    "imageName": "Theodore_S002",
+    "characterId": 62
+  },
+  "1062003": {
+    "id": 1062003,
+    "file": "data/assets/character_skins/1062003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Theodore_S003.png",
+    "name": "射击教官 西奥多",
+    "imageName": "Theodore_S003",
+    "characterId": 62
+  },
+  "1063000": {
+    "id": 1063000,
+    "file": "data/assets/character_skins/1063000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lyanh_S000.png",
+    "name": "伊安",
+    "imageName": "Lyanh_S000",
+    "characterId": 63
+  },
+  "1063001": {
+    "id": 1063001,
+    "file": "data/assets/character_skins/1063001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lyanh_S001.png",
+    "name": "禁锢者 伊安",
+    "imageName": "Lyanh_S001",
+    "characterId": 63
+  },
+  "1063002": {
+    "id": 1063002,
+    "file": "data/assets/character_skins/1063002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lyanh_S002.png",
+    "name": "深渊救赎 伊安",
+    "imageName": "Lyanh_S002",
+    "characterId": 63
+  },
+  "1063003": {
+    "id": 1063003,
+    "file": "data/assets/character_skins/1063003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lyanh_S003.png",
+    "name": "鬼火徊引 伊安",
+    "imageName": "Lyanh_S003",
+    "characterId": 63
+  },
+  "1064000": {
+    "id": 1064000,
+    "file": "data/assets/character_skins/1064000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Vanya_S000.png",
+    "name": "万尼亚",
+    "imageName": "Vanya_S000",
+    "characterId": 64
+  },
+  "1064001": {
+    "id": 1064001,
+    "file": "data/assets/character_skins/1064001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Vanya_S001.png",
+    "name": "不祥之梦 万尼亚",
+    "imageName": "Vanya_S001",
+    "characterId": 64
+  },
+  "1064002": {
+    "id": 1064002,
+    "file": "data/assets/character_skins/1064002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Vanya_S002.png",
+    "name": "仲夏之梦 万尼亚",
+    "imageName": "Vanya_S002",
+    "characterId": 64
+  },
+  "1064003": {
+    "id": 1064003,
+    "file": "data/assets/character_skins/1064003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Vanya_S003.png",
+    "name": "全息精灵 万尼亚",
+    "imageName": "Vanya_S003",
+    "characterId": 64
+  },
+  "1065000": {
+    "id": 1065000,
+    "file": "data/assets/character_skins/1065000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_DebiMarlene_S000.png",
+    "name": "黛比&玛莲",
+    "imageName": "DebiMarlene_S000",
+    "characterId": 65
+  },
+  "1065001": {
+    "id": 1065001,
+    "file": "data/assets/character_skins/1065001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_DebiMarlene_S001.png",
+    "name": "保镖 黛比&玛莲",
+    "imageName": "DebiMarlene_S001",
+    "characterId": 65
+  },
+  "1065002": {
+    "id": 1065002,
+    "file": "data/assets/character_skins/1065002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_DebiMarlene_S002.png",
+    "name": "幻境双生 黛比&玛莲",
+    "imageName": "DebiMarlene_S002",
+    "characterId": 65
+  },
+  "1065003": {
+    "id": 1065003,
+    "file": "data/assets/character_skins/1065003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_DebiMarlene_S003.png",
+    "name": "课余闲时 黛比&玛莲",
+    "imageName": "DebiMarlene_S003",
+    "characterId": 65
+  },
+  "1066000": {
+    "id": 1066000,
+    "file": "data/assets/character_skins/1066000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Arda_S000.png",
+    "name": "阿尔达",
+    "imageName": "Arda_S000",
+    "characterId": 66
+  },
+  "1066001": {
+    "id": 1066001,
+    "file": "data/assets/character_skins/1066001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Arda_S001.png",
+    "name": "考古学家 阿尔达",
+    "imageName": "Arda_S001",
+    "characterId": 66
+  },
+  "1067000": {
+    "id": 1067000,
+    "file": "data/assets/character_skins/1067000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Abigail_S000.png",
+    "name": "艾比盖尔",
+    "imageName": "Abigail_S000",
+    "characterId": 67
+  },
+  "1067001": {
+    "id": 1067001,
+    "file": "data/assets/character_skins/1067001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Abigail_S001.png",
+    "name": "典狱长 艾比盖尔",
+    "imageName": "Abigail_S001",
+    "characterId": 67
+  },
+  "1067002": {
+    "id": 1067002,
+    "file": "data/assets/character_skins/1067002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Abigail_S002.png",
+    "name": "冷面兔女郎 艾比盖尔",
+    "imageName": "Abigail_S002",
+    "characterId": 67
+  },
+  "1067003": {
+    "id": 1067003,
+    "file": "data/assets/character_skins/1067003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Abigail_S003.png",
+    "name": "热带次元 艾比盖尔",
+    "imageName": "Abigail_S003",
+    "characterId": 67
+  },
+  "1068000": {
+    "id": 1068000,
+    "file": "data/assets/character_skins/1068000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alonso_S000.png",
+    "name": "阿隆索",
+    "imageName": "Alonso_S000",
+    "characterId": 68
+  },
+  "1068001": {
+    "id": 1068001,
+    "file": "data/assets/character_skins/1068001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alonso_S001.png",
+    "name": "绅士 阿隆索",
+    "imageName": "Alonso_S001",
+    "characterId": 68
+  },
+  "1068002": {
+    "id": 1068002,
+    "file": "data/assets/character_skins/1068002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Alonso_S002.png",
+    "name": "地狱先锋 阿隆索",
+    "imageName": "Alonso_S002",
+    "characterId": 68
+  },
+  "1069000": {
+    "id": 1069000,
+    "file": "data/assets/character_skins/1069000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leni_S000.png",
+    "name": "雷妮",
+    "imageName": "Leni_S000",
+    "characterId": 69
+  },
+  "1069001": {
+    "id": 1069001,
+    "file": "data/assets/character_skins/1069001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leni_S001.png",
+    "name": "军乐队 雷妮",
+    "imageName": "Leni_S001",
+    "characterId": 69
+  },
+  "1069002": {
+    "id": 1069002,
+    "file": "data/assets/character_skins/1069002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Leni_S002.png",
+    "name": "甜蜜恶魔 雷妮",
+    "imageName": "Leni_S002",
+    "characterId": 69
+  },
+  "1070000": {
+    "id": 1070000,
+    "file": "data/assets/character_skins/1070000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tsubame_S000.png",
+    "name": "燕翼",
+    "imageName": "Tsubame_S000",
+    "characterId": 70
+  },
+  "1070001": {
+    "id": 1070001,
+    "file": "data/assets/character_skins/1070001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tsubame_S001.png",
+    "name": "暗香疏影 燕翼",
+    "imageName": "Tsubame_S001",
+    "characterId": 70
+  },
+  "1070002": {
+    "id": 1070002,
+    "file": "data/assets/character_skins/1070002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Tsubame_S002.png",
+    "name": "清凉一闪 燕翼",
+    "imageName": "Tsubame_S002",
+    "characterId": 70
+  },
+  "1071000": {
+    "id": 1071000,
+    "file": "data/assets/character_skins/1071000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Kenneth_S000.png",
+    "name": "肯尼思",
+    "imageName": "Kenneth_S000",
+    "characterId": 71
+  },
+  "1071001": {
+    "id": 1071001,
+    "file": "data/assets/character_skins/1071001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Kenneth_S001.png",
+    "name": "战斗祭司 肯尼思",
+    "imageName": "Kenneth_S001",
+    "characterId": 71
+  },
+  "1071002": {
+    "id": 1071002,
+    "file": "data/assets/character_skins/1071002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Kenneth_S002.png",
+    "name": "青之宿命契约 肯尼思",
+    "imageName": "Kenneth_S002",
+    "characterId": 71
+  },
+  "1072000": {
+    "id": 1072000,
+    "file": "data/assets/character_skins/1072000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Katja_S000.png",
+    "name": "卡缇娅",
+    "imageName": "Katja_S000",
+    "characterId": 72
+  },
+  "1072001": {
+    "id": 1072001,
+    "file": "data/assets/character_skins/1072001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Katja_S001.png",
+    "name": "夜鸦 卡缇娅",
+    "imageName": "Katja_S001",
+    "characterId": 72
+  },
+  "1072002": {
+    "id": 1072002,
+    "file": "data/assets/character_skins/1072002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Katja_S002.png",
+    "name": "王牌教官 卡缇娅",
+    "imageName": "Katja_S002",
+    "characterId": 72
+  },
+  "1072003": {
+    "id": 1072003,
+    "file": "data/assets/character_skins/1072003.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Katja_S003.png",
+    "name": "咖啡店兼职生 卡缇娅",
+    "imageName": "Katja_S003",
+    "characterId": 72
+  },
+  "1073000": {
+    "id": 1073000,
+    "file": "data/assets/character_skins/1073000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Charlotte_S000.png",
+    "name": "夏洛特",
+    "imageName": "Charlotte_S000",
+    "characterId": 73
+  },
+  "1073001": {
+    "id": 1073001,
+    "file": "data/assets/character_skins/1073001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Charlotte_S001.png",
+    "name": "转校生 夏洛特",
+    "imageName": "Charlotte_S001",
+    "characterId": 73
+  },
+  "1073002": {
+    "id": 1073002,
+    "file": "data/assets/character_skins/1073002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Charlotte_S002.png",
+    "name": "堕落天使 夏洛特",
+    "imageName": "Charlotte_S002",
+    "characterId": 73
+  },
+  "1074000": {
+    "id": 1074000,
+    "file": "data/assets/character_skins/1074000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Darko_S000.png",
+    "name": "达尔科",
+    "imageName": "Darko_S000",
+    "characterId": 74
+  },
+  "1074001": {
+    "id": 1074001,
+    "file": "data/assets/character_skins/1074001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Darko_S001.png",
+    "name": "荷官 达尔科",
+    "imageName": "Darko_S001",
+    "characterId": 74
+  },
+  "1074002": {
+    "id": 1074002,
+    "file": "data/assets/character_skins/1074002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Darko_S002.png",
+    "name": "海风假日 达尔科",
+    "imageName": "Darko_S002",
+    "characterId": 74
+  },
+  "1075000": {
+    "id": 1075000,
+    "file": "data/assets/character_skins/1075000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenore_S000.png",
+    "name": "莉诺尔",
+    "imageName": "Lenore_S000",
+    "characterId": 75
+  },
+  "1075001": {
+    "id": 1075001,
+    "file": "data/assets/character_skins/1075001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenore_S001.png",
+    "name": "夜之韵 莉诺尔",
+    "imageName": "Lenore_S001",
+    "characterId": 75
+  },
+  "1075002": {
+    "id": 1075002,
+    "file": "data/assets/character_skins/1075002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Lenore_S002.png",
+    "name": "‌音乐老师 莉诺尔",
+    "imageName": "Lenore_S002",
+    "characterId": 75
+  },
+  "1076000": {
+    "id": 1076000,
+    "file": "data/assets/character_skins/1076000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Garnet_S000.png",
+    "name": "盖瑞特",
+    "imageName": "Garnet_S000",
+    "characterId": 76
+  },
+  "1076001": {
+    "id": 1076001,
+    "file": "data/assets/character_skins/1076001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Garnet_S001.png",
+    "name": "禁锢者 盖瑞特",
+    "imageName": "Garnet_S001",
+    "characterId": 76
+  },
+  "1076002": {
+    "id": 1076002,
+    "file": "data/assets/character_skins/1076002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Garnet_S002.png",
+    "name": "赤之宿命契约 盖瑞特",
+    "imageName": "Garnet_S002",
+    "characterId": 76
+  },
+  "1077000": {
+    "id": 1077000,
+    "file": "data/assets/character_skins/1077000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_YuMin_S000.png",
+    "name": "俞岷",
+    "imageName": "YuMin_S000",
+    "characterId": 77
+  },
+  "1077001": {
+    "id": 1077001,
+    "file": "data/assets/character_skins/1077001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_YuMin_S001.png",
+    "name": "云游道士 俞岷",
+    "imageName": "YuMin_S001",
+    "characterId": 77
+  },
+  "1078000": {
+    "id": 1078000,
+    "file": "data/assets/character_skins/1078000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hisui_S000.png",
+    "name": "翡翠",
+    "imageName": "Hisui_S000",
+    "characterId": 78
+  },
+  "1078001": {
+    "id": 1078001,
+    "file": "data/assets/character_skins/1078001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hisui_S001.png",
+    "name": "暗巷里 翡翠",
+    "imageName": "Hisui_S001",
+    "characterId": 78
+  },
+  "1078002": {
+    "id": 1078002,
+    "file": "data/assets/character_skins/1078002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Hisui_S002.png",
+    "name": "幽灵猎人 翡翠",
+    "imageName": "Hisui_S002",
+    "characterId": 78
+  },
+  "1079000": {
+    "id": 1079000,
+    "file": "data/assets/character_skins/1079000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Justyna_S000.png",
+    "name": "尤斯蒂娜",
+    "imageName": "Justyna_S000",
+    "characterId": 79
+  },
+  "1079001": {
+    "id": 1079001,
+    "file": "data/assets/character_skins/1079001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Justyna_S001.png",
+    "name": "风纪委员长 尤斯蒂娜",
+    "imageName": "Justyna_S001",
+    "characterId": 79
+  },
+  "1079002": {
+    "id": 1079002,
+    "file": "data/assets/character_skins/1079002.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Justyna_S002.png",
+    "name": "好运勇者兔女郎 尤斯蒂娜",
+    "imageName": "Justyna_S002",
+    "characterId": 79
+  },
+  "1080000": {
+    "id": 1080000,
+    "file": "data/assets/character_skins/1080000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Istvan_S000.png",
+    "name": "伊舒特",
+    "imageName": "Istvan_S000",
+    "characterId": 80
+  },
+  "1080001": {
+    "id": 1080001,
+    "file": "data/assets/character_skins/1080001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Istvan_S001.png",
+    "name": "执事 伊舒特",
+    "imageName": "Istvan_S001",
+    "characterId": 80
+  },
+  "1081000": {
+    "id": 1081000,
+    "file": "data/assets/character_skins/1081000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Niah_S000.png",
+    "name": "妮娅",
+    "imageName": "Niah_S000",
+    "characterId": 81
+  },
+  "1081001": {
+    "id": 1081001,
+    "file": "data/assets/character_skins/1081001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Niah_S001.png",
+    "name": "运动系女仆 妮娅",
+    "imageName": "Niah_S001",
+    "characterId": 81
+  },
+  "1082000": {
+    "id": 1082000,
+    "file": "data/assets/character_skins/1082000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xuelin_S000.png",
+    "name": "雪琳",
+    "imageName": "Xuelin_S000",
+    "characterId": 82
+  },
+  "1082001": {
+    "id": 1082001,
+    "file": "data/assets/character_skins/1082001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Xuelin_S001.png",
+    "name": "水墨青华 雪琳",
+    "imageName": "Xuelin_S001",
+    "characterId": 82
+  },
+  "1083000": {
+    "id": 1083000,
+    "file": "data/assets/character_skins/1083000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Henry_S000.png",
+    "name": "亨利",
+    "imageName": "Henry_S000",
+    "characterId": 83
+  },
+  "1083001": {
+    "id": 1083001,
+    "file": "data/assets/character_skins/1083001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Henry_S001.png",
+    "name": "战斗祭司 亨利",
+    "imageName": "Henry_S001",
+    "characterId": 83
+  },
+  "1084000": {
+    "id": 1084000,
+    "file": "data/assets/character_skins/1084000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Blair_S000.png",
+    "name": "布莱尔",
+    "imageName": "Blair_S000",
+    "characterId": 84
+  },
+  "1084001": {
+    "id": 1084001,
+    "file": "data/assets/character_skins/1084001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Blair_S001.png",
+    "name": "极速魅影 布莱尔",
+    "imageName": "Blair_S001",
+    "characterId": 84
+  },
+  "1085000": {
+    "id": 1085000,
+    "file": "data/assets/character_skins/1085000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Mirka_S000.png",
+    "name": "米尔卡",
+    "imageName": "Mirka_S000",
+    "characterId": 85
+  },
+  "1086000": {
+    "id": 1086000,
+    "file": "data/assets/character_skins/1086000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Fenrir_S000.png",
+    "name": "芬里尔",
+    "imageName": "Fenrir_S000",
+    "characterId": 86
+  },
+  "1087000": {
+    "id": 1087000,
+    "file": "data/assets/character_skins/1087000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharResult_Coraline_S000.png",
+    "name": "卡洛琳",
+    "imageName": "Coraline_S000",
+    "characterId": 87
+  }
+}

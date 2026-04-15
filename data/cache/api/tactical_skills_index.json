@@ -1,0 +1,224 @@
+{
+  "30": {
+    "id": 30,
+    "file": "data/assets/tactical_skills/30.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4000000.png",
+    "name": "闪灵"
+  },
+  "40": {
+    "id": 40,
+    "file": "data/assets/tactical_skills/40.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4001000.png",
+    "name": "震裂"
+  },
+  "50": {
+    "id": 50,
+    "file": "data/assets/tactical_skills/50.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4101000.png",
+    "name": "违规者"
+  },
+  "60": {
+    "id": 60,
+    "file": "data/assets/tactical_skills/60.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4102000.png",
+    "name": "赤色风暴"
+  },
+  "70": {
+    "id": 70,
+    "file": "data/assets/tactical_skills/70.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4103000.png",
+    "name": "超越"
+  },
+  "80": {
+    "id": 80,
+    "file": "data/assets/tactical_skills/80.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4104000.png",
+    "name": "极光陀螺"
+  },
+  "90": {
+    "id": 90,
+    "file": "data/assets/tactical_skills/90.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4105000.png",
+    "name": "净化"
+  },
+  "110": {
+    "id": 110,
+    "file": "data/assets/tactical_skills/110.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4107000.png",
+    "name": "羁绊者"
+  },
+  "120": {
+    "id": 120,
+    "file": "data/assets/tactical_skills/120.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4110000.png",
+    "name": "阔步者"
+  },
+  "130": {
+    "id": 130,
+    "file": "data/assets/tactical_skills/130.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4112000.png",
+    "name": "实刃"
+  },
+  "140": {
+    "id": 140,
+    "file": "data/assets/tactical_skills/140.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4113000.png",
+    "name": "虚言"
+  },
+  "150": {
+    "id": 150,
+    "file": "data/assets/tactical_skills/150.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4108000.png",
+    "name": "治愈之风"
+  },
+  "500010": {
+    "id": 500010,
+    "file": "data/assets/tactical_skills/500010.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4511000.png",
+    "name": ""
+  },
+  "500020": {
+    "id": 500020,
+    "file": "data/assets/tactical_skills/500020.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4502000.png",
+    "name": "重力场"
+  },
+  "500030": {
+    "id": 500030,
+    "file": "data/assets/tactical_skills/500030.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4503000.png",
+    "name": "滚雷"
+  },
+  "500040": {
+    "id": 500040,
+    "file": "data/assets/tactical_skills/500040.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4504000.png",
+    "name": "爆震"
+  },
+  "500050": {
+    "id": 500050,
+    "file": "data/assets/tactical_skills/500050.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4512000.png",
+    "name": "脉冲"
+  },
+  "500060": {
+    "id": 500060,
+    "file": "data/assets/tactical_skills/500060.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4506000.png",
+    "name": "祈愿"
+  },
+  "500070": {
+    "id": 500070,
+    "file": "data/assets/tactical_skills/500070.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4507000.png",
+    "name": "地碎"
+  },
+  "500080": {
+    "id": 500080,
+    "file": "data/assets/tactical_skills/500080.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4508000.png",
+    "name": "梦幻拳"
+  },
+  "500090": {
+    "id": 500090,
+    "file": "data/assets/tactical_skills/500090.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4509000.png",
+    "name": "流星"
+  },
+  "500100": {
+    "id": 500100,
+    "file": "data/assets/tactical_skills/500100.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4510000.png",
+    "name": "闪电之盾"
+  },
+  "500110": {
+    "id": 500110,
+    "file": "data/assets/tactical_skills/500110.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4511000.png",
+    "name": "祝福：冥想"
+  },
+  "500120": {
+    "id": 500120,
+    "file": "data/assets/tactical_skills/500120.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4000000.png",
+    "name": "闪灵"
+  },
+  "500130": {
+    "id": 500130,
+    "file": "data/assets/tactical_skills/500130.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4001000.png",
+    "name": "震裂"
+  },
+  "500140": {
+    "id": 500140,
+    "file": "data/assets/tactical_skills/500140.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4101000.png",
+    "name": "违规者"
+  },
+  "500150": {
+    "id": 500150,
+    "file": "data/assets/tactical_skills/500150.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4102000.png",
+    "name": "赤色风暴"
+  },
+  "500160": {
+    "id": 500160,
+    "file": "data/assets/tactical_skills/500160.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4103000.png",
+    "name": "超越"
+  },
+  "500170": {
+    "id": 500170,
+    "file": "data/assets/tactical_skills/500170.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4104000.png",
+    "name": "极光陀螺"
+  },
+  "500180": {
+    "id": 500180,
+    "file": "data/assets/tactical_skills/500180.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4105000.png",
+    "name": "净化"
+  },
+  "500190": {
+    "id": 500190,
+    "file": "data/assets/tactical_skills/500190.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4107000.png",
+    "name": "羁绊者"
+  },
+  "500200": {
+    "id": 500200,
+    "file": "data/assets/tactical_skills/500200.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4110000.png",
+    "name": "阔步者"
+  },
+  "500210": {
+    "id": 500210,
+    "file": "data/assets/tactical_skills/500210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4112000.png",
+    "name": "实刃"
+  },
+  "500220": {
+    "id": 500220,
+    "file": "data/assets/tactical_skills/500220.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4113000.png",
+    "name": "虚言"
+  },
+  "500230": {
+    "id": 500230,
+    "file": "data/assets/tactical_skills/500230.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4108000.png",
+    "name": "治愈之风"
+  },
+  "500240": {
+    "id": 500240,
+    "file": "data/assets/tactical_skills/500240.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/VSkillIcon_4524000.png",
+    "name": "附着"
+  },
+  "1000000": {
+    "id": 1000000,
+    "file": "data/assets/tactical_skills/1000000.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/SkillIcon_1060000.png",
+    "name": ""
+  }
+}

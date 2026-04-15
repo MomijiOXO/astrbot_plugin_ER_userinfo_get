@@ -1,0 +1,5990 @@
+{
+  "101101": {
+    "id": 101101,
+    "file": "data/assets/items/101101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101101.png",
+    "name": "剪刀"
+  },
+  "101102": {
+    "id": 101102,
+    "file": "data/assets/items/101102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101102.png",
+    "name": "钢笔"
+  },
+  "101104": {
+    "id": 101104,
+    "file": "data/assets/items/101104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101104.png",
+    "name": "菜刀"
+  },
+  "101201": {
+    "id": 101201,
+    "file": "data/assets/items/101201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101201.png",
+    "name": "军刀"
+  },
+  "101202": {
+    "id": 101202,
+    "file": "data/assets/items/101202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101202.png",
+    "name": "手术刀"
+  },
+  "101203": {
+    "id": 101203,
+    "file": "data/assets/items/101203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101203.png",
+    "name": "Jamadhar "
+  },
+  "101301": {
+    "id": 101301,
+    "file": "data/assets/items/101301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101301.png",
+    "name": "玫瑰刀"
+  },
+  "101302": {
+    "id": 101302,
+    "file": "data/assets/items/101302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101302.png",
+    "name": "瑞士军刀"
+  },
+  "101303": {
+    "id": 101303,
+    "file": "data/assets/items/101303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101303.png",
+    "name": "印度拳刃"
+  },
+  "101401": {
+    "id": 101401,
+    "file": "data/assets/items/101401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101401.png",
+    "name": "亚瑟王的短剑"
+  },
+  "101402": {
+    "id": 101402,
+    "file": "data/assets/items/101402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101402.png",
+    "name": "破山剑"
+  },
+  "101404": {
+    "id": 101404,
+    "file": "data/assets/items/101404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101404.png",
+    "name": "共振匕首"
+  },
+  "101405": {
+    "id": 101405,
+    "file": "data/assets/items/101405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101405.png",
+    "name": "佛拉格拉克"
+  },
+  "101406": {
+    "id": 101406,
+    "file": "data/assets/items/101406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101406.png",
+    "name": "大马士革·索恩"
+  },
+  "101407": {
+    "id": 101407,
+    "file": "data/assets/items/101407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101407.png",
+    "name": "摩诃罗阇"
+  },
+  "101408": {
+    "id": 101408,
+    "file": "data/assets/items/101408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101408.png",
+    "name": "高地德克短剑"
+  },
+  "101501": {
+    "id": 101501,
+    "file": "data/assets/items/101501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101501.png",
+    "name": "月蚀"
+  },
+  "101502": {
+    "id": 101502,
+    "file": "data/assets/items/101502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101502.png",
+    "name": "噬灵短剑"
+  },
+  "101503": {
+    "id": 101503,
+    "file": "data/assets/items/101503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101503.png",
+    "name": "绯色短剑"
+  },
+  "101504": {
+    "id": 101504,
+    "file": "data/assets/items/101504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101504.png",
+    "name": "恶意"
+  },
+  "101701": {
+    "id": 101701,
+    "file": "data/assets/items/101701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101701.png",
+    "name": "绯色短剑 - 绯红"
+  },
+  "101702": {
+    "id": 101702,
+    "file": "data/assets/items/101702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_101702.png",
+    "name": "绯色短剑 - 晓色"
+  },
+  "102101": {
+    "id": 102101,
+    "file": "data/assets/items/102101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102101.png",
+    "name": "铁锈剑"
+  },
+  "102201": {
+    "id": 102201,
+    "file": "data/assets/items/102201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102201.png",
+    "name": "长剑"
+  },
+  "102301": {
+    "id": 102301,
+    "file": "data/assets/items/102301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102301.png",
+    "name": "武士刀"
+  },
+  "102401": {
+    "id": 102401,
+    "file": "data/assets/items/102401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102401.png",
+    "name": "Masamune"
+  },
+  "102402": {
+    "id": 102402,
+    "file": "data/assets/items/102402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102402.png",
+    "name": "妖刀村正"
+  },
+  "102403": {
+    "id": 102403,
+    "file": "data/assets/items/102403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102403.png",
+    "name": "重剑"
+  },
+  "102404": {
+    "id": 102404,
+    "file": "data/assets/items/102404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102404.png",
+    "name": "宝剑"
+  },
+  "102405": {
+    "id": 102405,
+    "file": "data/assets/items/102405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102405.png",
+    "name": "顺天剑"
+  },
+  "102406": {
+    "id": 102406,
+    "file": "data/assets/items/102406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102406.png",
+    "name": "阿隆戴特"
+  },
+  "102407": {
+    "id": 102407,
+    "file": "data/assets/items/102407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102407.png",
+    "name": "断钢圣剑"
+  },
+  "102408": {
+    "id": 102408,
+    "file": "data/assets/items/102408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102408.png",
+    "name": "等离子剑"
+  },
+  "102409": {
+    "id": 102409,
+    "file": "data/assets/items/102409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102409.png",
+    "name": "破灭之枝"
+  },
+  "102410": {
+    "id": 102410,
+    "file": "data/assets/items/102410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102410.png",
+    "name": "物干焯"
+  },
+  "102411": {
+    "id": 102411,
+    "file": "data/assets/items/102411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102411.png",
+    "name": "天卫之剑"
+  },
+  "102412": {
+    "id": 102412,
+    "file": "data/assets/items/102412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102412.png",
+    "name": "极光长剑"
+  },
+  "102413": {
+    "id": 102413,
+    "file": "data/assets/items/102413.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102413.png",
+    "name": "奥术光刀"
+  },
+  "102501": {
+    "id": 102501,
+    "file": "data/assets/items/102501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102501.png",
+    "name": "噬血魔剑"
+  },
+  "102502": {
+    "id": 102502,
+    "file": "data/assets/items/102502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102502.png",
+    "name": "极冰之剑"
+  },
+  "102503": {
+    "id": 102503,
+    "file": "data/assets/items/102503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102503.png",
+    "name": "冥王剑"
+  },
+  "102701": {
+    "id": 102701,
+    "file": "data/assets/items/102701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102701.png",
+    "name": "噬血魔剑 - 绯红"
+  },
+  "102702": {
+    "id": 102702,
+    "file": "data/assets/items/102702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_102702.png",
+    "name": "噬血魔剑 - 晓色"
+  },
+  "103201": {
+    "id": 103201,
+    "file": "data/assets/items/103201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103201.png",
+    "name": "双刀"
+  },
+  "103202": {
+    "id": 103202,
+    "file": "data/assets/items/103202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103202.png",
+    "name": "粗劣的双剑"
+  },
+  "103301": {
+    "id": 103301,
+    "file": "data/assets/items/103301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103301.png",
+    "name": "佛罗伦萨"
+  },
+  "103302": {
+    "id": 103302,
+    "file": "data/assets/items/103302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103302.png",
+    "name": "双匕首"
+  },
+  "103401": {
+    "id": 103401,
+    "file": "data/assets/items/103401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103401.png",
+    "name": "二天一流"
+  },
+  "103402": {
+    "id": 103402,
+    "file": "data/assets/items/103402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103402.png",
+    "name": "雌雄双股剑"
+  },
+  "103403": {
+    "id": 103403,
+    "file": "data/assets/items/103403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103403.png",
+    "name": "阿修罗"
+  },
+  "103404": {
+    "id": 103404,
+    "file": "data/assets/items/103404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103404.png",
+    "name": "黑蝶"
+  },
+  "103501": {
+    "id": 103501,
+    "file": "data/assets/items/103501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103501.png",
+    "name": "狄奥斯库洛伊"
+  },
+  "103502": {
+    "id": 103502,
+    "file": "data/assets/items/103502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103502.png",
+    "name": "罗伊格尔＆扎尔"
+  },
+  "103503": {
+    "id": 103503,
+    "file": "data/assets/items/103503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103503.png",
+    "name": "阴阳双刃"
+  },
+  "103504": {
+    "id": 103504,
+    "file": "data/assets/items/103504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103504.png",
+    "name": "幻影刀"
+  },
+  "103505": {
+    "id": 103505,
+    "file": "data/assets/items/103505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103505.png",
+    "name": "塔纳托斯"
+  },
+  "103506": {
+    "id": 103506,
+    "file": "data/assets/items/103506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103506.png",
+    "name": "护手双钩"
+  },
+  "103507": {
+    "id": 103507,
+    "file": "data/assets/items/103507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103507.png",
+    "name": "幽影双刃"
+  },
+  "103701": {
+    "id": 103701,
+    "file": "data/assets/items/103701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103701.png",
+    "name": "幻影刀 - 绯红"
+  },
+  "103702": {
+    "id": 103702,
+    "file": "data/assets/items/103702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_103702.png",
+    "name": "幻影刀 - 晓色"
+  },
+  "104101": {
+    "id": 104101,
+    "file": "data/assets/items/104101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104101.png",
+    "name": "锤子"
+  },
+  "104201": {
+    "id": 104201,
+    "file": "data/assets/items/104201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104201.png",
+    "name": "战锤"
+  },
+  "104301": {
+    "id": 104301,
+    "file": "data/assets/items/104301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104301.png",
+    "name": "钉头锤"
+  },
+  "104302": {
+    "id": 104302,
+    "file": "data/assets/items/104302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104302.png",
+    "name": "黑鹿锤"
+  },
+  "104303": {
+    "id": 104303,
+    "file": "data/assets/items/104303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104303.png",
+    "name": "命运之锤"
+  },
+  "104401": {
+    "id": 104401,
+    "file": "data/assets/items/104401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104401.png",
+    "name": "狼牙棒"
+  },
+  "104402": {
+    "id": 104402,
+    "file": "data/assets/items/104402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104402.png",
+    "name": "达格达的大釜"
+  },
+  "104403": {
+    "id": 104403,
+    "file": "data/assets/items/104403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104403.png",
+    "name": "雷神之锤"
+  },
+  "104404": {
+    "id": 104404,
+    "file": "data/assets/items/104404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104404.png",
+    "name": "夜神星锤"
+  },
+  "104405": {
+    "id": 104405,
+    "file": "data/assets/items/104405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104405.png",
+    "name": "魔法棒"
+  },
+  "104406": {
+    "id": 104406,
+    "file": "data/assets/items/104406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104406.png",
+    "name": "千斤锤"
+  },
+  "104407": {
+    "id": 104407,
+    "file": "data/assets/items/104407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104407.png",
+    "name": "金刚杵"
+  },
+  "104408": {
+    "id": 104408,
+    "file": "data/assets/items/104408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104408.png",
+    "name": "八卦佛杖"
+  },
+  "104409": {
+    "id": 104409,
+    "file": "data/assets/items/104409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104409.png",
+    "name": "知识之锤"
+  },
+  "104501": {
+    "id": 104501,
+    "file": "data/assets/items/104501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104501.png",
+    "name": "和平暗使"
+  },
+  "104502": {
+    "id": 104502,
+    "file": "data/assets/items/104502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104502.png",
+    "name": "天星锤"
+  },
+  "104503": {
+    "id": 104503,
+    "file": "data/assets/items/104503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104503.png",
+    "name": "末日"
+  },
+  "104504": {
+    "id": 104504,
+    "file": "data/assets/items/104504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104504.png",
+    "name": "利维坦"
+  },
+  "104701": {
+    "id": 104701,
+    "file": "data/assets/items/104701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104701.png",
+    "name": "和平暗使 - 绯红"
+  },
+  "104702": {
+    "id": 104702,
+    "file": "data/assets/items/104702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_104702.png",
+    "name": "和平暗使 - 晓色"
+  },
+  "105102": {
+    "id": 105102,
+    "file": "data/assets/items/105102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105102.png",
+    "name": "十字镐"
+  },
+  "105103": {
+    "id": 105103,
+    "file": "data/assets/items/105103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105103.png",
+    "name": "短柄斧"
+  },
+  "105201": {
+    "id": 105201,
+    "file": "data/assets/items/105201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105201.png",
+    "name": "锁镰"
+  },
+  "105202": {
+    "id": 105202,
+    "file": "data/assets/items/105202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105202.png",
+    "name": "战斧"
+  },
+  "105301": {
+    "id": 105301,
+    "file": "data/assets/items/105301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105301.png",
+    "name": "轻量化斧头"
+  },
+  "105302": {
+    "id": 105302,
+    "file": "data/assets/items/105302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105302.png",
+    "name": "死神镰刀"
+  },
+  "105401": {
+    "id": 105401,
+    "file": "data/assets/items/105401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105401.png",
+    "name": "大斧"
+  },
+  "105402": {
+    "id": 105402,
+    "file": "data/assets/items/105402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105402.png",
+    "name": "激光刃斧"
+  },
+  "105403": {
+    "id": 105403,
+    "file": "data/assets/items/105403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105403.png",
+    "name": "死亡圣神之镰"
+  },
+  "105404": {
+    "id": 105404,
+    "file": "data/assets/items/105404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105404.png",
+    "name": "大镰刀"
+  },
+  "105405": {
+    "id": 105405,
+    "file": "data/assets/items/105405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105405.png",
+    "name": "罗摩斧"
+  },
+  "105406": {
+    "id": 105406,
+    "file": "data/assets/items/105406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105406.png",
+    "name": "赫帕尔"
+  },
+  "105407": {
+    "id": 105407,
+    "file": "data/assets/items/105407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105407.png",
+    "name": "战坦克"
+  },
+  "105408": {
+    "id": 105408,
+    "file": "data/assets/items/105408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105408.png",
+    "name": "盘古斧"
+  },
+  "105501": {
+    "id": 105501,
+    "file": "data/assets/items/105501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105501.png",
+    "name": "天堂之镰"
+  },
+  "105502": {
+    "id": 105502,
+    "file": "data/assets/items/105502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105502.png",
+    "name": "血色之镰"
+  },
+  "105503": {
+    "id": 105503,
+    "file": "data/assets/items/105503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105503.png",
+    "name": "蓝狮"
+  },
+  "105701": {
+    "id": 105701,
+    "file": "data/assets/items/105701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105701.png",
+    "name": "血色之镰 - 绯红"
+  },
+  "105702": {
+    "id": 105702,
+    "file": "data/assets/items/105702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_105702.png",
+    "name": "血色之镰 - 晓色"
+  },
+  "107101": {
+    "id": 107101,
+    "file": "data/assets/items/107101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107101.png",
+    "name": "短矛"
+  },
+  "107201": {
+    "id": 107201,
+    "file": "data/assets/items/107201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107201.png",
+    "name": "竹矛"
+  },
+  "107301": {
+    "id": 107301,
+    "file": "data/assets/items/107301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107301.png",
+    "name": "双叉戟"
+  },
+  "107302": {
+    "id": 107302,
+    "file": "data/assets/items/107302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107302.png",
+    "name": "矛"
+  },
+  "107303": {
+    "id": 107303,
+    "file": "data/assets/items/107303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107303.png",
+    "name": "斧枪"
+  },
+  "107401": {
+    "id": 107401,
+    "file": "data/assets/items/107401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107401.png",
+    "name": "钢枪"
+  },
+  "107402": {
+    "id": 107402,
+    "file": "data/assets/items/107402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107402.png",
+    "name": "涯角枪"
+  },
+  "107403": {
+    "id": 107403,
+    "file": "data/assets/items/107403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107403.png",
+    "name": "丈八蛇矛"
+  },
+  "107404": {
+    "id": 107404,
+    "file": "data/assets/items/107404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107404.png",
+    "name": "宇宙双叉戟"
+  },
+  "107405": {
+    "id": 107405,
+    "file": "data/assets/items/107405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107405.png",
+    "name": "波赛顿之戟"
+  },
+  "107406": {
+    "id": 107406,
+    "file": "data/assets/items/107406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107406.png",
+    "name": "火尖枪"
+  },
+  "107407": {
+    "id": 107407,
+    "file": "data/assets/items/107407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107407.png",
+    "name": "方天画戟"
+  },
+  "107408": {
+    "id": 107408,
+    "file": "data/assets/items/107408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107408.png",
+    "name": "青龙偃月刀"
+  },
+  "107501": {
+    "id": 107501,
+    "file": "data/assets/items/107501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107501.png",
+    "name": "朗基努斯之枪"
+  },
+  "107502": {
+    "id": 107502,
+    "file": "data/assets/items/107502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107502.png",
+    "name": "猎星者"
+  },
+  "107701": {
+    "id": 107701,
+    "file": "data/assets/items/107701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107701.png",
+    "name": "朗基努斯之枪 - 绯红"
+  },
+  "107702": {
+    "id": 107702,
+    "file": "data/assets/items/107702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_107702.png",
+    "name": "朗基努斯之枪 - 晓色"
+  },
+  "108101": {
+    "id": 108101,
+    "file": "data/assets/items/108101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108101.png",
+    "name": "树枝"
+  },
+  "108102": {
+    "id": 108102,
+    "file": "data/assets/items/108102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108102.png",
+    "name": "短棍"
+  },
+  "108103": {
+    "id": 108103,
+    "file": "data/assets/items/108103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108103.png",
+    "name": "竹"
+  },
+  "108202": {
+    "id": 108202,
+    "file": "data/assets/items/108202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108202.png",
+    "name": "长棍"
+  },
+  "108301": {
+    "id": 108301,
+    "file": "data/assets/items/108301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108301.png",
+    "name": "金砕棒"
+  },
+  "108401": {
+    "id": 108401,
+    "file": "data/assets/items/108401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108401.png",
+    "name": "雨伞"
+  },
+  "108402": {
+    "id": 108402,
+    "file": "data/assets/items/108402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108402.png",
+    "name": "火炬"
+  },
+  "108403": {
+    "id": 108403,
+    "file": "data/assets/items/108403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108403.png",
+    "name": "救世女神像"
+  },
+  "108404": {
+    "id": 108404,
+    "file": "data/assets/items/108404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108404.png",
+    "name": "打狗棒"
+  },
+  "108405": {
+    "id": 108405,
+    "file": "data/assets/items/108405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108405.png",
+    "name": "铁管"
+  },
+  "108501": {
+    "id": 108501,
+    "file": "data/assets/items/108501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108501.png",
+    "name": "特工伞"
+  },
+  "108502": {
+    "id": 108502,
+    "file": "data/assets/items/108502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108502.png",
+    "name": "如意金箍棒"
+  },
+  "108503": {
+    "id": 108503,
+    "file": "data/assets/items/108503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108503.png",
+    "name": "鬼手棍"
+  },
+  "108504": {
+    "id": 108504,
+    "file": "data/assets/items/108504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108504.png",
+    "name": "心之杖"
+  },
+  "108505": {
+    "id": 108505,
+    "file": "data/assets/items/108505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108505.png",
+    "name": "秃鹫之眼"
+  },
+  "108701": {
+    "id": 108701,
+    "file": "data/assets/items/108701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108701.png",
+    "name": "心之杖 - 绯红"
+  },
+  "108702": {
+    "id": 108702,
+    "file": "data/assets/items/108702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_108702.png",
+    "name": "心之杖 - 晓色"
+  },
+  "109101": {
+    "id": 109101,
+    "file": "data/assets/items/109101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109101.png",
+    "name": "鞭子"
+  },
+  "109201": {
+    "id": 109201,
+    "file": "data/assets/items/109201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109201.png",
+    "name": "套环"
+  },
+  "109202": {
+    "id": 109202,
+    "file": "data/assets/items/109202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109202.png",
+    "name": "铁鞭"
+  },
+  "109301": {
+    "id": 109301,
+    "file": "data/assets/items/109301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109301.png",
+    "name": "风之鞭"
+  },
+  "109401": {
+    "id": 109401,
+    "file": "data/assets/items/109401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109401.png",
+    "name": "雷龙鞭"
+  },
+  "109402": {
+    "id": 109402,
+    "file": "data/assets/items/109402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109402.png",
+    "name": "霹雳鞭"
+  },
+  "109403": {
+    "id": 109403,
+    "file": "data/assets/items/109403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109403.png",
+    "name": "格莱普尼尔"
+  },
+  "109404": {
+    "id": 109404,
+    "file": "data/assets/items/109404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109404.png",
+    "name": "等离子鞭"
+  },
+  "109405": {
+    "id": 109405,
+    "file": "data/assets/items/109405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109405.png",
+    "name": "负极离子鞭"
+  },
+  "109406": {
+    "id": 109406,
+    "file": "data/assets/items/109406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109406.png",
+    "name": "乌拉诺斯"
+  },
+  "109501": {
+    "id": 109501,
+    "file": "data/assets/items/109501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109501.png",
+    "name": "血花九节鞭"
+  },
+  "109502": {
+    "id": 109502,
+    "file": "data/assets/items/109502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109502.png",
+    "name": "蛇腹剑"
+  },
+  "109503": {
+    "id": 109503,
+    "file": "data/assets/items/109503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109503.png",
+    "name": "命运之环"
+  },
+  "109701": {
+    "id": 109701,
+    "file": "data/assets/items/109701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109701.png",
+    "name": "血花九节鞭 - 绯红"
+  },
+  "109702": {
+    "id": 109702,
+    "file": "data/assets/items/109702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_109702.png",
+    "name": "血花九节鞭 - 晓色"
+  },
+  "110101": {
+    "id": 110101,
+    "file": "data/assets/items/110101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110101.png",
+    "name": "Brass Knuckles"
+  },
+  "110102": {
+    "id": 110102,
+    "file": "data/assets/items/110102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110102.png",
+    "name": "劳工手套"
+  },
+  "110201": {
+    "id": 110201,
+    "file": "data/assets/items/110201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110201.png",
+    "name": "皮手套"
+  },
+  "110202": {
+    "id": 110202,
+    "file": "data/assets/items/110202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110202.png",
+    "name": "铁指虎"
+  },
+  "110301": {
+    "id": 110301,
+    "file": "data/assets/items/110301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110301.png",
+    "name": "金属手套"
+  },
+  "110302": {
+    "id": 110302,
+    "file": "data/assets/items/110302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110302.png",
+    "name": "羽翼指虎"
+  },
+  "110401": {
+    "id": 110401,
+    "file": "data/assets/items/110401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110401.png",
+    "name": "龟甲护手"
+  },
+  "110402": {
+    "id": 110402,
+    "file": "data/assets/items/110402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110402.png",
+    "name": "爆裂护手"
+  },
+  "110403": {
+    "id": 110403,
+    "file": "data/assets/items/110403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110403.png",
+    "name": "Glass Knuckles"
+  },
+  "110404": {
+    "id": 110404,
+    "file": "data/assets/items/110404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110404.png",
+    "name": "涅槃护手"
+  },
+  "110405": {
+    "id": 110405,
+    "file": "data/assets/items/110405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110405.png",
+    "name": "寸拳"
+  },
+  "110406": {
+    "id": 110406,
+    "file": "data/assets/items/110406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110406.png",
+    "name": "圣拳"
+  },
+  "110407": {
+    "id": 110407,
+    "file": "data/assets/items/110407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110407.png",
+    "name": "血翼指虎"
+  },
+  "110408": {
+    "id": 110408,
+    "file": "data/assets/items/110408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110408.png",
+    "name": "霜瓣玉手"
+  },
+  "110409": {
+    "id": 110409,
+    "file": "data/assets/items/110409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110409.png",
+    "name": "如来神掌"
+  },
+  "110410": {
+    "id": 110410,
+    "file": "data/assets/items/110410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110410.png",
+    "name": "巴西拳套"
+  },
+  "110411": {
+    "id": 110411,
+    "file": "data/assets/items/110411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110411.png",
+    "name": "赤手空拳"
+  },
+  "110412": {
+    "id": 110412,
+    "file": "data/assets/items/110412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110412.png",
+    "name": "天蚕手套"
+  },
+  "110501": {
+    "id": 110501,
+    "file": "data/assets/items/110501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110501.png",
+    "name": "朱雀之纹"
+  },
+  "110502": {
+    "id": 110502,
+    "file": "data/assets/items/110502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110502.png",
+    "name": "冻土传说"
+  },
+  "110503": {
+    "id": 110503,
+    "file": "data/assets/items/110503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110503.png",
+    "name": "血手"
+  },
+  "110504": {
+    "id": 110504,
+    "file": "data/assets/items/110504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110504.png",
+    "name": "雷霆之握"
+  },
+  "110701": {
+    "id": 110701,
+    "file": "data/assets/items/110701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110701.png",
+    "name": "血手 - 绯红"
+  },
+  "110702": {
+    "id": 110702,
+    "file": "data/assets/items/110702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_110702.png",
+    "name": "血手 - 晓色"
+  },
+  "111201": {
+    "id": 111201,
+    "file": "data/assets/items/111201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111201.png",
+    "name": "旋棍"
+  },
+  "111301": {
+    "id": 111301,
+    "file": "data/assets/items/111301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111301.png",
+    "name": "警棍"
+  },
+  "111401": {
+    "id": 111401,
+    "file": "data/assets/items/111401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111401.png",
+    "name": "琉球旋棍"
+  },
+  "111402": {
+    "id": 111402,
+    "file": "data/assets/items/111402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111402.png",
+    "name": "战术旋棍"
+  },
+  "111403": {
+    "id": 111403,
+    "file": "data/assets/items/111403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111403.png",
+    "name": "泰式拳法"
+  },
+  "111404": {
+    "id": 111404,
+    "file": "data/assets/items/111404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111404.png",
+    "name": "等离子旋棍"
+  },
+  "111405": {
+    "id": 111405,
+    "file": "data/assets/items/111405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111405.png",
+    "name": "风行者"
+  },
+  "111406": {
+    "id": 111406,
+    "file": "data/assets/items/111406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111406.png",
+    "name": "皮质拐"
+  },
+  "111501": {
+    "id": 111501,
+    "file": "data/assets/items/111501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111501.png",
+    "name": "黑曜石双钗"
+  },
+  "111502": {
+    "id": 111502,
+    "file": "data/assets/items/111502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111502.png",
+    "name": "万年寒波"
+  },
+  "111503": {
+    "id": 111503,
+    "file": "data/assets/items/111503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111503.png",
+    "name": "刀刃旋棍"
+  },
+  "111504": {
+    "id": 111504,
+    "file": "data/assets/items/111504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111504.png",
+    "name": "螳螂旋棍"
+  },
+  "111701": {
+    "id": 111701,
+    "file": "data/assets/items/111701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111701.png",
+    "name": "刀刃旋棍 - 绯红"
+  },
+  "111702": {
+    "id": 111702,
+    "file": "data/assets/items/111702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_111702.png",
+    "name": "刀刃旋棍 - 晓色"
+  },
+  "112101": {
+    "id": 112101,
+    "file": "data/assets/items/112101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112101.png",
+    "name": "石头"
+  },
+  "112103": {
+    "id": 112103,
+    "file": "data/assets/items/112103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112103.png",
+    "name": "钢珠"
+  },
+  "112104": {
+    "id": 112104,
+    "file": "data/assets/items/112104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112104.png",
+    "name": "玻璃瓶"
+  },
+  "112105": {
+    "id": 112105,
+    "file": "data/assets/items/112105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112105.png",
+    "name": "棒球"
+  },
+  "112202": {
+    "id": 112202,
+    "file": "data/assets/items/112202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112202.png",
+    "name": "手榴弹"
+  },
+  "112203": {
+    "id": 112203,
+    "file": "data/assets/items/112203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112203.png",
+    "name": "Molotov Cocktail"
+  },
+  "112204": {
+    "id": 112204,
+    "file": "data/assets/items/112204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112204.png",
+    "name": "吊索"
+  },
+  "112205": {
+    "id": 112205,
+    "file": "data/assets/items/112205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112205.png",
+    "name": "签名球"
+  },
+  "112301": {
+    "id": 112301,
+    "file": "data/assets/items/112301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112301.png",
+    "name": "粉尘弹"
+  },
+  "112302": {
+    "id": 112302,
+    "file": "data/assets/items/112302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112302.png",
+    "name": "燃烧弹"
+  },
+  "112303": {
+    "id": 112303,
+    "file": "data/assets/items/112303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112303.png",
+    "name": "闪电球"
+  },
+  "112304": {
+    "id": 112304,
+    "file": "data/assets/items/112304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112304.png",
+    "name": "胶球"
+  },
+  "112305": {
+    "id": 112305,
+    "file": "data/assets/items/112305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112305.png",
+    "name": "High Explosive Grenade"
+  },
+  "112306": {
+    "id": 112306,
+    "file": "data/assets/items/112306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112306.png",
+    "name": "罗马重标枪"
+  },
+  "112401": {
+    "id": 112401,
+    "file": "data/assets/items/112401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112401.png",
+    "name": "大卫的弹弓"
+  },
+  "112402": {
+    "id": 112402,
+    "file": "data/assets/items/112402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112402.png",
+    "name": "烟雾弹"
+  },
+  "112403": {
+    "id": 112403,
+    "file": "data/assets/items/112403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112403.png",
+    "name": "尖刺弹力球"
+  },
+  "112404": {
+    "id": 112404,
+    "file": "data/assets/items/112404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112404.png",
+    "name": "安提奥克的手榴弹"
+  },
+  "112405": {
+    "id": 112405,
+    "file": "data/assets/items/112405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112405.png",
+    "name": "火球"
+  },
+  "112406": {
+    "id": 112406,
+    "file": "data/assets/items/112406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112406.png",
+    "name": "魔导棱镜"
+  },
+  "112407": {
+    "id": 112407,
+    "file": "data/assets/items/112407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112407.png",
+    "name": "阿斯特拉普"
+  },
+  "112408": {
+    "id": 112408,
+    "file": "data/assets/items/112408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112408.png",
+    "name": "粘性炸弹"
+  },
+  "112501": {
+    "id": 112501,
+    "file": "data/assets/items/112501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112501.png",
+    "name": "钌珠"
+  },
+  "112502": {
+    "id": 112502,
+    "file": "data/assets/items/112502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112502.png",
+    "name": "如意珠"
+  },
+  "112503": {
+    "id": 112503,
+    "file": "data/assets/items/112503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112503.png",
+    "name": "追猎者"
+  },
+  "112701": {
+    "id": 112701,
+    "file": "data/assets/items/112701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112701.png",
+    "name": "追猎者 - 绯红"
+  },
+  "112702": {
+    "id": 112702,
+    "file": "data/assets/items/112702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_112702.png",
+    "name": "追猎者 - 晓色"
+  },
+  "113101": {
+    "id": 113101,
+    "file": "data/assets/items/113101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113101.png",
+    "name": "剃刀"
+  },
+  "113102": {
+    "id": 113102,
+    "file": "data/assets/items/113102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113102.png",
+    "name": "扑克牌"
+  },
+  "113104": {
+    "id": 113104,
+    "file": "data/assets/items/113104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113104.png",
+    "name": "粉笔"
+  },
+  "113201": {
+    "id": 113201,
+    "file": "data/assets/items/113201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113201.png",
+    "name": "飞镖"
+  },
+  "113202": {
+    "id": 113202,
+    "file": "data/assets/items/113202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113202.png",
+    "name": "符咒"
+  },
+  "113203": {
+    "id": 113203,
+    "file": "data/assets/items/113203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113203.png",
+    "name": "复古扑克"
+  },
+  "113205": {
+    "id": 113205,
+    "file": "data/assets/items/113205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113205.png",
+    "name": "流星镖"
+  },
+  "113206": {
+    "id": 113206,
+    "file": "data/assets/items/113206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113206.png",
+    "name": "玛瑙飞刀"
+  },
+  "113207": {
+    "id": 113207,
+    "file": "data/assets/items/113207.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113207.png",
+    "name": "Apricot Flower Tag"
+  },
+  "113301": {
+    "id": 113301,
+    "file": "data/assets/items/113301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113301.png",
+    "name": "轮刃"
+  },
+  "113302": {
+    "id": 113302,
+    "file": "data/assets/items/113302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113302.png",
+    "name": "柳叶飞刀"
+  },
+  "113401": {
+    "id": 113401,
+    "file": "data/assets/items/113401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113401.png",
+    "name": "疯子国王的卡片"
+  },
+  "113402": {
+    "id": 113402,
+    "file": "data/assets/items/113402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113402.png",
+    "name": "Venom Dart"
+  },
+  "113403": {
+    "id": 113403,
+    "file": "data/assets/items/113403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113403.png",
+    "name": "Dharma Chakram"
+  },
+  "113404": {
+    "id": 113404,
+    "file": "data/assets/items/113404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113404.png",
+    "name": "普拉巴塔标枪"
+  },
+  "113405": {
+    "id": 113405,
+    "file": "data/assets/items/113405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113405.png",
+    "name": "翡翠秘符"
+  },
+  "113406": {
+    "id": 113406,
+    "file": "data/assets/items/113406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113406.png",
+    "name": "风魔手里剑"
+  },
+  "113408": {
+    "id": 113408,
+    "file": "data/assets/items/113408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113408.png",
+    "name": "冰魄银针"
+  },
+  "113409": {
+    "id": 113409,
+    "file": "data/assets/items/113409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113409.png",
+    "name": "蔚蓝匕首"
+  },
+  "113410": {
+    "id": 113410,
+    "file": "data/assets/items/113410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113410.png",
+    "name": "飞镖弹"
+  },
+  "113411": {
+    "id": 113411,
+    "file": "data/assets/items/113411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113411.png",
+    "name": "乾坤圈"
+  },
+  "113412": {
+    "id": 113412,
+    "file": "data/assets/items/113412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113412.png",
+    "name": "亡者之符"
+  },
+  "113501": {
+    "id": 113501,
+    "file": "data/assets/items/113501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113501.png",
+    "name": "妙见神轮"
+  },
+  "113502": {
+    "id": 113502,
+    "file": "data/assets/items/113502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113502.png",
+    "name": "满天花雨"
+  },
+  "113503": {
+    "id": 113503,
+    "file": "data/assets/items/113503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113503.png",
+    "name": "黑莲手里剑"
+  },
+  "113701": {
+    "id": 113701,
+    "file": "data/assets/items/113701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113701.png",
+    "name": "黑莲手里剑 - 绯红"
+  },
+  "113702": {
+    "id": 113702,
+    "file": "data/assets/items/113702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_113702.png",
+    "name": "黑莲手里剑 - 晓色"
+  },
+  "114101": {
+    "id": 114101,
+    "file": "data/assets/items/114101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114101.png",
+    "name": "弓"
+  },
+  "114201": {
+    "id": 114201,
+    "file": "data/assets/items/114201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114201.png",
+    "name": "木弓"
+  },
+  "114202": {
+    "id": 114202,
+    "file": "data/assets/items/114202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114202.png",
+    "name": "长弓"
+  },
+  "114203": {
+    "id": 114203,
+    "file": "data/assets/items/114203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114203.png",
+    "name": "复合弓"
+  },
+  "114301": {
+    "id": 114301,
+    "file": "data/assets/items/114301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114301.png",
+    "name": "重弓"
+  },
+  "114302": {
+    "id": 114302,
+    "file": "data/assets/items/114302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114302.png",
+    "name": "松武弓"
+  },
+  "114303": {
+    "id": 114303,
+    "file": "data/assets/items/114303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114303.png",
+    "name": "暗杀特弓"
+  },
+  "114304": {
+    "id": 114304,
+    "file": "data/assets/items/114304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114304.png",
+    "name": "Pellet Bow"
+  },
+  "114401": {
+    "id": 114401,
+    "file": "data/assets/items/114401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114401.png",
+    "name": "片箭"
+  },
+  "114402": {
+    "id": 114402,
+    "file": "data/assets/items/114402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114402.png",
+    "name": "火矢弓"
+  },
+  "114403": {
+    "id": 114403,
+    "file": "data/assets/items/114403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114403.png",
+    "name": "黄金之弓"
+  },
+  "114405": {
+    "id": 114405,
+    "file": "data/assets/items/114405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114405.png",
+    "name": "双子杀"
+  },
+  "114406": {
+    "id": 114406,
+    "file": "data/assets/items/114406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114406.png",
+    "name": "哲别之弓"
+  },
+  "114407": {
+    "id": 114407,
+    "file": "data/assets/items/114407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114407.png",
+    "name": "阿提米丝"
+  },
+  "114501": {
+    "id": 114501,
+    "file": "data/assets/items/114501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114501.png",
+    "name": "元素灵弓"
+  },
+  "114502": {
+    "id": 114502,
+    "file": "data/assets/items/114502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114502.png",
+    "name": "血之刻印"
+  },
+  "114503": {
+    "id": 114503,
+    "file": "data/assets/items/114503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114503.png",
+    "name": "阿耳古洛托克索斯"
+  },
+  "114504": {
+    "id": 114504,
+    "file": "data/assets/items/114504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114504.png",
+    "name": "赤弓白矢"
+  },
+  "114505": {
+    "id": 114505,
+    "file": "data/assets/items/114505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114505.png",
+    "name": "猎鹰"
+  },
+  "114701": {
+    "id": 114701,
+    "file": "data/assets/items/114701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114701.png",
+    "name": "血之刻印 - 绯红"
+  },
+  "114702": {
+    "id": 114702,
+    "file": "data/assets/items/114702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_114702.png",
+    "name": "血之刻印 - 晓色"
+  },
+  "115101": {
+    "id": 115101,
+    "file": "data/assets/items/115101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115101.png",
+    "name": "短弩"
+  },
+  "115201": {
+    "id": 115201,
+    "file": "data/assets/items/115201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115201.png",
+    "name": "长弩"
+  },
+  "115202": {
+    "id": 115202,
+    "file": "data/assets/items/115202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115202.png",
+    "name": "十字弩"
+  },
+  "115301": {
+    "id": 115301,
+    "file": "data/assets/items/115301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115301.png",
+    "name": "Power Crossbow"
+  },
+  "115302": {
+    "id": 115302,
+    "file": "data/assets/items/115302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115302.png",
+    "name": "激光弩"
+  },
+  "115303": {
+    "id": 115303,
+    "file": "data/assets/items/115303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115303.png",
+    "name": "重弩"
+  },
+  "115401": {
+    "id": 115401,
+    "file": "data/assets/items/115401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115401.png",
+    "name": "钢弩"
+  },
+  "115402": {
+    "id": 115402,
+    "file": "data/assets/items/115402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115402.png",
+    "name": "大将灵魂"
+  },
+  "115403": {
+    "id": 115403,
+    "file": "data/assets/items/115403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115403.png",
+    "name": "诸葛连弩"
+  },
+  "115404": {
+    "id": 115404,
+    "file": "data/assets/items/115404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115404.png",
+    "name": "狙击弩"
+  },
+  "115405": {
+    "id": 115405,
+    "file": "data/assets/items/115405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115405.png",
+    "name": "灵光金龟神机弩"
+  },
+  "115406": {
+    "id": 115406,
+    "file": "data/assets/items/115406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115406.png",
+    "name": "十字毒弩"
+  },
+  "115501": {
+    "id": 115501,
+    "file": "data/assets/items/115501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115501.png",
+    "name": "沙兰加"
+  },
+  "115502": {
+    "id": 115502,
+    "file": "data/assets/items/115502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115502.png",
+    "name": "血色弦月"
+  },
+  "115503": {
+    "id": 115503,
+    "file": "data/assets/items/115503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115503.png",
+    "name": "狂澜"
+  },
+  "115504": {
+    "id": 115504,
+    "file": "data/assets/items/115504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115504.png",
+    "name": "幻影之矢"
+  },
+  "115701": {
+    "id": 115701,
+    "file": "data/assets/items/115701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115701.png",
+    "name": "血色弦月 - 绯红"
+  },
+  "115702": {
+    "id": 115702,
+    "file": "data/assets/items/115702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_115702.png",
+    "name": "血色弦月 - 晓色"
+  },
+  "116101": {
+    "id": 116101,
+    "file": "data/assets/items/116101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116101.png",
+    "name": "瓦尔特PPK"
+  },
+  "116201": {
+    "id": 116201,
+    "file": "data/assets/items/116201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116201.png",
+    "name": "马格努恩·蟒蛇"
+  },
+  "116202": {
+    "id": 116202,
+    "file": "data/assets/items/116202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116202.png",
+    "name": "伯莱塔M92F"
+  },
+  "116301": {
+    "id": 116301,
+    "file": "data/assets/items/116301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116301.png",
+    "name": "FN57"
+  },
+  "116401": {
+    "id": 116401,
+    "file": "data/assets/items/116401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116401.png",
+    "name": "Double Revolver SP"
+  },
+  "116402": {
+    "id": 116402,
+    "file": "data/assets/items/116402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116402.png",
+    "name": "马格努恩·巨蟒"
+  },
+  "116403": {
+    "id": 116403,
+    "file": "data/assets/items/116403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116403.png",
+    "name": "魔弹射手"
+  },
+  "116404": {
+    "id": 116404,
+    "file": "data/assets/items/116404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116404.png",
+    "name": "优雅者之枪"
+  },
+  "116405": {
+    "id": 116405,
+    "file": "data/assets/items/116405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116405.png",
+    "name": "电子光束枪"
+  },
+  "116406": {
+    "id": 116406,
+    "file": "data/assets/items/116406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116406.png",
+    "name": "马格农·博亚"
+  },
+  "116407": {
+    "id": 116407,
+    "file": "data/assets/items/116407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116407.png",
+    "name": "格洛克 48"
+  },
+  "116408": {
+    "id": 116408,
+    "file": "data/assets/items/116408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116408.png",
+    "name": "德林加手枪"
+  },
+  "116409": {
+    "id": 116409,
+    "file": "data/assets/items/116409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116409.png",
+    "name": "史坦普特"
+  },
+  "116410": {
+    "id": 116410,
+    "file": "data/assets/items/116410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116410.png",
+    "name": "等离子枪"
+  },
+  "116501": {
+    "id": 116501,
+    "file": "data/assets/items/116501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116501.png",
+    "name": "凯尔特"
+  },
+  "116502": {
+    "id": 116502,
+    "file": "data/assets/items/116502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116502.png",
+    "name": "牵牛星"
+  },
+  "116503": {
+    "id": 116503,
+    "file": "data/assets/items/116503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116503.png",
+    "name": "正午"
+  },
+  "116701": {
+    "id": 116701,
+    "file": "data/assets/items/116701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116701.png",
+    "name": "正午 - 绯红"
+  },
+  "116702": {
+    "id": 116702,
+    "file": "data/assets/items/116702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_116702.png",
+    "name": "正午 - 晓色"
+  },
+  "117101": {
+    "id": 117101,
+    "file": "data/assets/items/117101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117101.png",
+    "name": "费德洛夫自动步枪"
+  },
+  "117201": {
+    "id": 117201,
+    "file": "data/assets/items/117201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117201.png",
+    "name": "STG-44"
+  },
+  "117301": {
+    "id": 117301,
+    "file": "data/assets/items/117301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117301.png",
+    "name": "AK-47"
+  },
+  "117401": {
+    "id": 117401,
+    "file": "data/assets/items/117401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117401.png",
+    "name": "M16A1"
+  },
+  "117402": {
+    "id": 117402,
+    "file": "data/assets/items/117402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117402.png",
+    "name": "加特林机枪"
+  },
+  "117403": {
+    "id": 117403,
+    "file": "data/assets/items/117403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117403.png",
+    "name": "95式自动步枪"
+  },
+  "117404": {
+    "id": 117404,
+    "file": "data/assets/items/117404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117404.png",
+    "name": "AK-12"
+  },
+  "117405": {
+    "id": 117405,
+    "file": "data/assets/items/117405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117405.png",
+    "name": "XCR"
+  },
+  "117406": {
+    "id": 117406,
+    "file": "data/assets/items/117406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117406.png",
+    "name": "极地加农炮"
+  },
+  "117407": {
+    "id": 117407,
+    "file": "data/assets/items/117407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117407.png",
+    "name": "黄金加特林"
+  },
+  "117501": {
+    "id": 117501,
+    "file": "data/assets/items/117501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117501.png",
+    "name": "阿耆尼"
+  },
+  "117502": {
+    "id": 117502,
+    "file": "data/assets/items/117502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117502.png",
+    "name": "彼岸花"
+  },
+  "117503": {
+    "id": 117503,
+    "file": "data/assets/items/117503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117503.png",
+    "name": "地狱之火"
+  },
+  "117504": {
+    "id": 117504,
+    "file": "data/assets/items/117504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117504.png",
+    "name": "征服者AX"
+  },
+  "117505": {
+    "id": 117505,
+    "file": "data/assets/items/117505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117505.png",
+    "name": "女武神"
+  },
+  "117701": {
+    "id": 117701,
+    "file": "data/assets/items/117701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117701.png",
+    "name": "地狱之火 - 绯红"
+  },
+  "117702": {
+    "id": 117702,
+    "file": "data/assets/items/117702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_117702.png",
+    "name": "地狱之火 - 晓色"
+  },
+  "118101": {
+    "id": 118101,
+    "file": "data/assets/items/118101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118101.png",
+    "name": "长步枪"
+  },
+  "118201": {
+    "id": 118201,
+    "file": "data/assets/items/118201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118201.png",
+    "name": "斯普林菲尔德"
+  },
+  "118301": {
+    "id": 118301,
+    "file": "data/assets/items/118301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118301.png",
+    "name": "鱼叉枪"
+  },
+  "118401": {
+    "id": 118401,
+    "file": "data/assets/items/118401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118401.png",
+    "name": "黄金步枪"
+  },
+  "118402": {
+    "id": 118402,
+    "file": "data/assets/items/118402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118402.png",
+    "name": "电磁轨道枪"
+  },
+  "118403": {
+    "id": 118403,
+    "file": "data/assets/items/118403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118403.png",
+    "name": "Tac-50"
+  },
+  "118404": {
+    "id": 118404,
+    "file": "data/assets/items/118404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118404.png",
+    "name": "夜行"
+  },
+  "118405": {
+    "id": 118405,
+    "file": "data/assets/items/118405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118405.png",
+    "name": "NTW-20"
+  },
+  "118406": {
+    "id": 118406,
+    "file": "data/assets/items/118406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118406.png",
+    "name": "北极星"
+  },
+  "118407": {
+    "id": 118407,
+    "file": "data/assets/items/118407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118407.png",
+    "name": "高斯来福"
+  },
+  "118501": {
+    "id": 118501,
+    "file": "data/assets/items/118501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118501.png",
+    "name": "四射星光"
+  },
+  "118502": {
+    "id": 118502,
+    "file": "data/assets/items/118502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118502.png",
+    "name": "霹雳火炮"
+  },
+  "118503": {
+    "id": 118503,
+    "file": "data/assets/items/118503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118503.png",
+    "name": "仙女座"
+  },
+  "118504": {
+    "id": 118504,
+    "file": "data/assets/items/118504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118504.png",
+    "name": "寡妇制造者"
+  },
+  "118505": {
+    "id": 118505,
+    "file": "data/assets/items/118505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118505.png",
+    "name": "死亡之眼"
+  },
+  "118701": {
+    "id": 118701,
+    "file": "data/assets/items/118701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118701.png",
+    "name": "寡妇制造者 - 绯红"
+  },
+  "118702": {
+    "id": 118702,
+    "file": "data/assets/items/118702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_118702.png",
+    "name": "寡妇制造者 - 晓色"
+  },
+  "119101": {
+    "id": 119101,
+    "file": "data/assets/items/119101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119101.png",
+    "name": "钢链"
+  },
+  "119201": {
+    "id": 119201,
+    "file": "data/assets/items/119201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119201.png",
+    "name": "双棍"
+  },
+  "119301": {
+    "id": 119301,
+    "file": "data/assets/items/119301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119301.png",
+    "name": "赌棍"
+  },
+  "119302": {
+    "id": 119302,
+    "file": "data/assets/items/119302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119302.png",
+    "name": "饲养员"
+  },
+  "119401": {
+    "id": 119401,
+    "file": "data/assets/items/119401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119401.png",
+    "name": "大小盘龙棍"
+  },
+  "119402": {
+    "id": 119402,
+    "file": "data/assets/items/119402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119402.png",
+    "name": "超级震动双节棍"
+  },
+  "119403": {
+    "id": 119403,
+    "file": "data/assets/items/119403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119403.png",
+    "name": "刻耳柏洛斯"
+  },
+  "119404": {
+    "id": 119404,
+    "file": "data/assets/items/119404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119404.png",
+    "name": "Blue 3"
+  },
+  "119501": {
+    "id": 119501,
+    "file": "data/assets/items/119501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119501.png",
+    "name": "九头蛇"
+  },
+  "119502": {
+    "id": 119502,
+    "file": "data/assets/items/119502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119502.png",
+    "name": "比翼连理"
+  },
+  "119503": {
+    "id": 119503,
+    "file": "data/assets/items/119503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119503.png",
+    "name": "革律翁"
+  },
+  "119504": {
+    "id": 119504,
+    "file": "data/assets/items/119504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119504.png",
+    "name": "霓虹锁链"
+  },
+  "119701": {
+    "id": 119701,
+    "file": "data/assets/items/119701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119701.png",
+    "name": "九头蛇 - 绯红"
+  },
+  "119702": {
+    "id": 119702,
+    "file": "data/assets/items/119702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_119702.png",
+    "name": "九头蛇 - 晓色"
+  },
+  "120101": {
+    "id": 120101,
+    "file": "data/assets/items/120101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120101.png",
+    "name": "针"
+  },
+  "120201": {
+    "id": 120201,
+    "file": "data/assets/items/120201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120201.png",
+    "name": "刺剑"
+  },
+  "120301": {
+    "id": 120301,
+    "file": "data/assets/items/120301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120301.png",
+    "name": "春日"
+  },
+  "120302": {
+    "id": 120302,
+    "file": "data/assets/items/120302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120302.png",
+    "name": "正义之剑"
+  },
+  "120303": {
+    "id": 120303,
+    "file": "data/assets/items/120303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120303.png",
+    "name": "穿甲剑"
+  },
+  "120401": {
+    "id": 120401,
+    "file": "data/assets/items/120401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120401.png",
+    "name": "杜伦德尔MK2"
+  },
+  "120402": {
+    "id": 120402,
+    "file": "data/assets/items/120402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120402.png",
+    "name": "米斯特汀"
+  },
+  "120403": {
+    "id": 120403,
+    "file": "data/assets/items/120403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120403.png",
+    "name": "带电短刀"
+  },
+  "120404": {
+    "id": 120404,
+    "file": "data/assets/items/120404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120404.png",
+    "name": "陨星重剑"
+  },
+  "120405": {
+    "id": 120405,
+    "file": "data/assets/items/120405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120405.png",
+    "name": "咎瓦尤斯"
+  },
+  "120406": {
+    "id": 120406,
+    "file": "data/assets/items/120406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120406.png",
+    "name": "赤豹"
+  },
+  "120407": {
+    "id": 120407,
+    "file": "data/assets/items/120407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120407.png",
+    "name": "阿斯卡普里"
+  },
+  "120408": {
+    "id": 120408,
+    "file": "data/assets/items/120408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120408.png",
+    "name": "焰形剑"
+  },
+  "120501": {
+    "id": 120501,
+    "file": "data/assets/items/120501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120501.png",
+    "name": "阿戈斯之眼"
+  },
+  "120502": {
+    "id": 120502,
+    "file": "data/assets/items/120502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120502.png",
+    "name": "诺斯费拉图"
+  },
+  "120503": {
+    "id": 120503,
+    "file": "data/assets/items/120503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120503.png",
+    "name": "螺魂剑"
+  },
+  "120701": {
+    "id": 120701,
+    "file": "data/assets/items/120701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120701.png",
+    "name": "诺斯费拉图 - 绯红"
+  },
+  "120702": {
+    "id": 120702,
+    "file": "data/assets/items/120702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_120702.png",
+    "name": "诺斯费拉图 - 晓色"
+  },
+  "121101": {
+    "id": 121101,
+    "file": "data/assets/items/121101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121101.png",
+    "name": "红心"
+  },
+  "121201": {
+    "id": 121201,
+    "file": "data/assets/items/121201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121201.png",
+    "name": "黄金琴桥"
+  },
+  "121202": {
+    "id": 121202,
+    "file": "data/assets/items/121202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121202.png",
+    "name": "单线圈拾音器电吉他"
+  },
+  "121301": {
+    "id": 121301,
+    "file": "data/assets/items/121301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121301.png",
+    "name": "红宝石特别版"
+  },
+  "121302": {
+    "id": 121302,
+    "file": "data/assets/items/121302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121302.png",
+    "name": "双线圈拾音器电吉他"
+  },
+  "121303": {
+    "id": 121303,
+    "file": "data/assets/items/121303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121303.png",
+    "name": "King-V"
+  },
+  "121304": {
+    "id": 121304,
+    "file": "data/assets/items/121304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121304.png",
+    "name": "诺卡斯特"
+  },
+  "121305": {
+    "id": 121305,
+    "file": "data/assets/items/121305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121305.png",
+    "name": "金属复古吉他"
+  },
+  "121306": {
+    "id": 121306,
+    "file": "data/assets/items/121306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121306.png",
+    "name": "野马"
+  },
+  "121401": {
+    "id": 121401,
+    "file": "data/assets/items/121401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121401.png",
+    "name": "波希米亚"
+  },
+  "121402": {
+    "id": 121402,
+    "file": "data/assets/items/121402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121402.png",
+    "name": "天国的阶梯"
+  },
+  "121403": {
+    "id": 121403,
+    "file": "data/assets/items/121403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121403.png",
+    "name": "紫色团雾"
+  },
+  "121404": {
+    "id": 121404,
+    "file": "data/assets/items/121404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121404.png",
+    "name": "乐事"
+  },
+  "121405": {
+    "id": 121405,
+    "file": "data/assets/items/121405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121405.png",
+    "name": "绝色之夜"
+  },
+  "121406": {
+    "id": 121406,
+    "file": "data/assets/items/121406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121406.png",
+    "name": "红砖"
+  },
+  "121407": {
+    "id": 121407,
+    "file": "data/assets/items/121407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121407.png",
+    "name": "少年魂"
+  },
+  "121501": {
+    "id": 121501,
+    "file": "data/assets/items/121501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121501.png",
+    "name": "Cpt. Pepper"
+  },
+  "121502": {
+    "id": 121502,
+    "file": "data/assets/items/121502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121502.png",
+    "name": "负心人"
+  },
+  "121503": {
+    "id": 121503,
+    "file": "data/assets/items/121503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121503.png",
+    "name": "天堂之门"
+  },
+  "121504": {
+    "id": 121504,
+    "file": "data/assets/items/121504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121504.png",
+    "name": "自由之翼"
+  },
+  "121701": {
+    "id": 121701,
+    "file": "data/assets/items/121701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121701.png",
+    "name": "负心人 - 绯红"
+  },
+  "121702": {
+    "id": 121702,
+    "file": "data/assets/items/121702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_121702.png",
+    "name": "负心人 - 晓色"
+  },
+  "122101": {
+    "id": 122101,
+    "file": "data/assets/items/122101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122101.png",
+    "name": "镜头"
+  },
+  "122201": {
+    "id": 122201,
+    "file": "data/assets/items/122201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122201.png",
+    "name": "摄影枪"
+  },
+  "122301": {
+    "id": 122301,
+    "file": "data/assets/items/122301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122301.png",
+    "name": "袖珍相机"
+  },
+  "122302": {
+    "id": 122302,
+    "file": "data/assets/items/122302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122302.png",
+    "name": "测距仪"
+  },
+  "122303": {
+    "id": 122303,
+    "file": "data/assets/items/122303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122303.png",
+    "name": "步枪式相机"
+  },
+  "122401": {
+    "id": 122401,
+    "file": "data/assets/items/122401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122401.png",
+    "name": "复古相机"
+  },
+  "122402": {
+    "id": 122402,
+    "file": "data/assets/items/122402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122402.png",
+    "name": "全息瞄准镜"
+  },
+  "122403": {
+    "id": 122403,
+    "file": "data/assets/items/122403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122403.png",
+    "name": "高倍望远大炮"
+  },
+  "122404": {
+    "id": 122404,
+    "file": "data/assets/items/122404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122404.png",
+    "name": "V.I.C.G"
+  },
+  "122405": {
+    "id": 122405,
+    "file": "data/assets/items/122405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122405.png",
+    "name": "拍立得"
+  },
+  "122501": {
+    "id": 122501,
+    "file": "data/assets/items/122501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122501.png",
+    "name": "超感相机"
+  },
+  "122502": {
+    "id": 122502,
+    "file": "data/assets/items/122502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122502.png",
+    "name": "灵视相机"
+  },
+  "122503": {
+    "id": 122503,
+    "file": "data/assets/items/122503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122503.png",
+    "name": "On Air"
+  },
+  "122504": {
+    "id": 122504,
+    "file": "data/assets/items/122504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122504.png",
+    "name": "三重聚焦相机"
+  },
+  "122701": {
+    "id": 122701,
+    "file": "data/assets/items/122701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122701.png",
+    "name": "灵视相机 - 绯红"
+  },
+  "122702": {
+    "id": 122702,
+    "file": "data/assets/items/122702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_122702.png",
+    "name": "灵视相机 - 晓色"
+  },
+  "130101": {
+    "id": 130101,
+    "file": "data/assets/items/130101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130101.png",
+    "name": "琉璃球"
+  },
+  "130201": {
+    "id": 130201,
+    "file": "data/assets/items/130201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130201.png",
+    "name": "镜面球"
+  },
+  "130202": {
+    "id": 130202,
+    "file": "data/assets/items/130202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130202.png",
+    "name": "冰晶球"
+  },
+  "130301": {
+    "id": 130301,
+    "file": "data/assets/items/130301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130301.png",
+    "name": "意志权杖"
+  },
+  "130302": {
+    "id": 130302,
+    "file": "data/assets/items/130302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130302.png",
+    "name": "圣杯 - 感情"
+  },
+  "130303": {
+    "id": 130303,
+    "file": "data/assets/items/130303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130303.png",
+    "name": "理性之刃"
+  },
+  "130304": {
+    "id": 130304,
+    "file": "data/assets/items/130304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130304.png",
+    "name": "五芒星碎片"
+  },
+  "130401": {
+    "id": 130401,
+    "file": "data/assets/items/130401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130401.png",
+    "name": "隐遁者"
+  },
+  "130402": {
+    "id": 130402,
+    "file": "data/assets/items/130402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130402.png",
+    "name": "命运之轮"
+  },
+  "130403": {
+    "id": 130403,
+    "file": "data/assets/items/130403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130403.png",
+    "name": "圣杯 - 节制"
+  },
+  "130404": {
+    "id": 130404,
+    "file": "data/assets/items/130404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130404.png",
+    "name": "五芒星"
+  },
+  "130405": {
+    "id": 130405,
+    "file": "data/assets/items/130405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130405.png",
+    "name": "月水晶"
+  },
+  "130501": {
+    "id": 130501,
+    "file": "data/assets/items/130501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130501.png",
+    "name": "女帝"
+  },
+  "130502": {
+    "id": 130502,
+    "file": "data/assets/items/130502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130502.png",
+    "name": "炼狱"
+  },
+  "130503": {
+    "id": 130503,
+    "file": "data/assets/items/130503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130503.png",
+    "name": "烈阳"
+  },
+  "130701": {
+    "id": 130701,
+    "file": "data/assets/items/130701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130701.png",
+    "name": "炼狱 - 绯红"
+  },
+  "130702": {
+    "id": 130702,
+    "file": "data/assets/items/130702.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_130702.png",
+    "name": "炼狱 - 晓色"
+  },
+  "131101": {
+    "id": 131101,
+    "file": "data/assets/items/131101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131101.png",
+    "name": "卡德摩斯的召唤Lv2"
+  },
+  "131102": {
+    "id": 131102,
+    "file": "data/assets/items/131102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131102.png",
+    "name": "卡德摩斯的召唤Lv3"
+  },
+  "131201": {
+    "id": 131201,
+    "file": "data/assets/items/131201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131201.png",
+    "name": "毒蛇"
+  },
+  "131301": {
+    "id": 131301,
+    "file": "data/assets/items/131301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131301.png",
+    "name": "南棘蛇"
+  },
+  "131302": {
+    "id": 131302,
+    "file": "data/assets/items/131302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131302.png",
+    "name": "黑曼巴蛇"
+  },
+  "131303": {
+    "id": 131303,
+    "file": "data/assets/items/131303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131303.png",
+    "name": "响尾蛇"
+  },
+  "131401": {
+    "id": 131401,
+    "file": "data/assets/items/131401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131401.png",
+    "name": "女王蛇"
+  },
+  "131402": {
+    "id": 131402,
+    "file": "data/assets/items/131402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131402.png",
+    "name": "帝王黑曼巴蛇"
+  },
+  "131403": {
+    "id": 131403,
+    "file": "data/assets/items/131403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131403.png",
+    "name": "超级响尾蛇"
+  },
+  "131501": {
+    "id": 131501,
+    "file": "data/assets/items/131501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131501.png",
+    "name": "女王蛇 MT"
+  },
+  "131502": {
+    "id": 131502,
+    "file": "data/assets/items/131502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131502.png",
+    "name": "女王蛇 FC"
+  },
+  "131503": {
+    "id": 131503,
+    "file": "data/assets/items/131503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131503.png",
+    "name": "女王蛇 VBS"
+  },
+  "131504": {
+    "id": 131504,
+    "file": "data/assets/items/131504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131504.png",
+    "name": "帝王黑曼巴蛇 TL"
+  },
+  "131505": {
+    "id": 131505,
+    "file": "data/assets/items/131505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131505.png",
+    "name": "帝王黑曼巴蛇 FC"
+  },
+  "131506": {
+    "id": 131506,
+    "file": "data/assets/items/131506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131506.png",
+    "name": "帝王黑曼巴蛇 VBS"
+  },
+  "131507": {
+    "id": 131507,
+    "file": "data/assets/items/131507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131507.png",
+    "name": "超级响尾蛇 ML"
+  },
+  "131508": {
+    "id": 131508,
+    "file": "data/assets/items/131508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131508.png",
+    "name": "超级响尾蛇 FC"
+  },
+  "131509": {
+    "id": 131509,
+    "file": "data/assets/items/131509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_131509.png",
+    "name": "超级响尾蛇 VBS"
+  },
+  "201101": {
+    "id": 201101,
+    "file": "data/assets/items/201101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201101.png",
+    "name": "发箍"
+  },
+  "201102": {
+    "id": 201102,
+    "file": "data/assets/items/201102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201102.png",
+    "name": "鸭舌帽"
+  },
+  "201104": {
+    "id": 201104,
+    "file": "data/assets/items/201104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201104.png",
+    "name": "自行车头盔"
+  },
+  "201111": {
+    "id": 201111,
+    "file": "data/assets/items/201111.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201111.png",
+    "name": "大自然的呼唤 Lv2"
+  },
+  "201112": {
+    "id": 201112,
+    "file": "data/assets/items/201112.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201112.png",
+    "name": "大自然的呼唤 Lv3"
+  },
+  "201201": {
+    "id": 201201,
+    "file": "data/assets/items/201201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201201.png",
+    "name": "面具"
+  },
+  "201202": {
+    "id": 201202,
+    "file": "data/assets/items/201202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201202.png",
+    "name": "头环"
+  },
+  "201203": {
+    "id": 201203,
+    "file": "data/assets/items/201203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201203.png",
+    "name": "贝雷帽"
+  },
+  "201204": {
+    "id": 201204,
+    "file": "data/assets/items/201204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201204.png",
+    "name": "锁甲头罩"
+  },
+  "201205": {
+    "id": 201205,
+    "file": "data/assets/items/201205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201205.png",
+    "name": "安全帽"
+  },
+  "201206": {
+    "id": 201206,
+    "file": "data/assets/items/201206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201206.png",
+    "name": "初放的花蕾"
+  },
+  "201301": {
+    "id": 201301,
+    "file": "data/assets/items/201301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201301.png",
+    "name": "防弹头盔"
+  },
+  "201302": {
+    "id": 201302,
+    "file": "data/assets/items/201302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201302.png",
+    "name": "消防头盔"
+  },
+  "201303": {
+    "id": 201303,
+    "file": "data/assets/items/201303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201303.png",
+    "name": "头冠"
+  },
+  "201304": {
+    "id": 201304,
+    "file": "data/assets/items/201304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201304.png",
+    "name": "罗宾帽"
+  },
+  "201305": {
+    "id": 201305,
+    "file": "data/assets/items/201305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201305.png",
+    "name": "清新的花瓣"
+  },
+  "201401": {
+    "id": 201401,
+    "file": "data/assets/items/201401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201401.png",
+    "name": "王冠"
+  },
+  "201402": {
+    "id": 201402,
+    "file": "data/assets/items/201402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201402.png",
+    "name": "闭式头盔"
+  },
+  "201403": {
+    "id": 201403,
+    "file": "data/assets/items/201403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201403.png",
+    "name": "秘银头盔"
+  },
+  "201404": {
+    "id": 201404,
+    "file": "data/assets/items/201404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201404.png",
+    "name": "水晶冠"
+  },
+  "201405": {
+    "id": 201405,
+    "file": "data/assets/items/201405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201405.png",
+    "name": "摩托车头盔"
+  },
+  "201406": {
+    "id": 201406,
+    "file": "data/assets/items/201406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201406.png",
+    "name": "OPS战术头盔"
+  },
+  "201407": {
+    "id": 201407,
+    "file": "data/assets/items/201407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201407.png",
+    "name": "方旗骑士盔"
+  },
+  "201408": {
+    "id": 201408,
+    "file": "data/assets/items/201408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201408.png",
+    "name": "月桂冠"
+  },
+  "201409": {
+    "id": 201409,
+    "file": "data/assets/items/201409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201409.png",
+    "name": "帝国皇冠"
+  },
+  "201410": {
+    "id": 201410,
+    "file": "data/assets/items/201410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201410.png",
+    "name": "帝国战盔"
+  },
+  "201411": {
+    "id": 201411,
+    "file": "data/assets/items/201411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201411.png",
+    "name": "脸谱"
+  },
+  "201412": {
+    "id": 201412,
+    "file": "data/assets/items/201412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201412.png",
+    "name": "庞克头盔"
+  },
+  "201413": {
+    "id": 201413,
+    "file": "data/assets/items/201413.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201413.png",
+    "name": "战队头盔"
+  },
+  "201414": {
+    "id": 201414,
+    "file": "data/assets/items/201414.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201414.png",
+    "name": "宝石头冠"
+  },
+  "201415": {
+    "id": 201415,
+    "file": "data/assets/items/201415.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201415.png",
+    "name": "圣骑士头盔"
+  },
+  "201416": {
+    "id": 201416,
+    "file": "data/assets/items/201416.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201416.png",
+    "name": "盛开的旋律"
+  },
+  "201417": {
+    "id": 201417,
+    "file": "data/assets/items/201417.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201417.png",
+    "name": "牛仔帽"
+  },
+  "201418": {
+    "id": 201418,
+    "file": "data/assets/items/201418.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201418.png",
+    "name": "等离子头盔"
+  },
+  "201419": {
+    "id": 201419,
+    "file": "data/assets/items/201419.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201419.png",
+    "name": "熔火面甲"
+  },
+  "201420": {
+    "id": 201420,
+    "file": "data/assets/items/201420.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201420.png",
+    "name": "魔女帽"
+  },
+  "201421": {
+    "id": 201421,
+    "file": "data/assets/items/201421.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201421.png",
+    "name": "狐狸假面"
+  },
+  "201422": {
+    "id": 201422,
+    "file": "data/assets/items/201422.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201422.png",
+    "name": "竞速护目镜"
+  },
+  "201423": {
+    "id": 201423,
+    "file": "data/assets/items/201423.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201423.png",
+    "name": "战术护目镜"
+  },
+  "201501": {
+    "id": 201501,
+    "file": "data/assets/items/201501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201501.png",
+    "name": "天使光环"
+  },
+  "201502": {
+    "id": 201502,
+    "file": "data/assets/items/201502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201502.png",
+    "name": "圣光冠冕"
+  },
+  "201503": {
+    "id": 201503,
+    "file": "data/assets/items/201503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201503.png",
+    "name": "幽灵面具"
+  },
+  "201504": {
+    "id": 201504,
+    "file": "data/assets/items/201504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201504.png",
+    "name": "先知头巾"
+  },
+  "201505": {
+    "id": 201505,
+    "file": "data/assets/items/201505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201505.png",
+    "name": "赛车头盔"
+  },
+  "201506": {
+    "id": 201506,
+    "file": "data/assets/items/201506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201506.png",
+    "name": "荒野之星"
+  },
+  "201507": {
+    "id": 201507,
+    "file": "data/assets/items/201507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201507.png",
+    "name": "太空头盔"
+  },
+  "201508": {
+    "id": 201508,
+    "file": "data/assets/items/201508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201508.png",
+    "name": "矮人头盔"
+  },
+  "201509": {
+    "id": 201509,
+    "file": "data/assets/items/201509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201509.png",
+    "name": "暮光头饰"
+  },
+  "201516": {
+    "id": 201516,
+    "file": "data/assets/items/201516.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201516.png",
+    "name": "天籁花冠"
+  },
+  "201517": {
+    "id": 201517,
+    "file": "data/assets/items/201517.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201517.png",
+    "name": "天籁花冠"
+  },
+  "201518": {
+    "id": 201518,
+    "file": "data/assets/items/201518.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201518.png",
+    "name": "夜视头盔"
+  },
+  "201519": {
+    "id": 201519,
+    "file": "data/assets/items/201519.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201519.png",
+    "name": "瘟疫使者"
+  },
+  "201520": {
+    "id": 201520,
+    "file": "data/assets/items/201520.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201520.png",
+    "name": "赛博追踪者"
+  },
+  "201521": {
+    "id": 201521,
+    "file": "data/assets/items/201521.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201521.png",
+    "name": "爆破者头盔"
+  },
+  "201522": {
+    "id": 201522,
+    "file": "data/assets/items/201522.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201522.png",
+    "name": "指挥官"
+  },
+  "201523": {
+    "id": 201523,
+    "file": "data/assets/items/201523.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201523.png",
+    "name": "火花护盾"
+  },
+  "201524": {
+    "id": 201524,
+    "file": "data/assets/items/201524.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201524.png",
+    "name": "魔兔帽"
+  },
+  "201525": {
+    "id": 201525,
+    "file": "data/assets/items/201525.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201525.png",
+    "name": "雷加图斯"
+  },
+  "201526": {
+    "id": 201526,
+    "file": "data/assets/items/201526.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201526.png",
+    "name": "En Garde"
+  },
+  "201527": {
+    "id": 201527,
+    "file": "data/assets/items/201527.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201527.png",
+    "name": "玄见"
+  },
+  "201528": {
+    "id": 201528,
+    "file": "data/assets/items/201528.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201528.png",
+    "name": "瓦尔哈拉头盔"
+  },
+  "201529": {
+    "id": 201529,
+    "file": "data/assets/items/201529.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201529.png",
+    "name": "玄瞳头盔"
+  },
+  "201530": {
+    "id": 201530,
+    "file": "data/assets/items/201530.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201530.png",
+    "name": "戴维德耳机"
+  },
+  "201531": {
+    "id": 201531,
+    "file": "data/assets/items/201531.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201531.png",
+    "name": "水手帽"
+  },
+  "201532": {
+    "id": 201532,
+    "file": "data/assets/items/201532.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201532.png",
+    "name": "舰长礼帽"
+  },
+  "201533": {
+    "id": 201533,
+    "file": "data/assets/items/201533.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201533.png",
+    "name": "暗影面纱"
+  },
+  "201534": {
+    "id": 201534,
+    "file": "data/assets/items/201534.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201534.png",
+    "name": "赤星"
+  },
+  "201535": {
+    "id": 201535,
+    "file": "data/assets/items/201535.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201535.png",
+    "name": "恶魔面具"
+  },
+  "201701": {
+    "id": 201701,
+    "file": "data/assets/items/201701.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_201701.png",
+    "name": "血色王冠"
+  },
+  "202101": {
+    "id": 202101,
+    "file": "data/assets/items/202101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202101.png",
+    "name": "防风衣"
+  },
+  "202103": {
+    "id": 202103,
+    "file": "data/assets/items/202103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202103.png",
+    "name": "袈裟"
+  },
+  "202104": {
+    "id": 202104,
+    "file": "data/assets/items/202104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202104.png",
+    "name": "白大褂"
+  },
+  "202105": {
+    "id": 202105,
+    "file": "data/assets/items/202105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202105.png",
+    "name": "全覆盖式泳衣"
+  },
+  "202106": {
+    "id": 202106,
+    "file": "data/assets/items/202106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202106.png",
+    "name": "白衬衫"
+  },
+  "202201": {
+    "id": 202201,
+    "file": "data/assets/items/202201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202201.png",
+    "name": "皮甲"
+  },
+  "202202": {
+    "id": 202202,
+    "file": "data/assets/items/202202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202202.png",
+    "name": "皮夹克"
+  },
+  "202203": {
+    "id": 202203,
+    "file": "data/assets/items/202203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202203.png",
+    "name": "Turtle Dobok"
+  },
+  "202205": {
+    "id": 202205,
+    "file": "data/assets/items/202205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202205.png",
+    "name": "军装"
+  },
+  "202206": {
+    "id": 202206,
+    "file": "data/assets/items/202206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202206.png",
+    "name": "补丁长袍"
+  },
+  "202207": {
+    "id": 202207,
+    "file": "data/assets/items/202207.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202207.png",
+    "name": "连衣裙"
+  },
+  "202209": {
+    "id": 202209,
+    "file": "data/assets/items/202209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202209.png",
+    "name": "比基尼"
+  },
+  "202210": {
+    "id": 202210,
+    "file": "data/assets/items/202210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202210.png",
+    "name": "潜水服"
+  },
+  "202211": {
+    "id": 202211,
+    "file": "data/assets/items/202211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202211.png",
+    "name": "祭师法衣"
+  },
+  "202301": {
+    "id": 202301,
+    "file": "data/assets/items/202301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202301.png",
+    "name": "骑士夹克"
+  },
+  "202302": {
+    "id": 202302,
+    "file": "data/assets/items/202302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202302.png",
+    "name": "锁甲"
+  },
+  "202303": {
+    "id": 202303,
+    "file": "data/assets/items/202303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202303.png",
+    "name": "西装"
+  },
+  "202304": {
+    "id": 202304,
+    "file": "data/assets/items/202304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202304.png",
+    "name": "旗袍"
+  },
+  "202305": {
+    "id": 202305,
+    "file": "data/assets/items/202305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202305.png",
+    "name": "金属板甲"
+  },
+  "202306": {
+    "id": 202306,
+    "file": "data/assets/items/202306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202306.png",
+    "name": "韩服"
+  },
+  "202307": {
+    "id": 202307,
+    "file": "data/assets/items/202307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202307.png",
+    "name": "主教长袍"
+  },
+  "202401": {
+    "id": 202401,
+    "file": "data/assets/items/202401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202401.png",
+    "name": "防弹背心"
+  },
+  "202402": {
+    "id": 202402,
+    "file": "data/assets/items/202402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202402.png",
+    "name": "余晖之铠"
+  },
+  "202404": {
+    "id": 202404,
+    "file": "data/assets/items/202404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202404.png",
+    "name": "御史衣"
+  },
+  "202405": {
+    "id": 202405,
+    "file": "data/assets/items/202405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202405.png",
+    "name": "光学迷彩服"
+  },
+  "202406": {
+    "id": 202406,
+    "file": "data/assets/items/202406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202406.png",
+    "name": "摇滚乐手夹克"
+  },
+  "202407": {
+    "id": 202407,
+    "file": "data/assets/items/202407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202407.png",
+    "name": "秘银链甲"
+  },
+  "202408": {
+    "id": 202408,
+    "file": "data/assets/items/202408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202408.png",
+    "name": "十字军铠甲"
+  },
+  "202410": {
+    "id": 202410,
+    "file": "data/assets/items/202410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202410.png",
+    "name": "亚马逊战甲"
+  },
+  "202411": {
+    "id": 202411,
+    "file": "data/assets/items/202411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202411.png",
+    "name": "龙之道服"
+  },
+  "202412": {
+    "id": 202412,
+    "file": "data/assets/items/202412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202412.png",
+    "name": "指挥官战甲"
+  },
+  "202413": {
+    "id": 202413,
+    "file": "data/assets/items/202413.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202413.png",
+    "name": "管家服"
+  },
+  "202415": {
+    "id": 202415,
+    "file": "data/assets/items/202415.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202415.png",
+    "name": "骑士战甲"
+  },
+  "202416": {
+    "id": 202416,
+    "file": "data/assets/items/202416.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202416.png",
+    "name": "星火洋装"
+  },
+  "202417": {
+    "id": 202417,
+    "file": "data/assets/items/202417.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202417.png",
+    "name": "EOD防爆服"
+  },
+  "202418": {
+    "id": 202418,
+    "file": "data/assets/items/202418.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202418.png",
+    "name": "无尾礼服"
+  },
+  "202419": {
+    "id": 202419,
+    "file": "data/assets/items/202419.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202419.png",
+    "name": "大祭司长袍"
+  },
+  "202420": {
+    "id": 202420,
+    "file": "data/assets/items/202420.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202420.png",
+    "name": "太使袍"
+  },
+  "202421": {
+    "id": 202421,
+    "file": "data/assets/items/202421.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202421.png",
+    "name": "秘银吊带"
+  },
+  "202422": {
+    "id": 202422,
+    "file": "data/assets/items/202422.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202422.png",
+    "name": "防火服"
+  },
+  "202423": {
+    "id": 202423,
+    "file": "data/assets/items/202423.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202423.png",
+    "name": "校服"
+  },
+  "202501": {
+    "id": 202501,
+    "file": "data/assets/items/202501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202501.png",
+    "name": "日轮之铠"
+  },
+  "202502": {
+    "id": 202502,
+    "file": "data/assets/items/202502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202502.png",
+    "name": "红心女王"
+  },
+  "202503": {
+    "id": 202503,
+    "file": "data/assets/items/202503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202503.png",
+    "name": "神职法衣"
+  },
+  "202504": {
+    "id": 202504,
+    "file": "data/assets/items/202504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202504.png",
+    "name": "酒红色西装"
+  },
+  "202505": {
+    "id": 202505,
+    "file": "data/assets/items/202505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202505.png",
+    "name": "奥黛"
+  },
+  "202506": {
+    "id": 202506,
+    "file": "data/assets/items/202506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202506.png",
+    "name": "幽灵战衣"
+  },
+  "202507": {
+    "id": 202507,
+    "file": "data/assets/items/202507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202507.png",
+    "name": "监管者套装"
+  },
+  "202508": {
+    "id": 202508,
+    "file": "data/assets/items/202508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202508.png",
+    "name": "优雅礼服"
+  },
+  "202509": {
+    "id": 202509,
+    "file": "data/assets/items/202509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202509.png",
+    "name": "仙女服"
+  },
+  "202510": {
+    "id": 202510,
+    "file": "data/assets/items/202510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202510.png",
+    "name": "魅影"
+  },
+  "202511": {
+    "id": 202511,
+    "file": "data/assets/items/202511.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202511.png",
+    "name": "血色斗篷"
+  },
+  "202512": {
+    "id": 202512,
+    "file": "data/assets/items/202512.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202512.png",
+    "name": "缄默法则"
+  },
+  "202513": {
+    "id": 202513,
+    "file": "data/assets/items/202513.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202513.png",
+    "name": "摇滚外套"
+  },
+  "202514": {
+    "id": 202514,
+    "file": "data/assets/items/202514.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202514.png",
+    "name": "私人定制"
+  },
+  "202515": {
+    "id": 202515,
+    "file": "data/assets/items/202515.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202515.png",
+    "name": "战术重甲"
+  },
+  "202516": {
+    "id": 202516,
+    "file": "data/assets/items/202516.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202516.png",
+    "name": "精灵舞裙"
+  },
+  "202517": {
+    "id": 202517,
+    "file": "data/assets/items/202517.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202517.png",
+    "name": "泰坦盔甲"
+  },
+  "202518": {
+    "id": 202518,
+    "file": "data/assets/items/202518.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202518.png",
+    "name": "幽冥战甲"
+  },
+  "202521": {
+    "id": 202521,
+    "file": "data/assets/items/202521.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202521.png",
+    "name": "赛车服"
+  },
+  "202522": {
+    "id": 202522,
+    "file": "data/assets/items/202522.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202522.png",
+    "name": "幽灵新娘的嫁纱"
+  },
+  "202523": {
+    "id": 202523,
+    "file": "data/assets/items/202523.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202523.png",
+    "name": "吉利服"
+  },
+  "202524": {
+    "id": 202524,
+    "file": "data/assets/items/202524.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202524.png",
+    "name": "幽灵夹克"
+  },
+  "202525": {
+    "id": 202525,
+    "file": "data/assets/items/202525.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202525.png",
+    "name": "贤者之袍"
+  },
+  "202526": {
+    "id": 202526,
+    "file": "data/assets/items/202526.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202526.png",
+    "name": "异端审判官"
+  },
+  "202527": {
+    "id": 202527,
+    "file": "data/assets/items/202527.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202527.png",
+    "name": "黑炎龙铠甲"
+  },
+  "202528": {
+    "id": 202528,
+    "file": "data/assets/items/202528.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202528.png",
+    "name": "羽落"
+  },
+  "202529": {
+    "id": 202529,
+    "file": "data/assets/items/202529.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202529.png",
+    "name": "火灵装"
+  },
+  "202530": {
+    "id": 202530,
+    "file": "data/assets/items/202530.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_202530.png",
+    "name": "反抗的意志"
+  },
+  "203101": {
+    "id": 203101,
+    "file": "data/assets/items/203101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203101.png",
+    "name": "手表"
+  },
+  "203102": {
+    "id": 203102,
+    "file": "data/assets/items/203102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203102.png",
+    "name": "绷带"
+  },
+  "203104": {
+    "id": 203104,
+    "file": "data/assets/items/203104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203104.png",
+    "name": "手镯"
+  },
+  "203201": {
+    "id": 203201,
+    "file": "data/assets/items/203201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203201.png",
+    "name": "皮盾"
+  },
+  "203202": {
+    "id": 203202,
+    "file": "data/assets/items/203202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203202.png",
+    "name": "队长臂章"
+  },
+  "203203": {
+    "id": 203203,
+    "file": "data/assets/items/203203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203203.png",
+    "name": "弓护腕"
+  },
+  "203204": {
+    "id": 203204,
+    "file": "data/assets/items/203204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203204.png",
+    "name": "破碎的手表"
+  },
+  "203301": {
+    "id": 203301,
+    "file": "data/assets/items/203301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203301.png",
+    "name": "刀鞘"
+  },
+  "203302": {
+    "id": 203302,
+    "file": "data/assets/items/203302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203302.png",
+    "name": "金色手镯"
+  },
+  "203303": {
+    "id": 203303,
+    "file": "data/assets/items/203303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203303.png",
+    "name": "护臂"
+  },
+  "203304": {
+    "id": 203304,
+    "file": "data/assets/items/203304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203304.png",
+    "name": "红宝石手链"
+  },
+  "203305": {
+    "id": 203305,
+    "file": "data/assets/items/203305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203305.png",
+    "name": "荆棘手环"
+  },
+  "203306": {
+    "id": 203306,
+    "file": "data/assets/items/203306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203306.png",
+    "name": "巨人手套"
+  },
+  "203401": {
+    "id": 203401,
+    "file": "data/assets/items/203401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203401.png",
+    "name": "钢制手盾"
+  },
+  "203402": {
+    "id": 203402,
+    "file": "data/assets/items/203402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203402.png",
+    "name": "阻刃护臂"
+  },
+  "203403": {
+    "id": 203403,
+    "file": "data/assets/items/203403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203403.png",
+    "name": "德罗普尼尔"
+  },
+  "203404": {
+    "id": 203404,
+    "file": "data/assets/items/203404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203404.png",
+    "name": "秘银盾"
+  },
+  "203405": {
+    "id": 203405,
+    "file": "data/assets/items/203405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203405.png",
+    "name": "生命讯号感测器"
+  },
+  "203406": {
+    "id": 203406,
+    "file": "data/assets/items/203406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203406.png",
+    "name": "骑士信条"
+  },
+  "203407": {
+    "id": 203407,
+    "file": "data/assets/items/203407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203407.png",
+    "name": "沙·贾汗之剑"
+  },
+  "203408": {
+    "id": 203408,
+    "file": "data/assets/items/203408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203408.png",
+    "name": "召唤手表"
+  },
+  "203409": {
+    "id": 203409,
+    "file": "data/assets/items/203409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203409.png",
+    "name": "宙斯盾"
+  },
+  "203410": {
+    "id": 203410,
+    "file": "data/assets/items/203410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203410.png",
+    "name": "廷达罗斯手环"
+  },
+  "203411": {
+    "id": 203411,
+    "file": "data/assets/items/203411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203411.png",
+    "name": "南丁格尔"
+  },
+  "203412": {
+    "id": 203412,
+    "file": "data/assets/items/203412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203412.png",
+    "name": "等离子电盾"
+  },
+  "203413": {
+    "id": 203413,
+    "file": "data/assets/items/203413.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203413.png",
+    "name": "银河腕表"
+  },
+  "203414": {
+    "id": 203414,
+    "file": "data/assets/items/203414.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203414.png",
+    "name": "智能手环"
+  },
+  "203415": {
+    "id": 203415,
+    "file": "data/assets/items/203415.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203415.png",
+    "name": "星魂臂章"
+  },
+  "203501": {
+    "id": 203501,
+    "file": "data/assets/items/203501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203501.png",
+    "name": "斯嘉蒂的手镯"
+  },
+  "203502": {
+    "id": 203502,
+    "file": "data/assets/items/203502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203502.png",
+    "name": "雷达"
+  },
+  "203503": {
+    "id": 203503,
+    "file": "data/assets/items/203503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203503.png",
+    "name": "自动臂"
+  },
+  "203504": {
+    "id": 203504,
+    "file": "data/assets/items/203504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203504.png",
+    "name": "日珥"
+  },
+  "203505": {
+    "id": 203505,
+    "file": "data/assets/items/203505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203505.png",
+    "name": "蜈蚣护肩"
+  },
+  "203506": {
+    "id": 203506,
+    "file": "data/assets/items/203506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203506.png",
+    "name": "运动手表"
+  },
+  "203507": {
+    "id": 203507,
+    "file": "data/assets/items/203507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203507.png",
+    "name": "廷达罗斯君主"
+  },
+  "203508": {
+    "id": 203508,
+    "file": "data/assets/items/203508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203508.png",
+    "name": "查理曼大盾"
+  },
+  "203509": {
+    "id": 203509,
+    "file": "data/assets/items/203509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203509.png",
+    "name": "血杀龙爪"
+  },
+  "203510": {
+    "id": 203510,
+    "file": "data/assets/items/203510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203510.png",
+    "name": "龙鳞"
+  },
+  "203511": {
+    "id": 203511,
+    "file": "data/assets/items/203511.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203511.png",
+    "name": "荆刺护手"
+  },
+  "203512": {
+    "id": 203512,
+    "file": "data/assets/items/203512.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203512.png",
+    "name": "鬼灵之爪"
+  },
+  "203513": {
+    "id": 203513,
+    "file": "data/assets/items/203513.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203513.png",
+    "name": "赫利克斯"
+  },
+  "203514": {
+    "id": 203514,
+    "file": "data/assets/items/203514.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203514.png",
+    "name": "蓝纹臂章"
+  },
+  "203515": {
+    "id": 203515,
+    "file": "data/assets/items/203515.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203515.png",
+    "name": "超星臂章"
+  },
+  "203516": {
+    "id": 203516,
+    "file": "data/assets/items/203516.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_203516.png",
+    "name": "法夫纳"
+  },
+  "204101": {
+    "id": 204101,
+    "file": "data/assets/items/204101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204101.png",
+    "name": "拖鞋"
+  },
+  "204102": {
+    "id": 204102,
+    "file": "data/assets/items/204102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204102.png",
+    "name": "跑鞋"
+  },
+  "204103": {
+    "id": 204103,
+    "file": "data/assets/items/204103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204103.png",
+    "name": "裤袜"
+  },
+  "204201": {
+    "id": 204201,
+    "file": "data/assets/items/204201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204201.png",
+    "name": "护膝"
+  },
+  "204202": {
+    "id": 204202,
+    "file": "data/assets/items/204202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204202.png",
+    "name": "护腿链甲"
+  },
+  "204203": {
+    "id": 204203,
+    "file": "data/assets/items/204203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204203.png",
+    "name": "高跟鞋"
+  },
+  "204204": {
+    "id": 204204,
+    "file": "data/assets/items/204204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204204.png",
+    "name": "暴走鞋"
+  },
+  "204205": {
+    "id": 204205,
+    "file": "data/assets/items/204205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204205.png",
+    "name": "木鞋"
+  },
+  "204301": {
+    "id": 204301,
+    "file": "data/assets/items/204301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204301.png",
+    "name": "补丁拖鞋"
+  },
+  "204302": {
+    "id": 204302,
+    "file": "data/assets/items/204302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204302.png",
+    "name": "靴子"
+  },
+  "204303": {
+    "id": 204303,
+    "file": "data/assets/items/204303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204303.png",
+    "name": "登山鞋"
+  },
+  "204304": {
+    "id": 204304,
+    "file": "data/assets/items/204304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204304.png",
+    "name": "冰爪鞋"
+  },
+  "204401": {
+    "id": 204401,
+    "file": "data/assets/items/204401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204401.png",
+    "name": "钢护膝"
+  },
+  "204402": {
+    "id": 204402,
+    "file": "data/assets/items/204402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204402.png",
+    "name": "羽靴"
+  },
+  "204403": {
+    "id": 204403,
+    "file": "data/assets/items/204403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204403.png",
+    "name": "马弗里克之履"
+  },
+  "204404": {
+    "id": 204404,
+    "file": "data/assets/items/204404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204404.png",
+    "name": "军靴"
+  },
+  "204405": {
+    "id": 204405,
+    "file": "data/assets/items/204405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204405.png",
+    "name": "恨天高"
+  },
+  "204406": {
+    "id": 204406,
+    "file": "data/assets/items/204406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204406.png",
+    "name": "风火轮"
+  },
+  "204407": {
+    "id": 204407,
+    "file": "data/assets/items/204407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204407.png",
+    "name": "秘银靴"
+  },
+  "204408": {
+    "id": 204408,
+    "file": "data/assets/items/204408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204408.png",
+    "name": "布西发拉斯"
+  },
+  "204409": {
+    "id": 204409,
+    "file": "data/assets/items/204409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204409.png",
+    "name": "EOD防爆靴"
+  },
+  "204410": {
+    "id": 204410,
+    "file": "data/assets/items/204410.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204410.png",
+    "name": "万年冰鞋"
+  },
+  "204411": {
+    "id": 204411,
+    "file": "data/assets/items/204411.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204411.png",
+    "name": "白犀牛靴子"
+  },
+  "204412": {
+    "id": 204412,
+    "file": "data/assets/items/204412.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204412.png",
+    "name": "超光速次元钢靴"
+  },
+  "204413": {
+    "id": 204413,
+    "file": "data/assets/items/204413.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204413.png",
+    "name": "生化推进器"
+  },
+  "204414": {
+    "id": 204414,
+    "file": "data/assets/items/204414.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204414.png",
+    "name": "剑齿虎"
+  },
+  "204415": {
+    "id": 204415,
+    "file": "data/assets/items/204415.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204415.png",
+    "name": "SCV"
+  },
+  "204416": {
+    "id": 204416,
+    "file": "data/assets/items/204416.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204416.png",
+    "name": "星河穿梭者"
+  },
+  "204417": {
+    "id": 204417,
+    "file": "data/assets/items/204417.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204417.png",
+    "name": "牛仔靴"
+  },
+  "204418": {
+    "id": 204418,
+    "file": "data/assets/items/204418.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204418.png",
+    "name": "角斗士"
+  },
+  "204419": {
+    "id": 204419,
+    "file": "data/assets/items/204419.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204419.png",
+    "name": "赤影"
+  },
+  "204501": {
+    "id": 204501,
+    "file": "data/assets/items/204501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204501.png",
+    "name": "赫尔墨斯之靴"
+  },
+  "204502": {
+    "id": 204502,
+    "file": "data/assets/items/204502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204502.png",
+    "name": "红鞋"
+  },
+  "204503": {
+    "id": 204503,
+    "file": "data/assets/items/204503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204503.png",
+    "name": "刀片靴"
+  },
+  "204504": {
+    "id": 204504,
+    "file": "data/assets/items/204504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204504.png",
+    "name": "亚历山大"
+  },
+  "204505": {
+    "id": 204505,
+    "file": "data/assets/items/204505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204505.png",
+    "name": "锋利长靴"
+  },
+  "204506": {
+    "id": 204506,
+    "file": "data/assets/items/204506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204506.png",
+    "name": "荒野行者"
+  },
+  "204507": {
+    "id": 204507,
+    "file": "data/assets/items/204507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204507.png",
+    "name": "银河战靴"
+  },
+  "204508": {
+    "id": 204508,
+    "file": "data/assets/items/204508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204508.png",
+    "name": "幻影行者"
+  },
+  "204509": {
+    "id": 204509,
+    "file": "data/assets/items/204509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204509.png",
+    "name": "赛车靴"
+  },
+  "204510": {
+    "id": 204510,
+    "file": "data/assets/items/204510.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204510.png",
+    "name": "艾尔迪安长靴"
+  },
+  "204511": {
+    "id": 204511,
+    "file": "data/assets/items/204511.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204511.png",
+    "name": "蔷薇轻履"
+  },
+  "204512": {
+    "id": 204512,
+    "file": "data/assets/items/204512.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204512.png",
+    "name": "星际战靴"
+  },
+  "204513": {
+    "id": 204513,
+    "file": "data/assets/items/204513.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204513.png",
+    "name": "精灵之靴"
+  },
+  "204514": {
+    "id": 204514,
+    "file": "data/assets/items/204514.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_204514.png",
+    "name": "战术鞋"
+  },
+  "205101": {
+    "id": 205101,
+    "file": "data/assets/items/205101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205101.png",
+    "name": "羽毛"
+  },
+  "205102": {
+    "id": 205102,
+    "file": "data/assets/items/205102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205102.png",
+    "name": "花朵"
+  },
+  "205103": {
+    "id": 205103,
+    "file": "data/assets/items/205103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205103.png",
+    "name": "缎带"
+  },
+  "205105": {
+    "id": 205105,
+    "file": "data/assets/items/205105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205105.png",
+    "name": "Fan"
+  },
+  "205106": {
+    "id": 205106,
+    "file": "data/assets/items/205106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205106.png",
+    "name": "佛经"
+  },
+  "205107": {
+    "id": 205107,
+    "file": "data/assets/items/205107.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205107.png",
+    "name": "纸箱"
+  },
+  "205108": {
+    "id": 205108,
+    "file": "data/assets/items/205108.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205108.png",
+    "name": "圣杯"
+  },
+  "205109": {
+    "id": 205109,
+    "file": "data/assets/items/205109.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205109.png",
+    "name": "十字架"
+  },
+  "205110": {
+    "id": 205110,
+    "file": "data/assets/items/205110.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205110.png",
+    "name": "望远镜"
+  },
+  "205201": {
+    "id": 205201,
+    "file": "data/assets/items/205201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205201.png",
+    "name": "白羽扇"
+  },
+  "205202": {
+    "id": 205202,
+    "file": "data/assets/items/205202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205202.png",
+    "name": "圣者的遗物"
+  },
+  "205203": {
+    "id": 205203,
+    "file": "data/assets/items/205203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205203.png",
+    "name": "命运之花"
+  },
+  "205204": {
+    "id": 205204,
+    "file": "data/assets/items/205204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205204.png",
+    "name": "玻璃渣"
+  },
+  "205205": {
+    "id": 205205,
+    "file": "data/assets/items/205205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205205.png",
+    "name": "Doll"
+  },
+  "205206": {
+    "id": 205206,
+    "file": "data/assets/items/205206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205206.png",
+    "name": "狙击镜"
+  },
+  "205207": {
+    "id": 205207,
+    "file": "data/assets/items/205207.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205207.png",
+    "name": "佛陀舍利"
+  },
+  "205208": {
+    "id": 205208,
+    "file": "data/assets/items/205208.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205208.png",
+    "name": "箭筒"
+  },
+  "205209": {
+    "id": 205209,
+    "file": "data/assets/items/205209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205209.png",
+    "name": "鸡毛掸子"
+  },
+  "205210": {
+    "id": 205210,
+    "file": "data/assets/items/205210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205210.png",
+    "name": "Gilded Quill Fan"
+  },
+  "205211": {
+    "id": 205211,
+    "file": "data/assets/items/205211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205211.png",
+    "name": "琵琶短剑"
+  },
+  "205212": {
+    "id": 205212,
+    "file": "data/assets/items/205212.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205212.png",
+    "name": "Decorative Flintlock"
+  },
+  "205213": {
+    "id": 205213,
+    "file": "data/assets/items/205213.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205213.png",
+    "name": "射击教本"
+  },
+  "205302": {
+    "id": 205302,
+    "file": "data/assets/items/205302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205302.png",
+    "name": "Uchiwa"
+  },
+  "205303": {
+    "id": 205303,
+    "file": "data/assets/items/205303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205303.png",
+    "name": "弹夹"
+  },
+  "205304": {
+    "id": 205304,
+    "file": "data/assets/items/205304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205304.png",
+    "name": "骑兵箭筒"
+  },
+  "205305": {
+    "id": 205305,
+    "file": "data/assets/items/205305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205305.png",
+    "name": "Revenge of Goujian"
+  },
+  "205306": {
+    "id": 205306,
+    "file": "data/assets/items/205306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205306.png",
+    "name": "海盗印记"
+  },
+  "205307": {
+    "id": 205307,
+    "file": "data/assets/items/205307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205307.png",
+    "name": "Hawkeye"
+  },
+  "205308": {
+    "id": 205308,
+    "file": "data/assets/items/205308.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205308.png",
+    "name": "海盗旗"
+  },
+  "205309": {
+    "id": 205309,
+    "file": "data/assets/items/205309.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205309.png",
+    "name": "音乐盒"
+  },
+  "205310": {
+    "id": 205310,
+    "file": "data/assets/items/205310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205310.png",
+    "name": "Active Camouflage"
+  },
+  "205311": {
+    "id": 205311,
+    "file": "data/assets/items/205311.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205311.png",
+    "name": "Grimoire"
+  },
+  "205312": {
+    "id": 205312,
+    "file": "data/assets/items/205312.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205312.png",
+    "name": "埃忒耳之羽毛"
+  },
+  "205313": {
+    "id": 205313,
+    "file": "data/assets/items/205313.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205313.png",
+    "name": "Pile Bunker"
+  },
+  "205401": {
+    "id": 205401,
+    "file": "data/assets/items/205401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205401.png",
+    "name": "皎月吊坠"
+  },
+  "205402": {
+    "id": 205402,
+    "file": "data/assets/items/205402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205402.png",
+    "name": "万年冰"
+  },
+  "205403": {
+    "id": 205403,
+    "file": "data/assets/items/205403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205403.png",
+    "name": "三昧真火"
+  },
+  "205404": {
+    "id": 205404,
+    "file": "data/assets/items/205404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205404.png",
+    "name": "薛定谔的箱子"
+  },
+  "205405": {
+    "id": 205405,
+    "file": "data/assets/items/205405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205405.png",
+    "name": "真我之光"
+  },
+  "205406": {
+    "id": 205406,
+    "file": "data/assets/items/205406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205406.png",
+    "name": "邀明月"
+  },
+  "205407": {
+    "id": 205407,
+    "file": "data/assets/items/205407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205407.png",
+    "name": "秘银箭筒"
+  },
+  "205408": {
+    "id": 205408,
+    "file": "data/assets/items/205408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205408.png",
+    "name": "苏丹箭筒"
+  },
+  "205409": {
+    "id": 205409,
+    "file": "data/assets/items/205409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205409.png",
+    "name": "Sultan Adorned Mk2"
+  },
+  "205501": {
+    "id": 205501,
+    "file": "data/assets/items/205501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205501.png",
+    "name": "命运之骰"
+  },
+  "205502": {
+    "id": 205502,
+    "file": "data/assets/items/205502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205502.png",
+    "name": "芭蕉扇"
+  },
+  "205503": {
+    "id": 205503,
+    "file": "data/assets/items/205503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205503.png",
+    "name": "昆德拉"
+  },
+  "205504": {
+    "id": 205504,
+    "file": "data/assets/items/205504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205504.png",
+    "name": "极光陀螺"
+  },
+  "205505": {
+    "id": 205505,
+    "file": "data/assets/items/205505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205505.png",
+    "name": "荷鲁斯之眼"
+  },
+  "205506": {
+    "id": 205506,
+    "file": "data/assets/items/205506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205506.png",
+    "name": "Kundala Mk2"
+  },
+  "205507": {
+    "id": 205507,
+    "file": "data/assets/items/205507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205507.png",
+    "name": "死灵之书"
+  },
+  "205508": {
+    "id": 205508,
+    "file": "data/assets/items/205508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205508.png",
+    "name": "翡翠石板"
+  },
+  "205601": {
+    "id": 205601,
+    "file": "data/assets/items/205601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205601.png",
+    "name": "魔法神灯"
+  },
+  "205602": {
+    "id": 205602,
+    "file": "data/assets/items/205602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205602.png",
+    "name": "Star Fragment"
+  },
+  "205603": {
+    "id": 205603,
+    "file": "data/assets/items/205603.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_205603.png",
+    "name": "The Dragon's Fury"
+  },
+  "301102": {
+    "id": 301102,
+    "file": "data/assets/items/301102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301102.png",
+    "name": "土豆"
+  },
+  "301104": {
+    "id": 301104,
+    "file": "data/assets/items/301104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301104.png",
+    "name": "鳕鱼"
+  },
+  "301105": {
+    "id": 301105,
+    "file": "data/assets/items/301105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301105.png",
+    "name": "Lemon"
+  },
+  "301106": {
+    "id": 301106,
+    "file": "data/assets/items/301106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301106.png",
+    "name": "大蒜"
+  },
+  "301109": {
+    "id": 301109,
+    "file": "data/assets/items/301109.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301109.png",
+    "name": "Carp"
+  },
+  "301110": {
+    "id": 301110,
+    "file": "data/assets/items/301110.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301110.png",
+    "name": "面包"
+  },
+  "301111": {
+    "id": 301111,
+    "file": "data/assets/items/301111.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301111.png",
+    "name": "肉"
+  },
+  "301112": {
+    "id": 301112,
+    "file": "data/assets/items/301112.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301112.png",
+    "name": "Egg"
+  },
+  "301113": {
+    "id": 301113,
+    "file": "data/assets/items/301113.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301113.png",
+    "name": "拉面"
+  },
+  "301116": {
+    "id": 301116,
+    "file": "data/assets/items/301116.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301116.png",
+    "name": "野山参"
+  },
+  "301119": {
+    "id": 301119,
+    "file": "data/assets/items/301119.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301119.png",
+    "name": "巧克力"
+  },
+  "301121": {
+    "id": 301121,
+    "file": "data/assets/items/301121.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301121.png",
+    "name": "洋菇"
+  },
+  "301201": {
+    "id": 301201,
+    "file": "data/assets/items/301201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301201.png",
+    "name": "Honey Cod Steak"
+  },
+  "301204": {
+    "id": 301204,
+    "file": "data/assets/items/301204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301204.png",
+    "name": "Canned Cod Liver"
+  },
+  "301205": {
+    "id": 301205,
+    "file": "data/assets/items/301205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301205.png",
+    "name": "Garlic Bread"
+  },
+  "301206": {
+    "id": 301206,
+    "file": "data/assets/items/301206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301206.png",
+    "name": "黄油"
+  },
+  "301209": {
+    "id": 301209,
+    "file": "data/assets/items/301209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301209.png",
+    "name": "Carp Bread"
+  },
+  "301213": {
+    "id": 301213,
+    "file": "data/assets/items/301213.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301213.png",
+    "name": "Disinfectant"
+  },
+  "301216": {
+    "id": 301216,
+    "file": "data/assets/items/301216.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301216.png",
+    "name": "Choco Pie"
+  },
+  "301218": {
+    "id": 301218,
+    "file": "data/assets/items/301218.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301218.png",
+    "name": "良药"
+  },
+  "301222": {
+    "id": 301222,
+    "file": "data/assets/items/301222.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301222.png",
+    "name": "天多利烤鸡"
+  },
+  "301224": {
+    "id": 301224,
+    "file": "data/assets/items/301224.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301224.png",
+    "name": "大蒜培根"
+  },
+  "301225": {
+    "id": 301225,
+    "file": "data/assets/items/301225.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301225.png",
+    "name": "Bun"
+  },
+  "301226": {
+    "id": 301226,
+    "file": "data/assets/items/301226.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301226.png",
+    "name": "汉堡"
+  },
+  "301229": {
+    "id": 301229,
+    "file": "data/assets/items/301229.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301229.png",
+    "name": "Fish Fillet With Egg"
+  },
+  "301230": {
+    "id": 301230,
+    "file": "data/assets/items/301230.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301230.png",
+    "name": "Citrus Cake"
+  },
+  "301232": {
+    "id": 301232,
+    "file": "data/assets/items/301232.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301232.png",
+    "name": "Honey Garlic"
+  },
+  "301234": {
+    "id": 301234,
+    "file": "data/assets/items/301234.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301234.png",
+    "name": "Egg Bun"
+  },
+  "301237": {
+    "id": 301237,
+    "file": "data/assets/items/301237.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301237.png",
+    "name": "巧克力冰淇淋"
+  },
+  "301239": {
+    "id": 301239,
+    "file": "data/assets/items/301239.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301239.png",
+    "name": "流泪面包"
+  },
+  "301243": {
+    "id": 301243,
+    "file": "data/assets/items/301243.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301243.png",
+    "name": "半熟牛排"
+  },
+  "301244": {
+    "id": 301244,
+    "file": "data/assets/items/301244.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301244.png",
+    "name": "半熟烤鱼"
+  },
+  "301245": {
+    "id": 301245,
+    "file": "data/assets/items/301245.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301245.png",
+    "name": "半熟烤土豆"
+  },
+  "301246": {
+    "id": 301246,
+    "file": "data/assets/items/301246.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301246.png",
+    "name": "苹果糖"
+  },
+  "301247": {
+    "id": 301247,
+    "file": "data/assets/items/301247.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301247.png",
+    "name": "胡萝卜"
+  },
+  "301301": {
+    "id": 301301,
+    "file": "data/assets/items/301301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301301.png",
+    "name": "Spicy Fish Stew"
+  },
+  "301302": {
+    "id": 301302,
+    "file": "data/assets/items/301302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301302.png",
+    "name": "炸薯条"
+  },
+  "301303": {
+    "id": 301303,
+    "file": "data/assets/items/301303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301303.png",
+    "name": "Baked Potato"
+  },
+  "301304": {
+    "id": 301304,
+    "file": "data/assets/items/301304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301304.png",
+    "name": "Baked Carp"
+  },
+  "301305": {
+    "id": 301305,
+    "file": "data/assets/items/301305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301305.png",
+    "name": "圣水"
+  },
+  "301306": {
+    "id": 301306,
+    "file": "data/assets/items/301306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301306.png",
+    "name": "Grilled Chilean Sea Bass"
+  },
+  "301307": {
+    "id": 301307,
+    "file": "data/assets/items/301307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301307.png",
+    "name": "Hot Ramen"
+  },
+  "301308": {
+    "id": 301308,
+    "file": "data/assets/items/301308.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301308.png",
+    "name": "咖啡面包"
+  },
+  "301309": {
+    "id": 301309,
+    "file": "data/assets/items/301309.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301309.png",
+    "name": "炒蛋"
+  },
+  "301311": {
+    "id": 301311,
+    "file": "data/assets/items/301311.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301311.png",
+    "name": "巧克力饼干"
+  },
+  "301312": {
+    "id": 301312,
+    "file": "data/assets/items/301312.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301312.png",
+    "name": "Choco Pie Box"
+  },
+  "301314": {
+    "id": 301314,
+    "file": "data/assets/items/301314.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301314.png",
+    "name": "热腾腾的汤药"
+  },
+  "301315": {
+    "id": 301315,
+    "file": "data/assets/items/301315.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301315.png",
+    "name": "蜂蜜黄油"
+  },
+  "301316": {
+    "id": 301316,
+    "file": "data/assets/items/301316.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301316.png",
+    "name": "炸鸡"
+  },
+  "301317": {
+    "id": 301317,
+    "file": "data/assets/items/301317.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301317.png",
+    "name": "治疗药剂"
+  },
+  "301318": {
+    "id": 301318,
+    "file": "data/assets/items/301318.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301318.png",
+    "name": "Hard Boiled Egg"
+  },
+  "301319": {
+    "id": 301319,
+    "file": "data/assets/items/301319.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301319.png",
+    "name": "酒酿饼"
+  },
+  "301323": {
+    "id": 301323,
+    "file": "data/assets/items/301323.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301323.png",
+    "name": "Steak"
+  },
+  "301324": {
+    "id": 301324,
+    "file": "data/assets/items/301324.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301324.png",
+    "name": "急救箱"
+  },
+  "301325": {
+    "id": 301325,
+    "file": "data/assets/items/301325.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301325.png",
+    "name": "黄油烤土豆"
+  },
+  "301326": {
+    "id": 301326,
+    "file": "data/assets/items/301326.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301326.png",
+    "name": "炸鱼排"
+  },
+  "301327": {
+    "id": 301327,
+    "file": "data/assets/items/301327.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301327.png",
+    "name": "炒面"
+  },
+  "301328": {
+    "id": 301328,
+    "file": "data/assets/items/301328.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301328.png",
+    "name": "冷面"
+  },
+  "301329": {
+    "id": 301329,
+    "file": "data/assets/items/301329.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301329.png",
+    "name": "大还丹"
+  },
+  "301330": {
+    "id": 301330,
+    "file": "data/assets/items/301330.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301330.png",
+    "name": "Birthday Cake"
+  },
+  "301331": {
+    "id": 301331,
+    "file": "data/assets/items/301331.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301331.png",
+    "name": "Garlic Ramen"
+  },
+  "301333": {
+    "id": 301333,
+    "file": "data/assets/items/301333.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301333.png",
+    "name": "Snowflake"
+  },
+  "301337": {
+    "id": 301337,
+    "file": "data/assets/items/301337.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301337.png",
+    "name": "热腾腾的吐司"
+  },
+  "301338": {
+    "id": 301338,
+    "file": "data/assets/items/301338.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301338.png",
+    "name": "巧克力酱"
+  },
+  "301339": {
+    "id": 301339,
+    "file": "data/assets/items/301339.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301339.png",
+    "name": "烤大蒜"
+  },
+  "301340": {
+    "id": 301340,
+    "file": "data/assets/items/301340.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301340.png",
+    "name": "培根吐司"
+  },
+  "301346": {
+    "id": 301346,
+    "file": "data/assets/items/301346.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301346.png",
+    "name": "铁板牛排"
+  },
+  "301348": {
+    "id": 301348,
+    "file": "data/assets/items/301348.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301348.png",
+    "name": "一周年纪念蛋糕"
+  },
+  "301349": {
+    "id": 301349,
+    "file": "data/assets/items/301349.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301349.png",
+    "name": "烤蘑菇串"
+  },
+  "301401": {
+    "id": 301401,
+    "file": "data/assets/items/301401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301401.png",
+    "name": "炸鱼薯条"
+  },
+  "301403": {
+    "id": 301403,
+    "file": "data/assets/items/301403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301403.png",
+    "name": "11号套餐"
+  },
+  "301405": {
+    "id": 301405,
+    "file": "data/assets/items/301405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301405.png",
+    "name": "三文鱼"
+  },
+  "301406": {
+    "id": 301406,
+    "file": "data/assets/items/301406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301406.png",
+    "name": "黄金地瓜"
+  },
+  "301407": {
+    "id": 301407,
+    "file": "data/assets/items/301407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301407.png",
+    "name": "冷冻披萨"
+  },
+  "301408": {
+    "id": 301408,
+    "file": "data/assets/items/301408.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301408.png",
+    "name": "薄荷巧克力"
+  },
+  "301409": {
+    "id": 301409,
+    "file": "data/assets/items/301409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301409.png",
+    "name": "松露"
+  },
+  "301501": {
+    "id": 301501,
+    "file": "data/assets/items/301501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301501.png",
+    "name": "三文鱼排"
+  },
+  "301502": {
+    "id": 301502,
+    "file": "data/assets/items/301502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301502.png",
+    "name": "夏威夷披萨"
+  },
+  "301503": {
+    "id": 301503,
+    "file": "data/assets/items/301503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301503.png",
+    "name": "烤地瓜"
+  },
+  "301504": {
+    "id": 301504,
+    "file": "data/assets/items/301504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301504.png",
+    "name": "松露意面"
+  },
+  "301598": {
+    "id": 301598,
+    "file": "data/assets/items/301598.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301598.png",
+    "name": "黄金脆皮炸鸡"
+  },
+  "301599": {
+    "id": 301599,
+    "file": "data/assets/items/301599.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301599.png",
+    "name": ""
+  },
+  "301601": {
+    "id": 301601,
+    "file": "data/assets/items/301601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301601.png",
+    "name": "百年老汤"
+  },
+  "301602": {
+    "id": 301602,
+    "file": "data/assets/items/301602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_301602.png",
+    "name": "万年汤"
+  },
+  "302101": {
+    "id": 302101,
+    "file": "data/assets/items/302101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302101.png",
+    "name": "蜂蜜"
+  },
+  "302102": {
+    "id": 302102,
+    "file": "data/assets/items/302102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302102.png",
+    "name": "水"
+  },
+  "302103": {
+    "id": 302103,
+    "file": "data/assets/items/302103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302103.png",
+    "name": "冰块"
+  },
+  "302104": {
+    "id": 302104,
+    "file": "data/assets/items/302104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302104.png",
+    "name": "威士忌"
+  },
+  "302106": {
+    "id": 302106,
+    "file": "data/assets/items/302106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302106.png",
+    "name": "Coffee"
+  },
+  "302107": {
+    "id": 302107,
+    "file": "data/assets/items/302107.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302107.png",
+    "name": "碳酸饮料"
+  },
+  "302108": {
+    "id": 302108,
+    "file": "data/assets/items/302108.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302108.png",
+    "name": "牛奶"
+  },
+  "302201": {
+    "id": 302201,
+    "file": "data/assets/items/302201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302201.png",
+    "name": "沸水"
+  },
+  "302202": {
+    "id": 302202,
+    "file": "data/assets/items/302202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302202.png",
+    "name": "Lemonade"
+  },
+  "302203": {
+    "id": 302203,
+    "file": "data/assets/items/302203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302203.png",
+    "name": "Water Bottle"
+  },
+  "302204": {
+    "id": 302204,
+    "file": "data/assets/items/302204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302204.png",
+    "name": "Baijiu"
+  },
+  "302205": {
+    "id": 302205,
+    "file": "data/assets/items/302205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302205.png",
+    "name": "Soju"
+  },
+  "302206": {
+    "id": 302206,
+    "file": "data/assets/items/302206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302206.png",
+    "name": "Iced Coffee"
+  },
+  "302207": {
+    "id": 302207,
+    "file": "data/assets/items/302207.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302207.png",
+    "name": "Cocktail"
+  },
+  "302208": {
+    "id": 302208,
+    "file": "data/assets/items/302208.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302208.png",
+    "name": "Coffee Liqueur"
+  },
+  "302209": {
+    "id": 302209,
+    "file": "data/assets/items/302209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302209.png",
+    "name": "可乐"
+  },
+  "302210": {
+    "id": 302210,
+    "file": "data/assets/items/302210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302210.png",
+    "name": "Latte"
+  },
+  "302211": {
+    "id": 302211,
+    "file": "data/assets/items/302211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302211.png",
+    "name": "蜂蜜牛奶"
+  },
+  "302213": {
+    "id": 302213,
+    "file": "data/assets/items/302213.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302213.png",
+    "name": "高杯酒"
+  },
+  "302214": {
+    "id": 302214,
+    "file": "data/assets/items/302214.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302214.png",
+    "name": "巧克力牛奶"
+  },
+  "302215": {
+    "id": 302215,
+    "file": "data/assets/items/302215.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302215.png",
+    "name": "蜂蜜水"
+  },
+  "302216": {
+    "id": 302216,
+    "file": "data/assets/items/302216.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302216.png",
+    "name": "冰水"
+  },
+  "302217": {
+    "id": 302217,
+    "file": "data/assets/items/302217.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302217.png",
+    "name": "威士忌加冰"
+  },
+  "302218": {
+    "id": 302218,
+    "file": "data/assets/items/302218.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302218.png",
+    "name": "牛仔鸡尾酒"
+  },
+  "302219": {
+    "id": 302219,
+    "file": "data/assets/items/302219.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302219.png",
+    "name": "天然苏打水"
+  },
+  "302220": {
+    "id": 302220,
+    "file": "data/assets/items/302220.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302220.png",
+    "name": "米兹瓦里"
+  },
+  "302221": {
+    "id": 302221,
+    "file": "data/assets/items/302221.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302221.png",
+    "name": "蜂蜜威士忌"
+  },
+  "302222": {
+    "id": 302222,
+    "file": "data/assets/items/302222.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302222.png",
+    "name": "冰沙"
+  },
+  "302223": {
+    "id": 302223,
+    "file": "data/assets/items/302223.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302223.png",
+    "name": "清凉苏打水"
+  },
+  "302301": {
+    "id": 302301,
+    "file": "data/assets/items/302301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302301.png",
+    "name": "高粱酒"
+  },
+  "302302": {
+    "id": 302302,
+    "file": "data/assets/items/302302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302302.png",
+    "name": "蜂蜜热饮"
+  },
+  "302303": {
+    "id": 302303,
+    "file": "data/assets/items/302303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302303.png",
+    "name": "桂花酿"
+  },
+  "302304": {
+    "id": 302304,
+    "file": "data/assets/items/302304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302304.png",
+    "name": "Americano"
+  },
+  "302305": {
+    "id": 302305,
+    "file": "data/assets/items/302305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302305.png",
+    "name": "药酒"
+  },
+  "302307": {
+    "id": 302307,
+    "file": "data/assets/items/302307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302307.png",
+    "name": "威士忌旋塞"
+  },
+  "302308": {
+    "id": 302308,
+    "file": "data/assets/items/302308.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302308.png",
+    "name": "纯净水"
+  },
+  "302309": {
+    "id": 302309,
+    "file": "data/assets/items/302309.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302309.png",
+    "name": "Can of Cola"
+  },
+  "302310": {
+    "id": 302310,
+    "file": "data/assets/items/302310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302310.png",
+    "name": "热可可"
+  },
+  "302311": {
+    "id": 302311,
+    "file": "data/assets/items/302311.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302311.png",
+    "name": "White Russian"
+  },
+  "302312": {
+    "id": 302312,
+    "file": "data/assets/items/302312.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302312.png",
+    "name": "塞勒涅之泪"
+  },
+  "302314": {
+    "id": 302314,
+    "file": "data/assets/items/302314.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302314.png",
+    "name": "热托迪"
+  },
+  "302315": {
+    "id": 302315,
+    "file": "data/assets/items/302315.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302315.png",
+    "name": "热碳酸水"
+  },
+  "302316": {
+    "id": 302316,
+    "file": "data/assets/items/302316.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_302316.png",
+    "name": "热牛奶"
+  },
+  "303501": {
+    "id": 303501,
+    "file": "data/assets/items/303501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303501.png",
+    "name": "悬赏金"
+  },
+  "303502": {
+    "id": 303502,
+    "file": "data/assets/items/303502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303502.png",
+    "name": "荣誉值+"
+  },
+  "303503": {
+    "id": 303503,
+    "file": "data/assets/items/303503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303503.png",
+    "name": "荣誉值++"
+  },
+  "303504": {
+    "id": 303504,
+    "file": "data/assets/items/303504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303504.png",
+    "name": "荣誉值"
+  },
+  "303505": {
+    "id": 303505,
+    "file": "data/assets/items/303505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303505.png",
+    "name": "荣誉值"
+  },
+  "303506": {
+    "id": 303506,
+    "file": "data/assets/items/303506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303506.png",
+    "name": "荣誉值"
+  },
+  "303507": {
+    "id": 303507,
+    "file": "data/assets/items/303507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303507.png",
+    "name": "荣誉值"
+  },
+  "303508": {
+    "id": 303508,
+    "file": "data/assets/items/303508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303508.png",
+    "name": "荣誉值"
+  },
+  "303509": {
+    "id": 303509,
+    "file": "data/assets/items/303509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_303509.png",
+    "name": "荣誉值"
+  },
+  "306001": {
+    "id": 306001,
+    "file": "data/assets/items/306001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_306001.png",
+    "name": "便携工具能量包"
+  },
+  "401101": {
+    "id": 401101,
+    "file": "data/assets/items/401101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401101.png",
+    "name": "钉子"
+  },
+  "401103": {
+    "id": 401103,
+    "file": "data/assets/items/401103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401103.png",
+    "name": "皮革"
+  },
+  "401104": {
+    "id": 401104,
+    "file": "data/assets/items/401104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401104.png",
+    "name": "龟壳"
+  },
+  "401105": {
+    "id": 401105,
+    "file": "data/assets/items/401105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401105.png",
+    "name": "胶带"
+  },
+  "401106": {
+    "id": 401106,
+    "file": "data/assets/items/401106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401106.png",
+    "name": "废铁"
+  },
+  "401107": {
+    "id": 401107,
+    "file": "data/assets/items/401107.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401107.png",
+    "name": "打火机"
+  },
+  "401108": {
+    "id": 401108,
+    "file": "data/assets/items/401108.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401108.png",
+    "name": "激光笔"
+  },
+  "401109": {
+    "id": 401109,
+    "file": "data/assets/items/401109.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401109.png",
+    "name": "五马牌"
+  },
+  "401110": {
+    "id": 401110,
+    "file": "data/assets/items/401110.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401110.png",
+    "name": "电池"
+  },
+  "401111": {
+    "id": 401111,
+    "file": "data/assets/items/401111.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401111.png",
+    "name": "Alcohol"
+  },
+  "401112": {
+    "id": 401112,
+    "file": "data/assets/items/401112.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401112.png",
+    "name": "油"
+  },
+  "401113": {
+    "id": 401113,
+    "file": "data/assets/items/401113.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401113.png",
+    "name": "布料"
+  },
+  "401114": {
+    "id": 401114,
+    "file": "data/assets/items/401114.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401114.png",
+    "name": "原石"
+  },
+  "401116": {
+    "id": 401116,
+    "file": "data/assets/items/401116.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401116.png",
+    "name": "胶水"
+  },
+  "401117": {
+    "id": 401117,
+    "file": "data/assets/items/401117.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401117.png",
+    "name": "纸"
+  },
+  "401118": {
+    "id": 401118,
+    "file": "data/assets/items/401118.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401118.png",
+    "name": "Iron Ore"
+  },
+  "401120": {
+    "id": 401120,
+    "file": "data/assets/items/401120.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401120.png",
+    "name": "Can"
+  },
+  "401121": {
+    "id": 401121,
+    "file": "data/assets/items/401121.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401121.png",
+    "name": "火药"
+  },
+  "401123": {
+    "id": 401123,
+    "file": "data/assets/items/401123.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401123.png",
+    "name": "化学品"
+  },
+  "401124": {
+    "id": 401124,
+    "file": "data/assets/items/401124.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401124.png",
+    "name": "石墨"
+  },
+  "401201": {
+    "id": 401201,
+    "file": "data/assets/items/401201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401201.png",
+    "name": "Steel"
+  },
+  "401202": {
+    "id": 401202,
+    "file": "data/assets/items/401202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401202.png",
+    "name": "油布"
+  },
+  "401203": {
+    "id": 401203,
+    "file": "data/assets/items/401203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401203.png",
+    "name": "Heated Oil"
+  },
+  "401206": {
+    "id": 401206,
+    "file": "data/assets/items/401206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401206.png",
+    "name": "粉笔灰"
+  },
+  "401208": {
+    "id": 401208,
+    "file": "data/assets/items/401208.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401208.png",
+    "name": "生命树枝"
+  },
+  "401209": {
+    "id": 401209,
+    "file": "data/assets/items/401209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401209.png",
+    "name": "陨石"
+  },
+  "401210": {
+    "id": 401210,
+    "file": "data/assets/items/401210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401210.png",
+    "name": "灰烬"
+  },
+  "401211": {
+    "id": 401211,
+    "file": "data/assets/items/401211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401211.png",
+    "name": "电子元件"
+  },
+  "401212": {
+    "id": 401212,
+    "file": "data/assets/items/401212.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401212.png",
+    "name": "蓝图"
+  },
+  "401213": {
+    "id": 401213,
+    "file": "data/assets/items/401213.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401213.png",
+    "name": "铁板"
+  },
+  "401214": {
+    "id": 401214,
+    "file": "data/assets/items/401214.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401214.png",
+    "name": "黄金"
+  },
+  "401215": {
+    "id": 401215,
+    "file": "data/assets/items/401215.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401215.png",
+    "name": "火烤石"
+  },
+  "401216": {
+    "id": 401216,
+    "file": "data/assets/items/401216.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401216.png",
+    "name": "铁丝"
+  },
+  "401217": {
+    "id": 401217,
+    "file": "data/assets/items/401217.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401217.png",
+    "name": "红宝石"
+  },
+  "401218": {
+    "id": 401218,
+    "file": "data/assets/items/401218.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401218.png",
+    "name": "精装"
+  },
+  "401219": {
+    "id": 401219,
+    "file": "data/assets/items/401219.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401219.png",
+    "name": "钻石"
+  },
+  "401301": {
+    "id": 401301,
+    "file": "data/assets/items/401301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401301.png",
+    "name": "靛青月石"
+  },
+  "401302": {
+    "id": 401302,
+    "file": "data/assets/items/401302.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401302.png",
+    "name": "毒药"
+  },
+  "401303": {
+    "id": 401303,
+    "file": "data/assets/items/401303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401303.png",
+    "name": "马达"
+  },
+  "401304": {
+    "id": 401304,
+    "file": "data/assets/items/401304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401304.png",
+    "name": "秘银"
+  },
+  "401305": {
+    "id": 401305,
+    "file": "data/assets/items/401305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401305.png",
+    "name": "玻璃面板"
+  },
+  "401306": {
+    "id": 401306,
+    "file": "data/assets/items/401306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401306.png",
+    "name": "电解电池"
+  },
+  "401307": {
+    "id": 401307,
+    "file": "data/assets/items/401307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401307.png",
+    "name": "皮革补丁"
+  },
+  "401309": {
+    "id": 401309,
+    "file": "data/assets/items/401309.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401309.png",
+    "name": "塑料"
+  },
+  "401401": {
+    "id": 401401,
+    "file": "data/assets/items/401401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401401.png",
+    "name": "VF 血液样本"
+  },
+  "401402": {
+    "id": 401402,
+    "file": "data/assets/items/401402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401402.png",
+    "name": "进化石"
+  },
+  "401403": {
+    "id": 401403,
+    "file": "data/assets/items/401403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401403.png",
+    "name": "能源晶石"
+  },
+  "401405": {
+    "id": 401405,
+    "file": "data/assets/items/401405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401405.png",
+    "name": "绯红碎片"
+  },
+  "401406": {
+    "id": 401406,
+    "file": "data/assets/items/401406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_401406.png",
+    "name": "晓色碎片"
+  },
+  "409401": {
+    "id": 409401,
+    "file": "data/assets/items/409401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_409401.png",
+    "name": "再生手环"
+  },
+  "409402": {
+    "id": 409402,
+    "file": "data/assets/items/409402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_409402.png",
+    "name": "系统密码"
+  },
+  "409403": {
+    "id": 409403,
+    "file": "data/assets/items/409403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_409403.png",
+    "name": "逃生手环"
+  },
+  "501101": {
+    "id": 501101,
+    "file": "data/assets/items/501101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_501101.png",
+    "name": "{0}的再生手环"
+  },
+  "501401": {
+    "id": 501401,
+    "file": "data/assets/items/501401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_501401.png",
+    "name": "Cell Phone"
+  },
+  "502101": {
+    "id": 502101,
+    "file": "data/assets/items/502101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502101.png",
+    "name": "监视器"
+  },
+  "502102": {
+    "id": 502102,
+    "file": "data/assets/items/502102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502102.png",
+    "name": "套索"
+  },
+  "502103": {
+    "id": 502103,
+    "file": "data/assets/items/502103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502103.png",
+    "name": "捕鼠夹"
+  },
+  "502104": {
+    "id": 502104,
+    "file": "data/assets/items/502104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502104.png",
+    "name": "钢琴线"
+  },
+  "502105": {
+    "id": 502105,
+    "file": "data/assets/items/502105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502105.png",
+    "name": "简易篝火"
+  },
+  "502201": {
+    "id": 502201,
+    "file": "data/assets/items/502201.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502201.png",
+    "name": "Spiked Plank"
+  },
+  "502202": {
+    "id": 502202,
+    "file": "data/assets/items/502202.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502202.png",
+    "name": "改良型捕鼠夹"
+  },
+  "502203": {
+    "id": 502203,
+    "file": "data/assets/items/502203.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502203.png",
+    "name": "炸药"
+  },
+  "502204": {
+    "id": 502204,
+    "file": "data/assets/items/502204.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502204.png",
+    "name": "竹枪陷阱"
+  },
+  "502205": {
+    "id": 502205,
+    "file": "data/assets/items/502205.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502205.png",
+    "name": "Booby Trap"
+  },
+  "502206": {
+    "id": 502206,
+    "file": "data/assets/items/502206.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502206.png",
+    "name": "Clang Clatter"
+  },
+  "502207": {
+    "id": 502207,
+    "file": "data/assets/items/502207.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502207.png",
+    "name": "望远监视器"
+  },
+  "502208": {
+    "id": 502208,
+    "file": "data/assets/items/502208.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502208.png",
+    "name": "无人探测仪"
+  },
+  "502209": {
+    "id": 502209,
+    "file": "data/assets/items/502209.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502209.png",
+    "name": "潜行相机"
+  },
+  "502210": {
+    "id": 502210,
+    "file": "data/assets/items/502210.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502210.png",
+    "name": "篝火"
+  },
+  "502211": {
+    "id": 502211,
+    "file": "data/assets/items/502211.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502211.png",
+    "name": "Telephoto Camera"
+  },
+  "502212": {
+    "id": 502212,
+    "file": "data/assets/items/502212.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502212.png",
+    "name": "望远监视器"
+  },
+  "502303": {
+    "id": 502303,
+    "file": "data/assets/items/502303.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502303.png",
+    "name": "Jungle Guillotine"
+  },
+  "502304": {
+    "id": 502304,
+    "file": "data/assets/items/502304.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502304.png",
+    "name": "Mine"
+  },
+  "502305": {
+    "id": 502305,
+    "file": "data/assets/items/502305.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502305.png",
+    "name": "Pendulum Axe"
+  },
+  "502306": {
+    "id": 502306,
+    "file": "data/assets/items/502306.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502306.png",
+    "name": "Explosive Trap"
+  },
+  "502307": {
+    "id": 502307,
+    "file": "data/assets/items/502307.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502307.png",
+    "name": "RDX"
+  },
+  "502308": {
+    "id": 502308,
+    "file": "data/assets/items/502308.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502308.png",
+    "name": "EMP探测仪"
+  },
+  "502310": {
+    "id": 502310,
+    "file": "data/assets/items/502310.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502310.png",
+    "name": "指压板陷阱"
+  },
+  "502401": {
+    "id": 502401,
+    "file": "data/assets/items/502401.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502401.png",
+    "name": "线"
+  },
+  "502402": {
+    "id": 502402,
+    "file": "data/assets/items/502402.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502402.png",
+    "name": "Stingburst"
+  },
+  "502403": {
+    "id": 502403,
+    "file": "data/assets/items/502403.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502403.png",
+    "name": "Fire Trap"
+  },
+  "502404": {
+    "id": 502404,
+    "file": "data/assets/items/502404.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502404.png",
+    "name": "C4"
+  },
+  "502405": {
+    "id": 502405,
+    "file": "data/assets/items/502405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502405.png",
+    "name": "双刀断头台"
+  },
+  "502406": {
+    "id": 502406,
+    "file": "data/assets/items/502406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502406.png",
+    "name": "阔刀地雷"
+  },
+  "502407": {
+    "id": 502407,
+    "file": "data/assets/items/502407.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502407.png",
+    "name": "Hidden Maiden"
+  },
+  "502501": {
+    "id": 502501,
+    "file": "data/assets/items/502501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502501.png",
+    "name": "遥控地雷"
+  },
+  "502502": {
+    "id": 502502,
+    "file": "data/assets/items/502502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_502502.png",
+    "name": "Smart Bomb"
+  },
+  "503101": {
+    "id": 503101,
+    "file": "data/assets/items/503101.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503101.png",
+    "name": "Kiosk呼叫机"
+  },
+  "503102": {
+    "id": 503102,
+    "file": "data/assets/items/503102.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503102.png",
+    "name": "信号枪B"
+  },
+  "503103": {
+    "id": 503103,
+    "file": "data/assets/items/503103.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503103.png",
+    "name": "信号枪R"
+  },
+  "503104": {
+    "id": 503104,
+    "file": "data/assets/items/503104.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503104.png",
+    "name": "便携VLS"
+  },
+  "503105": {
+    "id": 503105,
+    "file": "data/assets/items/503105.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503105.png",
+    "name": "密钥卡"
+  },
+  "503106": {
+    "id": 503106,
+    "file": "data/assets/items/503106.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503106.png",
+    "name": "密钥卡 - γ"
+  },
+  "503107": {
+    "id": 503107,
+    "file": "data/assets/items/503107.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503107.png",
+    "name": "密钥卡 - RED"
+  },
+  "503108": {
+    "id": 503108,
+    "file": "data/assets/items/503108.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_503108.png",
+    "name": "猎人汤锅"
+  },
+  "504301": {
+    "id": 504301,
+    "file": "data/assets/items/504301.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504301.png",
+    "name": "阿格莱亚的礼物（稀有）"
+  },
+  "504405": {
+    "id": 504405,
+    "file": "data/assets/items/504405.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504405.png",
+    "name": "阿格莱亚的礼物（英雄）"
+  },
+  "504501": {
+    "id": 504501,
+    "file": "data/assets/items/504501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504501.png",
+    "name": "阿格莱亚的礼物（传说）"
+  },
+  "504601": {
+    "id": 504601,
+    "file": "data/assets/items/504601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504601.png",
+    "name": "便携生成器・胸部装备"
+  },
+  "504602": {
+    "id": 504602,
+    "file": "data/assets/items/504602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504602.png",
+    "name": "便携生成器・头部装备"
+  },
+  "504603": {
+    "id": 504603,
+    "file": "data/assets/items/504603.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504603.png",
+    "name": "便携生成器・手臂/装饰装备"
+  },
+  "504604": {
+    "id": 504604,
+    "file": "data/assets/items/504604.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504604.png",
+    "name": "便携生成器・腿部装备"
+  },
+  "504605": {
+    "id": 504605,
+    "file": "data/assets/items/504605.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_504605.png",
+    "name": "阿格莱亚的礼物（超凡）"
+  },
+  "540001": {
+    "id": 540001,
+    "file": "data/assets/items/540001.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_540001.png",
+    "name": "高级订制"
+  },
+  "601501": {
+    "id": 601501,
+    "file": "data/assets/items/601501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601501.png",
+    "name": "女王蛇 MT"
+  },
+  "601502": {
+    "id": 601502,
+    "file": "data/assets/items/601502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601502.png",
+    "name": "女王蛇 FC"
+  },
+  "601503": {
+    "id": 601503,
+    "file": "data/assets/items/601503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601503.png",
+    "name": "女王蛇 VBS"
+  },
+  "601504": {
+    "id": 601504,
+    "file": "data/assets/items/601504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601504.png",
+    "name": "帝王黑曼巴蛇 TL"
+  },
+  "601505": {
+    "id": 601505,
+    "file": "data/assets/items/601505.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601505.png",
+    "name": "帝王黑曼巴蛇 FC"
+  },
+  "601506": {
+    "id": 601506,
+    "file": "data/assets/items/601506.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601506.png",
+    "name": "帝王黑曼巴蛇 VBS"
+  },
+  "601507": {
+    "id": 601507,
+    "file": "data/assets/items/601507.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601507.png",
+    "name": "超级响尾蛇 ML"
+  },
+  "601508": {
+    "id": 601508,
+    "file": "data/assets/items/601508.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601508.png",
+    "name": "超级响尾蛇 FC"
+  },
+  "601509": {
+    "id": 601509,
+    "file": "data/assets/items/601509.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_601509.png",
+    "name": "超级响尾蛇 VBS"
+  },
+  "602409": {
+    "id": 602409,
+    "file": "data/assets/items/602409.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_602409.png",
+    "name": "破灭之枝 Mk2"
+  },
+  "607406": {
+    "id": 607406,
+    "file": "data/assets/items/607406.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_607406.png",
+    "name": "火尖枪 Mk2"
+  },
+  "610501": {
+    "id": 610501,
+    "file": "data/assets/items/610501.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_610501.png",
+    "name": "朱雀之纹 Mk2"
+  },
+  "701451": {
+    "id": 701451,
+    "file": "data/assets/items/701451.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_701451.png",
+    "name": "战术面罩"
+  },
+  "702503": {
+    "id": 702503,
+    "file": "data/assets/items/702503.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_702503.png",
+    "name": "Holy Orders Mk2"
+  },
+  "702601": {
+    "id": 702601,
+    "file": "data/assets/items/702601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_702601.png",
+    "name": "异端审判官"
+  },
+  "705502": {
+    "id": 705502,
+    "file": "data/assets/items/705502.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705502.png",
+    "name": "Sanguine Gunbai Mk2"
+  },
+  "705504": {
+    "id": 705504,
+    "file": "data/assets/items/705504.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705504.png",
+    "name": "Totem Mk2"
+  },
+  "705601": {
+    "id": 705601,
+    "file": "data/assets/items/705601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705601.png",
+    "name": "微型太阳系统"
+  },
+  "705602": {
+    "id": 705602,
+    "file": "data/assets/items/705602.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705602.png",
+    "name": "Cobalt Blue"
+  },
+  "705603": {
+    "id": 705603,
+    "file": "data/assets/items/705603.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705603.png",
+    "name": "燃烧之心"
+  },
+  "705604": {
+    "id": 705604,
+    "file": "data/assets/items/705604.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705604.png",
+    "name": "克拉达戒指"
+  },
+  "705605": {
+    "id": 705605,
+    "file": "data/assets/items/705605.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705605.png",
+    "name": "Mercury"
+  },
+  "705606": {
+    "id": 705606,
+    "file": "data/assets/items/705606.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705606.png",
+    "name": "Arc Reactor"
+  },
+  "705607": {
+    "id": 705607,
+    "file": "data/assets/items/705607.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705607.png",
+    "name": "图腾"
+  },
+  "705608": {
+    "id": 705608,
+    "file": "data/assets/items/705608.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705608.png",
+    "name": "守护之眼"
+  },
+  "705609": {
+    "id": 705609,
+    "file": "data/assets/items/705609.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705609.png",
+    "name": "Psyche's Blade"
+  },
+  "705610": {
+    "id": 705610,
+    "file": "data/assets/items/705610.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705610.png",
+    "name": "Hero's Record"
+  },
+  "705611": {
+    "id": 705611,
+    "file": "data/assets/items/705611.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705611.png",
+    "name": "E.M.O.T.E"
+  },
+  "705612": {
+    "id": 705612,
+    "file": "data/assets/items/705612.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705612.png",
+    "name": "Claddagh Ring Mk2"
+  },
+  "705613": {
+    "id": 705613,
+    "file": "data/assets/items/705613.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705613.png",
+    "name": "Arc Reactor Mk2"
+  },
+  "705614": {
+    "id": 705614,
+    "file": "data/assets/items/705614.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705614.png",
+    "name": "普赛克之刃"
+  },
+  "705615": {
+    "id": 705615,
+    "file": "data/assets/items/705615.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705615.png",
+    "name": "Hero's Record Mk2"
+  },
+  "705617": {
+    "id": 705617,
+    "file": "data/assets/items/705617.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705617.png",
+    "name": "Lunar Embrace Mk2"
+  },
+  "705618": {
+    "id": 705618,
+    "file": "data/assets/items/705618.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705618.png",
+    "name": "Magic Lamp"
+  },
+  "705619": {
+    "id": 705619,
+    "file": "data/assets/items/705619.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705619.png",
+    "name": "Star Fragment"
+  },
+  "705620": {
+    "id": 705620,
+    "file": "data/assets/items/705620.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705620.png",
+    "name": "龙首簪"
+  },
+  "705621": {
+    "id": 705621,
+    "file": "data/assets/items/705621.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_705621.png",
+    "name": "Flower Mk2"
+  },
+  "802601": {
+    "id": 802601,
+    "file": "data/assets/items/802601.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_802601.png",
+    "name": "等离子血清"
+  },
+  "999999": {
+    "id": 999999,
+    "file": "data/assets/items/999999.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/ItemIcon_999999.png",
+    "name": "战术强化组件"
+  }
+}

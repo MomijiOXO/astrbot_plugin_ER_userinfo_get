@@ -1,0 +1,611 @@
+{
+  "1": {
+    "id": 1,
+    "file": "data/assets/characters/1.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Jackie_S000.png",
+    "name": "杰琪",
+    "key": "Jackie"
+  },
+  "2": {
+    "id": 2,
+    "file": "data/assets/characters/2.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Aya_S000.png",
+    "name": "阿雅",
+    "key": "Aya"
+  },
+  "3": {
+    "id": 3,
+    "file": "data/assets/characters/3.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Fiora_S000.png",
+    "name": "菲欧娜",
+    "key": "Fiora"
+  },
+  "4": {
+    "id": 4,
+    "file": "data/assets/characters/4.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Magnus_S000.png",
+    "name": "马格努斯",
+    "key": "Magnus"
+  },
+  "5": {
+    "id": 5,
+    "file": "data/assets/characters/5.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Zahir_S000.png",
+    "name": "扎希尔",
+    "key": "Zahir"
+  },
+  "6": {
+    "id": 6,
+    "file": "data/assets/characters/6.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Nadine_S000.png",
+    "name": "娜町",
+    "key": "Nadine"
+  },
+  "7": {
+    "id": 7,
+    "file": "data/assets/characters/7.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Hyunwoo_S000.png",
+    "name": "玄佑",
+    "key": "Hyunwoo"
+  },
+  "8": {
+    "id": 8,
+    "file": "data/assets/characters/8.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Hart_S000.png",
+    "name": "哈特",
+    "key": "Hart"
+  },
+  "9": {
+    "id": 9,
+    "file": "data/assets/characters/9.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Isol_S000.png",
+    "name": "埃索",
+    "key": "Isol"
+  },
+  "10": {
+    "id": 10,
+    "file": "data/assets/characters/10.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_LiDailin_S000.png",
+    "name": "李黛琳",
+    "key": "LiDailin"
+  },
+  "11": {
+    "id": 11,
+    "file": "data/assets/characters/11.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Yuki_S000.png",
+    "name": "雪",
+    "key": "Yuki"
+  },
+  "12": {
+    "id": 12,
+    "file": "data/assets/characters/12.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Hyejin_S000.png",
+    "name": "慧珍",
+    "key": "Hyejin"
+  },
+  "13": {
+    "id": 13,
+    "file": "data/assets/characters/13.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Xiukai_S000.png",
+    "name": "修凯",
+    "key": "Xiukai"
+  },
+  "14": {
+    "id": 14,
+    "file": "data/assets/characters/14.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Chiara_S000.png",
+    "name": "奇娅拉",
+    "key": "Chiara"
+  },
+  "15": {
+    "id": 15,
+    "file": "data/assets/characters/15.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Sissela_S000.png",
+    "name": "希瑟拉",
+    "key": "Sissela"
+  },
+  "16": {
+    "id": 16,
+    "file": "data/assets/characters/16.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Silvia_S000.png",
+    "name": "西尔维娅",
+    "key": "Silvia"
+  },
+  "17": {
+    "id": 17,
+    "file": "data/assets/characters/17.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Adriana_S000.png",
+    "name": "阿德瑞娜",
+    "key": "Adriana"
+  },
+  "18": {
+    "id": 18,
+    "file": "data/assets/characters/18.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Shoichi_S000.png",
+    "name": "彰一",
+    "key": "Shoichi"
+  },
+  "19": {
+    "id": 19,
+    "file": "data/assets/characters/19.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Emma_S000.png",
+    "name": "艾玛",
+    "key": "Emma"
+  },
+  "20": {
+    "id": 20,
+    "file": "data/assets/characters/20.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Lenox_S000.png",
+    "name": "伦诺克斯",
+    "key": "Lenox"
+  },
+  "21": {
+    "id": 21,
+    "file": "data/assets/characters/21.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Rozzi_S000.png",
+    "name": "洛兹",
+    "key": "Rozzi"
+  },
+  "22": {
+    "id": 22,
+    "file": "data/assets/characters/22.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Luke_S000.png",
+    "name": "卢克",
+    "key": "Luke"
+  },
+  "23": {
+    "id": 23,
+    "file": "data/assets/characters/23.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Cathy_S000.png",
+    "name": "凯希",
+    "key": "Cathy"
+  },
+  "24": {
+    "id": 24,
+    "file": "data/assets/characters/24.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Adela_S000.png",
+    "name": "阿德拉",
+    "key": "Adela"
+  },
+  "25": {
+    "id": 25,
+    "file": "data/assets/characters/25.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Bernice_S000.png",
+    "name": "伯尼斯",
+    "key": "Bernice"
+  },
+  "26": {
+    "id": 26,
+    "file": "data/assets/characters/26.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Barbara_S000.png",
+    "name": "芭芭拉",
+    "key": "Barbara"
+  },
+  "27": {
+    "id": 27,
+    "file": "data/assets/characters/27.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Alex_S000.png",
+    "name": "亚历克斯",
+    "key": "Alex"
+  },
+  "28": {
+    "id": 28,
+    "file": "data/assets/characters/28.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Sua_S000.png",
+    "name": "秀雅",
+    "key": "Sua"
+  },
+  "29": {
+    "id": 29,
+    "file": "data/assets/characters/29.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Leon_S000.png",
+    "name": "里昂",
+    "key": "Leon"
+  },
+  "30": {
+    "id": 30,
+    "file": "data/assets/characters/30.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Eleven_S000.png",
+    "name": "Eleven",
+    "key": "Eleven"
+  },
+  "31": {
+    "id": 31,
+    "file": "data/assets/characters/31.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Rio_S000.png",
+    "name": "莉央",
+    "key": "Rio"
+  },
+  "32": {
+    "id": 32,
+    "file": "data/assets/characters/32.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_William_S000.png",
+    "name": "威廉",
+    "key": "William"
+  },
+  "33": {
+    "id": 33,
+    "file": "data/assets/characters/33.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Nicky_S000.png",
+    "name": "妮琪",
+    "key": "Nicky"
+  },
+  "34": {
+    "id": 34,
+    "file": "data/assets/characters/34.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Nathapon_S000.png",
+    "name": "纳塔朋",
+    "key": "Nathapon"
+  },
+  "35": {
+    "id": 35,
+    "file": "data/assets/characters/35.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Jan_S000.png",
+    "name": "扬",
+    "key": "Jan"
+  },
+  "36": {
+    "id": 36,
+    "file": "data/assets/characters/36.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Eva_S000.png",
+    "name": "伊娃",
+    "key": "Eva"
+  },
+  "37": {
+    "id": 37,
+    "file": "data/assets/characters/37.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Daniel_S000.png",
+    "name": "丹尼尔",
+    "key": "Daniel"
+  },
+  "38": {
+    "id": 38,
+    "file": "data/assets/characters/38.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Jenny_S000.png",
+    "name": "珍妮",
+    "key": "Jenny"
+  },
+  "39": {
+    "id": 39,
+    "file": "data/assets/characters/39.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Camilo_S000.png",
+    "name": "卡米洛",
+    "key": "Camilo"
+  },
+  "40": {
+    "id": 40,
+    "file": "data/assets/characters/40.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Chloe_S000.png",
+    "name": "克洛伊",
+    "key": "Chloe"
+  },
+  "41": {
+    "id": 41,
+    "file": "data/assets/characters/41.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Johann_S000.png",
+    "name": "约翰",
+    "key": "Johann"
+  },
+  "42": {
+    "id": 42,
+    "file": "data/assets/characters/42.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Bianca_S000.png",
+    "name": "比安卡",
+    "key": "Bianca"
+  },
+  "43": {
+    "id": 43,
+    "file": "data/assets/characters/43.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Celine_S000.png",
+    "name": "席琳",
+    "key": "Celine"
+  },
+  "44": {
+    "id": 44,
+    "file": "data/assets/characters/44.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Echion_S000.png",
+    "name": "厄喀翁",
+    "key": "Echion"
+  },
+  "45": {
+    "id": 45,
+    "file": "data/assets/characters/45.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Mai_S000.png",
+    "name": "梅",
+    "key": "Mai"
+  },
+  "46": {
+    "id": 46,
+    "file": "data/assets/characters/46.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Aiden_S000.png",
+    "name": "艾登",
+    "key": "Aiden"
+  },
+  "47": {
+    "id": 47,
+    "file": "data/assets/characters/47.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Laura_S000.png",
+    "name": "劳拉",
+    "key": "Laura"
+  },
+  "48": {
+    "id": 48,
+    "file": "data/assets/characters/48.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Tia_S000.png",
+    "name": "蒂娅",
+    "key": "Tia"
+  },
+  "49": {
+    "id": 49,
+    "file": "data/assets/characters/49.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Felix_S000.png",
+    "name": "费利克斯",
+    "key": "Felix"
+  },
+  "50": {
+    "id": 50,
+    "file": "data/assets/characters/50.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Elena_S000.png",
+    "name": "埃琳娜",
+    "key": "Elena"
+  },
+  "51": {
+    "id": 51,
+    "file": "data/assets/characters/51.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Priya_S000.png",
+    "name": "普里亚",
+    "key": "Priya"
+  },
+  "52": {
+    "id": 52,
+    "file": "data/assets/characters/52.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Adina_S000.png",
+    "name": "阿迪娜",
+    "key": "Adina"
+  },
+  "53": {
+    "id": 53,
+    "file": "data/assets/characters/53.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Markus_S000.png",
+    "name": "马库斯",
+    "key": "Markus"
+  },
+  "54": {
+    "id": 54,
+    "file": "data/assets/characters/54.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Karla_S000.png",
+    "name": "卡拉",
+    "key": "Karla"
+  },
+  "55": {
+    "id": 55,
+    "file": "data/assets/characters/55.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Estelle_S000.png",
+    "name": "艾丝蒂尔",
+    "key": "Estelle"
+  },
+  "56": {
+    "id": 56,
+    "file": "data/assets/characters/56.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Piolo_S000.png",
+    "name": "皮奥洛",
+    "key": "Piolo"
+  },
+  "57": {
+    "id": 57,
+    "file": "data/assets/characters/57.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Martina_S000.png",
+    "name": "玛蒂娜",
+    "key": "Martina"
+  },
+  "58": {
+    "id": 58,
+    "file": "data/assets/characters/58.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Haze_S000.png",
+    "name": "海因茨",
+    "key": "Haze"
+  },
+  "59": {
+    "id": 59,
+    "file": "data/assets/characters/59.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Isaac_S000.png",
+    "name": "伊萨克",
+    "key": "Isaac"
+  },
+  "60": {
+    "id": 60,
+    "file": "data/assets/characters/60.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Tazia_S000.png",
+    "name": "塔齐娅",
+    "key": "Tazia"
+  },
+  "61": {
+    "id": 61,
+    "file": "data/assets/characters/61.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Irem_S000.png",
+    "name": "爱琳",
+    "key": "Irem"
+  },
+  "62": {
+    "id": 62,
+    "file": "data/assets/characters/62.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Theodore_S000.png",
+    "name": "西奥多",
+    "key": "Theodore"
+  },
+  "63": {
+    "id": 63,
+    "file": "data/assets/characters/63.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Lyanh_S000.png",
+    "name": "伊安",
+    "key": "Lyanh"
+  },
+  "64": {
+    "id": 64,
+    "file": "data/assets/characters/64.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Vanya_S000.png",
+    "name": "万尼亚",
+    "key": "Vanya"
+  },
+  "65": {
+    "id": 65,
+    "file": "data/assets/characters/65.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_DebiMarlene_S000.png",
+    "name": "黛比&玛莲",
+    "key": "DebiMarlene"
+  },
+  "66": {
+    "id": 66,
+    "file": "data/assets/characters/66.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Arda_S000.png",
+    "name": "阿尔达",
+    "key": "Arda"
+  },
+  "67": {
+    "id": 67,
+    "file": "data/assets/characters/67.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Abigail_S000.png",
+    "name": "艾比盖尔",
+    "key": "Abigail"
+  },
+  "68": {
+    "id": 68,
+    "file": "data/assets/characters/68.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Alonso_S000.png",
+    "name": "阿隆索",
+    "key": "Alonso"
+  },
+  "69": {
+    "id": 69,
+    "file": "data/assets/characters/69.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Leni_S000.png",
+    "name": "雷妮",
+    "key": "Leni"
+  },
+  "70": {
+    "id": 70,
+    "file": "data/assets/characters/70.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Tsubame_S000.png",
+    "name": "燕翼",
+    "key": "Tsubame"
+  },
+  "71": {
+    "id": 71,
+    "file": "data/assets/characters/71.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Kenneth_S000.png",
+    "name": "肯尼思",
+    "key": "Kenneth"
+  },
+  "72": {
+    "id": 72,
+    "file": "data/assets/characters/72.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Katja_S000.png",
+    "name": "卡缇娅",
+    "key": "Katja"
+  },
+  "73": {
+    "id": 73,
+    "file": "data/assets/characters/73.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Charlotte_S000.png",
+    "name": "夏洛特",
+    "key": "Charlotte"
+  },
+  "74": {
+    "id": 74,
+    "file": "data/assets/characters/74.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Darko_S000.png",
+    "name": "达尔科",
+    "key": "Darko"
+  },
+  "75": {
+    "id": 75,
+    "file": "data/assets/characters/75.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Lenore_S000.png",
+    "name": "莉诺尔",
+    "key": "Lenore"
+  },
+  "76": {
+    "id": 76,
+    "file": "data/assets/characters/76.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Garnet_S000.png",
+    "name": "盖瑞特",
+    "key": "Garnet"
+  },
+  "77": {
+    "id": 77,
+    "file": "data/assets/characters/77.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_YuMin_S000.png",
+    "name": "俞岷",
+    "key": "YuMin"
+  },
+  "78": {
+    "id": 78,
+    "file": "data/assets/characters/78.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Hisui_S000.png",
+    "name": "翡翠",
+    "key": "Hisui"
+  },
+  "79": {
+    "id": 79,
+    "file": "data/assets/characters/79.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Justyna_S000.png",
+    "name": "尤斯蒂娜",
+    "key": "Justyna"
+  },
+  "80": {
+    "id": 80,
+    "file": "data/assets/characters/80.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Istvan_S000.png",
+    "name": "伊舒特",
+    "key": "Istvan"
+  },
+  "81": {
+    "id": 81,
+    "file": "data/assets/characters/81.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Niah_S000.png",
+    "name": "妮娅",
+    "key": "Niah"
+  },
+  "82": {
+    "id": 82,
+    "file": "data/assets/characters/82.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Xuelin_S000.png",
+    "name": "雪琳",
+    "key": "Xuelin"
+  },
+  "83": {
+    "id": 83,
+    "file": "data/assets/characters/83.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Henry_S000.png",
+    "name": "亨利",
+    "key": "Henry"
+  },
+  "84": {
+    "id": 84,
+    "file": "data/assets/characters/84.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Blair_S000.png",
+    "name": "布莱尔",
+    "key": "Blair"
+  },
+  "85": {
+    "id": 85,
+    "file": "data/assets/characters/85.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Mirka_S000.png",
+    "name": "米尔卡",
+    "key": "Mirka"
+  },
+  "86": {
+    "id": 86,
+    "file": "data/assets/characters/86.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Fenrir_S000.png",
+    "name": "芬里尔",
+    "key": "Fenrir"
+  },
+  "87": {
+    "id": 87,
+    "file": "data/assets/characters/87.png",
+    "url": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/CharProfile_Coraline_S000.png",
+    "name": "卡洛琳",
+    "key": "Coraline"
+  }
+}

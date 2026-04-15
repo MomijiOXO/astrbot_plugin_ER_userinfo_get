@@ -1,0 +1,79 @@
+{
+  "0": {
+    "id": 0,
+    "file": "data/assets/tiers/0.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/0.png",
+    "name": "段位未鉴定",
+    "key": "Unrank"
+  },
+  "1": {
+    "id": 1,
+    "file": "data/assets/tiers/1.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/1.png",
+    "name": "铁阎",
+    "key": "Iron"
+  },
+  "2": {
+    "id": 2,
+    "file": "data/assets/tiers/2.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/2.png",
+    "name": "铜魂",
+    "key": "Bronze"
+  },
+  "3": {
+    "id": 3,
+    "file": "data/assets/tiers/3.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/3.png",
+    "name": "银烙",
+    "key": "Silver"
+  },
+  "4": {
+    "id": 4,
+    "file": "data/assets/tiers/4.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/4.png",
+    "name": "金魄",
+    "key": "Gold"
+  },
+  "5": {
+    "id": 5,
+    "file": "data/assets/tiers/5.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/5.png",
+    "name": "修罗",
+    "key": "Platinum"
+  },
+  "6": {
+    "id": 6,
+    "file": "data/assets/tiers/6.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/6.png",
+    "name": "灭钻",
+    "key": "Diamond"
+  },
+  "63": {
+    "id": 63,
+    "file": "data/assets/tiers/63.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/63.png?1",
+    "name": "星陨",
+    "key": "Meteorite"
+  },
+  "66": {
+    "id": 66,
+    "file": "data/assets/tiers/66.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/66.png",
+    "name": "无瑕",
+    "key": "Mithril"
+  },
+  "7": {
+    "id": 7,
+    "file": "data/assets/tiers/7.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/7.png",
+    "name": "半神",
+    "key": "Demigod"
+  },
+  "8": {
+    "id": 8,
+    "file": "data/assets/tiers/8.png",
+    "url": "https://cdn.dak.gg/assets/er/images/rank/round/8.png",
+    "name": "永恒",
+    "key": "Eternity"
+  }
+}

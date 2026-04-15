@@ -1,0 +1,1420 @@
+{
+  "traitSkillGroups": [
+    {
+      "key": "Havoc",
+      "name": "破坏型",
+      "tooltip": "强化攻击 & 持续性伤害",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Havoc02.png"
+    },
+    {
+      "key": "Fortification",
+      "name": "抵抗型",
+      "tooltip": "耐久性 & 负面效果",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Fortification02.png"
+    },
+    {
+      "key": "Support",
+      "name": "支援型",
+      "tooltip": "创新式的战斗辅助",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Support02.png"
+    },
+    {
+      "key": "Chaos",
+      "name": "混沌型",
+      "tooltip": "巨大的额外伤害&辅助技能",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_Chaos02.png"
+    }
+  ],
+  "traitSkills": [
+    {
+      "id": 7000201,
+      "name": "绝对武力",
+      "tooltip": "使用普攻或独立技能命中同一实验体3次时，将额外造成真实伤害并降低目标的防御力。",
+      "group": "Havoc",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000200.png",
+      "active": true,
+      "traitSortOrder": 101
+    },
+    {
+      "id": 7000401,
+      "name": "吸血鬼",
+      "tooltip": "每次普攻或独立技能对敌人实验体造成伤害时，增加[吸血 - 所有伤害]、攻击力或技能增幅 。 达到叠层上限时，将额外获得攻击力或技能增幅。",
+      "group": "Havoc",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000400.png",
+      "active": true,
+      "traitSortOrder": 102
+    },
+    {
+      "id": 7000501,
+      "name": "霹雳",
+      "tooltip": "使用技能命中敌方实验体造成技能伤害。 可以对远距离的敌人造成更加强大的伤害。 在技能命中实验体范围内存在距离最近的实验体时，电流会转移至最近的实验体，造成技能伤害。",
+      "group": "Chaos",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000500.png",
+      "active": true,
+      "traitSortOrder": 403
+    },
+    {
+      "id": 7000601,
+      "name": "肾上腺素",
+      "tooltip": "使用普攻对敌人实验体造成伤害时，增加攻击速度。 达到叠层上限时，额外增加攻击速度或移动速度。",
+      "group": "Havoc",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000600.png",
+      "active": true,
+      "traitSortOrder": 103
+    },
+    {
+      "id": 7000701,
+      "name": "加速度",
+      "tooltip": "大幅增加前?次普攻攻击速度，第?次普攻将造成额外伤害。",
+      "group": "Havoc",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7000700.png",
+      "active": true,
+      "traitSortOrder": 104
+    },
+    {
+      "id": 7010101,
+      "name": "制动力",
+      "tooltip": "增加防御穿透。",
+      "group": "None",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310400.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7010301,
+      "name": "吸灵",
+      "tooltip": "根据自身或召唤物造成的所有伤害恢复同等耐力值。",
+      "group": "None",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010300.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7010311,
+      "name": "内啡肽",
+      "tooltip": "根据自身或自身召唤物造成所有伤害恢复部分耐力。处于战斗状态时，将增加耐力再生。",
+      "group": "Havoc",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010310.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7010401,
+      "name": "沙漠化逆转",
+      "tooltip": "增加自身或自身的召唤物对非实验体的目标造成的伤害，造成的部分伤害将作为体力恢复。",
+      "group": "None",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010400.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7010501,
+      "name": "爆发力",
+      "tooltip": "目标实验体的体力上限大于自身体力上限时，增加造成的伤害。",
+      "group": "Havoc",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010500.png",
+      "active": true,
+      "traitSortOrder": 111
+    },
+    {
+      "id": 7010601,
+      "name": "吸灵装置",
+      "tooltip": "参与击杀熊、敌方实验体和终极野怪时将获得叠层。每叠层增加攻击力或技能增幅。",
+      "group": "Havoc",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010600.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7010701,
+      "name": "伤口撕裂",
+      "tooltip": "对敌人实验体造成伤害时，将在2秒间造成持续伤害。",
+      "group": "Chaos",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010700.png",
+      "active": true,
+      "traitSortOrder": 412
+    },
+    {
+      "id": 7010901,
+      "name": "狂乱",
+      "tooltip": "随着体力减少增加吸血 - 所有伤害。",
+      "group": "Havoc",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7010900.png",
+      "active": true,
+      "traitSortOrder": 112
+    },
+    {
+      "id": 7011001,
+      "name": "弱肉强食",
+      "tooltip": "增加对低体力敌人造成的伤害。",
+      "group": "Havoc",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011000.png",
+      "active": true,
+      "traitSortOrder": 113
+    },
+    {
+      "id": 7011101,
+      "name": "猎魂・熊",
+      "tooltip": "增加攻击力或技能增幅。当自己或附近的队友击杀熊、敌人实验体或者终极野怪时，将获得叠层。根据叠层可以额外获得攻击力或者技能增幅。",
+      "group": "Havoc",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011100.png",
+      "active": true,
+      "traitSortOrder": 121
+    },
+    {
+      "id": 7011201,
+      "name": "猎魂・野猪",
+      "tooltip": "增加体力上限。当自己或附近的队友击杀野猪、敌人实验体或者终极野怪时，将获得叠层。根据叠层可以额外提升体力上限。",
+      "group": "Havoc",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011200.png",
+      "active": true,
+      "traitSortOrder": 122
+    },
+    {
+      "id": 7011301,
+      "name": "猎魂・狼",
+      "tooltip": "增加攻击速度。当自己或附近的队友击杀狼、敌人实验体或者终极野怪时，将获得叠层。根据叠层可以额外获得攻击速度。",
+      "group": "Havoc",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011300.png",
+      "active": true,
+      "traitSortOrder": 123
+    },
+    {
+      "id": 7011401,
+      "name": "猎魂・野狗",
+      "tooltip": "增加吸血 - 所有伤害。当自己或附近的队友击杀野狗、敌人实验体或者终极野怪时，将获得叠层。根据叠层可以额外获得吸血 - 所有伤害。",
+      "group": "Havoc",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011400.png",
+      "active": true,
+      "traitSortOrder": 124
+    },
+    {
+      "id": 7011501,
+      "name": "伤痕",
+      "tooltip": "每次使用普攻或独立技能命中敌人实验体时，将降低其治愈效果。 使用普攻或独立技能命中叠层上限目标时，将造成额外的技能伤害。",
+      "group": "Havoc",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7011500.png",
+      "active": true,
+      "traitSortOrder": 114
+    },
+    {
+      "id": 7100101,
+      "name": "金刚碎片",
+      "tooltip": "成功将目标实验体陷入无法移动的状态时，增加防御力。 防御加益效果结束后立即对周围造成技能伤害。 承受伤害的目标移动速度有所减少。",
+      "group": "Fortification",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100100.png",
+      "active": true,
+      "traitSortOrder": 201
+    },
+    {
+      "id": 7100201,
+      "name": "铁匠的觉悟",
+      "tooltip": "使用武器技能时一定时间内处于铁匠的觉悟状态，减少承受伤害并增加负面效果抵御。",
+      "group": "Fortification",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100200.png",
+      "active": true,
+      "traitSortOrder": 202
+    },
+    {
+      "id": 7100401,
+      "name": "天使护翼",
+      "tooltip": "根据体力上限获得部分护盾。护盾被瓦解时立即解除负面效果并暂时增加移动速度。",
+      "group": "Fortification",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100400.png",
+      "active": true,
+      "traitSortOrder": 203
+    },
+    {
+      "id": 7100501,
+      "name": "惩戒",
+      "tooltip": "因敌方实验体失去体力时，将根据已失体力获得一定的叠层。 同时将根据持有的叠层数降低承受的伤害。 对敌人发起普攻时，消耗持有的叠层并造成技能伤害，此时也将减少敌人的移动速度。在一段时间内未消耗叠层时，将根据持有的叠层恢复体力。",
+      "group": "Fortification",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7100500.png",
+      "active": true,
+      "traitSortOrder": 204
+    },
+    {
+      "id": 7110101,
+      "name": "无惧感",
+      "tooltip": "使用技能获得护盾或体力恢复效果时，增加防御力。",
+      "group": "Fortification",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110100.png",
+      "active": true,
+      "traitSortOrder": 211
+    },
+    {
+      "id": 7110201,
+      "name": "特工队",
+      "tooltip": "周围没有队友时，将减少自身承受伤害。",
+      "group": "Fortification",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110200.png",
+      "active": true,
+      "traitSortOrder": 223
+    },
+    {
+      "id": 7110401,
+      "name": "钢化",
+      "tooltip": "负面效果抵御增加。",
+      "group": "Fortification",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110400.png",
+      "active": true,
+      "traitSortOrder": 221
+    },
+    {
+      "id": 7110601,
+      "name": "贪吃蛇",
+      "tooltip": "缩短使用食物所需时间。增加食用低恢复量食物时获得的恢复量。",
+      "group": "Fortification",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110600.png",
+      "active": true,
+      "traitSortOrder": 222
+    },
+    {
+      "id": 7110701,
+      "name": "不屈",
+      "tooltip": "使用终极技能时获得护盾。",
+      "group": "Fortification",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110700.png",
+      "active": true,
+      "traitSortOrder": 213
+    },
+    {
+      "id": 7110801,
+      "name": "露营指南",
+      "tooltip": "每晚可以获得?便携工具能量。 制作食物/饮料时，一段时间内非战斗状态下的移动速度将得到提高。 此外，大幅增加采集时获得优良食材的概率。",
+      "group": "Support",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110800.png",
+      "active": true,
+      "traitSortOrder": 324
+    },
+    {
+      "id": 7110901,
+      "name": "肉食主义",
+      "tooltip": "增加肉和肉制作食物的恢复量，使用后可以立即恢复一部分。",
+      "group": "Havoc",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7110900.png",
+      "active": false,
+      "traitSortOrder": 123
+    },
+    {
+      "id": 7111001,
+      "name": "镇痛剂",
+      "tooltip": "随着当前体力降低增强防御力。",
+      "group": "Fortification",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111000.png",
+      "active": true,
+      "traitSortOrder": 212
+    },
+    {
+      "id": 7111101,
+      "name": "警戒心",
+      "tooltip": "在体力低于一定范围的情况下受到敌人实验体伤害时，短时间内所受伤害减少。",
+      "group": "Fortification",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111100.png",
+      "active": true,
+      "traitSortOrder": 214
+    },
+    {
+      "id": 7111201,
+      "name": "淬火",
+      "tooltip": "进入第二天白天时，防御力将得到提升。此后，每隔一段时间防御力会进一步增加。",
+      "group": "Fortification",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7111200.png",
+      "active": true,
+      "traitSortOrder": 223
+    },
+    {
+      "id": 7200101,
+      "name": "超再生",
+      "tooltip": "自身技能或潜能生成的护盾和体力恢复量持续增加。 因自身获得护盾或体力恢复效果的目标，增加攻击力或技能增幅。",
+      "group": "Support",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200100.png",
+      "active": true,
+      "traitSortOrder": 301
+    },
+    {
+      "id": 7200201,
+      "name": "强化装置",
+      "tooltip": "使用终极技能时，会出现一个强化装置跟随自身。 强化装置可以给自身和周围队友增加移动速度和技能伤害量。",
+      "group": "Support",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200200.png",
+      "active": true,
+      "traitSortOrder": 302
+    },
+    {
+      "id": 7200301,
+      "name": "治愈装置",
+      "tooltip": "当自身或队友实验体体力低于一定程度以下承受伤害时，将出现一个跟随自身的治愈装置。 治愈装置每秒为给自身和周围队友恢复部分已失体力。",
+      "group": "Support",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200300.png",
+      "active": true,
+      "traitSortOrder": 303
+    },
+    {
+      "id": 7200401,
+      "name": "追击者",
+      "tooltip": "击杀敌人或者野生动物能够增加移向敌人实验体时的移动速度，根据击杀类型的不同恢复体力或者减少承受的伤害。",
+      "group": "None",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200400.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7200501,
+      "name": "无私",
+      "tooltip": "使用独立技能给敌人实验体造成伤害时，赋予自身和周围队友护盾效果。",
+      "group": "Support",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7200500.png",
+      "active": true,
+      "traitSortOrder": 304
+    },
+    {
+      "id": 7210101,
+      "name": "荆棘丛",
+      "tooltip": "置目标于无法移动的状态时，目标的治愈效果将减低、增加承受的所有伤害。",
+      "group": "Support",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210100.png",
+      "active": true,
+      "traitSortOrder": 312
+    },
+    {
+      "id": 7210401,
+      "name": "补给员",
+      "tooltip": "每晚都可以获得望远监视器。 物品格没有空位时，望远监视器将掉落在地上。",
+      "group": "Support",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210400.png",
+      "active": true,
+      "traitSortOrder": 321
+    },
+    {
+      "id": 7210501,
+      "name": "战争机器",
+      "tooltip": "每晚获得阔刀地雷。 物品格没有空位时，将掉落在地上。",
+      "group": "Support",
+      "type": "None",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210500.png",
+      "active": false,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7210801,
+      "name": "优惠券",
+      "tooltip": "在Kiosk以优惠价格购买物品。",
+      "group": "Support",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7210800.png",
+      "active": true,
+      "traitSortOrder": 323
+    },
+    {
+      "id": 7211001,
+      "name": "狩猎的快感",
+      "tooltip": "自身或自身召唤物对野生动物造成的伤害增加。 当参与击杀野生动物时，将根据已失体力恢复体力，并且移动速度会暂时提升，随后逐渐下降。",
+      "group": "Support",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211000.png",
+      "active": true,
+      "traitSortOrder": 311
+    },
+    {
+      "id": 7211101,
+      "name": "金币法则",
+      "tooltip": "每次参与击杀实验体时，可以额外获得荣誉值。",
+      "group": "Support",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211100.png",
+      "active": true,
+      "traitSortOrder": 322
+    },
+    {
+      "id": 7211301,
+      "name": "爆炸仙人掌",
+      "tooltip": "对敌人造成伤害时，将为目标附着持续一段时间的仙人掌。 当该敌人承受我方队友普攻或者独立技能造成的伤害时，仙人掌将爆炸并造成伤害。 持续时间内未触发时，仙人掌将自动爆炸，造成较低的伤害。",
+      "group": "Support",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211300.png",
+      "active": true,
+      "traitSortOrder": 314
+    },
+    {
+      "id": 7211401,
+      "name": "压迫感",
+      "tooltip": "增加自身周围敌人承受伤害。",
+      "group": "Support",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7211400.png",
+      "active": true,
+      "traitSortOrder": 313
+    },
+    {
+      "id": 7300101,
+      "name": "星尘蓄势",
+      "tooltip": "在一定时间内，激活?次不同的技能时，下一次普攻将造成额外伤害，并缩减自身基本技能冷却时间。",
+      "group": "Chaos",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300100.png",
+      "active": true,
+      "traitSortOrder": 401
+    },
+    {
+      "id": 7300201,
+      "name": "鬼火",
+      "tooltip": "在短时间内对敌人造成巨大伤害时，鬼火将攻击敌人，造成持续伤害并赋予减少治愈 - 强效果。",
+      "group": "Chaos",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300200.png",
+      "active": true,
+      "traitSortOrder": 402
+    },
+    {
+      "id": 7300301,
+      "name": "涡流",
+      "tooltip": "使用普攻或独立攻击命中同一实验体两次时，自身移动速度增加。移动速度增加效果结束时，将立即对周围造成技能伤害。根据承受伤害的实验体数量恢复自身体力。",
+      "group": "Chaos",
+      "type": "Core",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7300300.png",
+      "active": true,
+      "traitSortOrder": 403
+    },
+    {
+      "id": 7310101,
+      "name": "凝力",
+      "tooltip": "随着时间的推移，获得增加攻击力或技能增幅的适性值。",
+      "group": "Chaos",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310100.png",
+      "active": true,
+      "traitSortOrder": 421
+    },
+    {
+      "id": 7310201,
+      "name": "循环系统",
+      "tooltip": "使用技能时恢复体力。",
+      "group": "Chaos",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310200.png",
+      "active": true,
+      "traitSortOrder": 411
+    },
+    {
+      "id": 7310301,
+      "name": "超频",
+      "tooltip": "增加冷却缩减。 每累持有一定量的冷却缩减时，将获得额外属性。",
+      "group": "Chaos",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310300.png",
+      "active": true,
+      "traitSortOrder": 422
+    },
+    {
+      "id": 7310401,
+      "name": "制动力",
+      "tooltip": "对敌人实验体造成伤害时，将在短时间增加防御穿透。",
+      "group": "Chaos",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310400.png",
+      "active": true,
+      "traitSortOrder": 413
+    },
+    {
+      "id": 7310501,
+      "name": "R_echarger",
+      "tooltip": "缩减终极技能冷却时间。使用终极技能时暂时增加攻击力或技能增幅。",
+      "group": "Chaos",
+      "type": "Sub2",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310500.png",
+      "active": true,
+      "traitSortOrder": 423
+    },
+    {
+      "id": 7310601,
+      "name": "急速射击",
+      "tooltip": "使用技能后普攻命中敌人实验体时，将暂时增加攻击力或技能增幅，并提升攻击速度。",
+      "group": "Chaos",
+      "type": "Sub1",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/TraitSkillIcon_7310600.png",
+      "active": true,
+      "traitSortOrder": 414
+    },
+    {
+      "id": 7910101,
+      "name": "攻击力 I",
+      "tooltip": "增加攻击力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910111,
+      "name": "攻击力 II",
+      "tooltip": "攻击力增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910121,
+      "name": "攻击力 III",
+      "tooltip": "攻击力增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790010320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910201,
+      "name": "防御力 I",
+      "tooltip": "增加防御力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910211,
+      "name": "防御力 II",
+      "tooltip": "防御力增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910221,
+      "name": "防御力 III",
+      "tooltip": "防御力增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790020320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910301,
+      "name": "攻击速度 I",
+      "tooltip": "增加攻击速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910311,
+      "name": "攻击速度 II",
+      "tooltip": "攻击速度增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910321,
+      "name": "攻击速度 IIl",
+      "tooltip": "攻击速度增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790030320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910401,
+      "name": "移动速度 I",
+      "tooltip": "增加移动速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910411,
+      "name": "移动速度 II",
+      "tooltip": "移动速度增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910421,
+      "name": "移动速度 Ill",
+      "tooltip": "移动速度增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790040320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910501,
+      "name": "冷却缩减 I",
+      "tooltip": "增加冷却缩减量。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910511,
+      "name": "冷却缩减 Il",
+      "tooltip": "冷却缩减增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910521,
+      "name": "冷却缩减 Ill",
+      "tooltip": "冷却缩减增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790050320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910601,
+      "name": "暴击伤害 I",
+      "tooltip": "增加暴击率。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910611,
+      "name": "暴击伤害 Il",
+      "tooltip": "暴击伤害增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910621,
+      "name": "暴击伤害 Ill",
+      "tooltip": "暴击伤害增加?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_790080320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910701,
+      "name": "技能增幅 I",
+      "tooltip": "增加技能增幅。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910711,
+      "name": "技能增幅 Il",
+      "tooltip": "技能增幅增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7910721,
+      "name": "技能增幅 Ill",
+      "tooltip": "技能增幅增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920101,
+      "name": "铁壁 I",
+      "tooltip": "当前体力低于体力上限的?%时，增加防御力，所有伤害-吸血量。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920102,
+      "name": "铁壁 Il",
+      "tooltip": "当前体力低于体力上限的?%时，增加防御力，所有伤害-吸血量。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920103,
+      "name": "铁壁 Ill",
+      "tooltip": "自身当前体力低于一定值时，增加移动速度及体力再生。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792010120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920301,
+      "name": "寄生虫 I",
+      "tooltip": "用技能给敌人实验体造成伤害时，根据目标当前体力造成一定比例的真实伤害并恢复部分自身的当前体力。(冷却 : ?秒)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920302,
+      "name": "寄生虫 Il",
+      "tooltip": "用技能给敌人实验体造成伤害时，根据目标当前体力造成一定比例的真实伤害并恢复部分自身的当前体力。(冷却 : ?秒)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920303,
+      "name": "寄生虫 Ill",
+      "tooltip": "使用个别技能造成伤害时，对敌方目标造成真实伤害并恢复自身体力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792030120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920401,
+      "name": "壮烈牺牲 I",
+      "tooltip": "自身死亡一定时间后，范围内所有敌人悬空并造成目标已失体力?%的真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920402,
+      "name": "壮烈牺牲 Il",
+      "tooltip": "自身死亡一定时间后，范围内所有敌人悬空并造成目标已失体力?%的真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920403,
+      "name": "壮烈牺牲 Ill",
+      "tooltip": "自身死亡一定时间后，范围内的所有敌人将暂时陷入悬空并根据目标所失体力造成真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792040120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920501,
+      "name": "嗜睡虫 I",
+      "tooltip": "超过?秒未承受来自敌人的伤害时，每秒恢复已失体力的?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920502,
+      "name": "嗜睡虫 Il",
+      "tooltip": "超过?秒未承受来自敌人的伤害时，每秒恢复已失体力的?%。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920503,
+      "name": "嗜睡虫 Ill",
+      "tooltip": "在一定时间内未给敌人造成伤害时，每秒恢复体力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792050120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920603,
+      "name": "重生细胞",
+      "tooltip": "死亡一定时间后恢复体力并复活。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792060320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920701,
+      "name": "全能者 I",
+      "tooltip": "技能增幅增加?。 另外装备的每一个能量灌注增加?%技能增幅。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920702,
+      "name": "全能者 Il",
+      "tooltip": "技能增幅增幅?。 另外装备的每一个能量灌注增加?%技能增幅。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920703,
+      "name": "全能者 Ill",
+      "tooltip": "技能增幅增幅?。 另外装备的每一个能量灌注增加?%技能增幅。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792070120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920801,
+      "name": "女巫沼泽 I",
+      "tooltip": "死亡时，?秒间生成使一定范围内敌人实验体移动速度减少?%，防御力减少?%的沼泽。 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920802,
+      "name": "女巫沼泽 Il",
+      "tooltip": "自身在死亡时，生成可减少移动速度及防御力的沼泽。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920803,
+      "name": "女巫沼泽 Ill",
+      "tooltip": "死亡时，?秒间生成使一定范围内敌人实验体移动速度减少?%，防御力减少?%的沼泽。 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792080120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7920903,
+      "name": "缄口令",
+      "tooltip": "使用武器技能的一小段时间后，范围内的所有敌方实验体都将暂时陷入沉默。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792090320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921003,
+      "name": "等离子新星",
+      "tooltip": "使用武器技能的一段时间后，对范围内所有敌人造成真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792100320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921101,
+      "name": "时间探索者 I",
+      "tooltip": "使用终极技能时，缩减基本技能的冷却时间?%。(冷却: ?秒) 冷却状态下使用基本技能时，缩减能量灌注的冷却时间?秒。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921102,
+      "name": "时间探索者 Il",
+      "tooltip": "使用终极技能时，缩减基本技能的冷却时间?%。(冷却: ?秒) 冷却状态下使用基本技能时，缩减能量灌注的冷却时间?秒。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921103,
+      "name": "时间探索者",
+      "tooltip": "使用终极技能时，缩减基本技能的冷却时间。 使用基本技能时，缩减冷却时间。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792110120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921203,
+      "name": "大力士",
+      "tooltip": "使用终极技能时，进入负面效果免疫的状态并增加移动速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792120320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921301,
+      "name": "充能过量 I",
+      "tooltip": "对于自身或队友占领的增幅装置，每个装置额外增加?%效果。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921302,
+      "name": "充能过量 Il",
+      "tooltip": "增加防御穿透和体力上限。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921303,
+      "name": "充能过量",
+      "tooltip": "防御穿透增加?，体力上限增加?。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792130120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921401,
+      "name": "收藏家 I",
+      "tooltip": "每持有?个荣誉值时，对敌人实验体和其召唤物造成的伤害增加?%。(叠层上限: ?)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921402,
+      "name": "收藏家 Il",
+      "tooltip": "根据持有的荣誉值数量，成比例增加对敌人实验体和其召唤物造成的伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921403,
+      "name": "收藏家 Ill",
+      "tooltip": "每持有?个荣誉值时，对敌人实验体和其召唤物造成的伤害增加?%。(叠层上限: ?)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792140120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921501,
+      "name": "迷失森林 I",
+      "tooltip": "使用个别技能对敌人实验体造成伤时，目标将在?秒间处于跳舞状态。(冷却 : ?秒) 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921502,
+      "name": "迷失森林 Il",
+      "tooltip": "使用个别技能对敌人实验体造成伤时，目标将在?秒间处于跳舞状态。(冷却 : ?秒) 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921503,
+      "name": "迷失森林",
+      "tooltip": "使用个别技能对敌人实验体造成伤时，目标将在?秒间处于跳舞状态。(冷却 : ?秒) 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792150120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921602,
+      "name": "救生袋",
+      "tooltip": "增加自身的治愈包获得的恢复效果，恢复的同时获得护盾。在获得救生袋提供护盾效果的持续期间内，移动速度增加。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792160220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921701,
+      "name": "机动突击队 I",
+      "tooltip": "通过加速边界后的?秒间使用普攻命中敌人时，造成?额外真实伤害，并减少敌人的移动速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921702,
+      "name": "机动突击队 Il",
+      "tooltip": "通过加速边界后的?秒间使用普攻命中敌人时，造成?额外真实伤害，并减少敌人的移动速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921703,
+      "name": "机动突击队",
+      "tooltip": "通过加速边界时，一定时间内强化下一个普攻。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792170120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7921903,
+      "name": "瓦尔基里驱动",
+      "tooltip": "自身体力低于一定量的状态下承受来自敌人实验体的伤害时，启动[瓦尔基里驱动: 护盾] 效果。 [瓦尔基里驱动: 护盾] 3秒间获得护盾效果并增加移动速度。 瞬间移动一定距离（冷却: 30秒）。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792190220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922003,
+      "name": "A.M.D.S",
+      "tooltip": "A.M.D.S屏障已启动。 A.M.D.S屏障暂时无视敌人造成的技能、武器技能和物品技能的技能效果以及伤害。 向破坏屏障的敌方实验体发射‘无法躲避的导弹’。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792200320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922102,
+      "name": "地震波",
+      "tooltip": "对敌人实验体使用普攻时将发射冲击波，对范围内的敌人造成技能伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792210220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922201,
+      "name": "伤口恶化 I",
+      "tooltip": "对敌人实验体使用普攻会形成伤口，每一叠层造成额外真实伤害。 (叠层上限: ?)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922202,
+      "name": "伤口恶化 Il",
+      "tooltip": "对敌人实验体使用普攻会形成伤口，每一叠层造成额外真实伤害。 (叠层上限: ?)",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922203,
+      "name": "伤口恶化",
+      "tooltip": "对敌人实验体使用普攻会形成伤口，每一叠层造成额外真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792220120.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922302,
+      "name": "制动力",
+      "tooltip": "增加防御穿透。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792230220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922402,
+      "name": "吸灵 Mk2",
+      "tooltip": "根据自身或召唤物造成伤害量，恢复部分体力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792240220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922502,
+      "name": "强心针",
+      "tooltip": "承受暴击伤害已减少。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792250220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922602,
+      "name": "钢化",
+      "tooltip": "增加负面效果抵御。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792260220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922702,
+      "name": "荆棘丛",
+      "tooltip": "处于无法移动状态，一段时间内治愈效果降低且承受伤害增加。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792270220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922803,
+      "name": "代理人",
+      "tooltip": "使用普攻或是技能造成伤害时，赋予真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792280320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7922903,
+      "name": "毒脚印",
+      "tooltip": "移动时留下毒脚印，每秒造成真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792290320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923101,
+      "name": "山鸣 I",
+      "tooltip": "攻击力永久减少?%。 普攻伤害适用2次。 (冷却: ?秒) 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923102,
+      "name": "山鸣 II",
+      "tooltip": "攻击力永久减少?%。 普攻伤害适用2次。 (冷却: ?秒) 队伍库存：1",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923103,
+      "name": "山鸣",
+      "tooltip": "普攻伤害适用2次。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792310320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923302,
+      "name": "超频",
+      "tooltip": "增加冷却缩减。 每累持有一定量的冷却缩减时，将获得额外属性。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792380220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923401,
+      "name": "重力场",
+      "tooltip": "将范围内的所有敌方实验体拉至自身周围，使其晕厥并造成真实伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792600320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923411,
+      "name": "滚雷",
+      "tooltip": "一段时间后，移动速度逐渐增加，对首个碰撞的敌人造成技能伤害并击退敌人。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792700320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923421,
+      "name": "地碎",
+      "tooltip": "向指定方向的地面生成粉碎区域，一段时间后对敌人造成和敌人当前体力成比例的真实伤害，并使敌人陷入晕厥，降低其移动速度。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792800320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923502,
+      "name": "不屈",
+      "tooltip": "使用终极技能时获得护盾。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792370220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923602,
+      "name": "镇痛剂",
+      "tooltip": "随着当前体力降低增强防御力。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792360220.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923703,
+      "name": "最后通牒",
+      "tooltip": "普攻对敌人实验体造成伤害时，将造成技能伤害并增加短时间内的防御穿透。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792350320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923803,
+      "name": "刹那的梦魇",
+      "tooltip": "使用独立技能对敌人实验体造成伤害时，将暂时降低目标防御力。 减益持续时间结束后，造成技能伤害。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792340320.png",
+      "active": true,
+      "traitSortOrder": 1
+    },
+    {
+      "id": 7923903,
+      "name": "卡特罗兹",
+      "tooltip": "使用独立技能对敌人实验体造成伤害时，将向目标所在位置发射激光。",
+      "group": "Cobalt",
+      "type": "Cobalt",
+      "imageUrl": "https://cdn.dak.gg/assets/er/game-assets/10.6.0/InfusionSkillIcon_792330320.png",
+      "active": true,
+      "traitSortOrder": 1
+    }
+  ]
+}
